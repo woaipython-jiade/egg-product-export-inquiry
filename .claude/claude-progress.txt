@@ -70,9 +70,45 @@ Status: COMPLETE
 - Content collections use path-based IDs (zh/ prefix for Chinese)
 - Design system persisted in design-system/MASTER.md
 
-## Next Phase Ideas (Phase 3)
+## Phase 3: Content Quality Rewrite — Official Sources & Regulatory Specifics
+Status: COMPLETE
+
+### Critical User Requirement
+User feedback: All content was too generic. Required specific, actionable regulatory information extracted from each country's official government websites, with direct links and source citations.
+
+### Market Pages Rewritten (6 markets × 2 languages = 12 files)
+- [x] Hong Kong & Macau — Added Cap. 132AK, Form FEHB 295, CFS microbiological guidelines, HK$195 registration fee, melamine/Sudan dye limits, IAM 3-day advance notice, 8 source URLs
+- [x] Singapore — Added SFA two-tier licensing (Trader License + TradeNet), ADOS database, Food Regulations Eighteenth/Tenth Schedule MRLs, tilmicosin/fluoroquinolone zero tolerance, Food Safety and Security Act 2025, 8 source URLs
+- [x] Japan — Added FAINS/NACCS notification system, three-tier inspection escalation (document→monitoring→ordered), positive list 0.01 ppm default, FFCR MRL database URL, MAFF HPAI suspension mechanism, Food Labeling Act allergen declaration, 9 source URLs
+- [x] Malaysia — Added Food Act 1983/Food Regulations 1985, JAKIM foreign halal CB recognition process, MAQIS import procedures, labeling in Bahasa Malaysia, 9 source URLs
+- [x] EU — Added Commission Implementing Regulation (EU) 2021/405 (third-country listing), Regulation (EC) No 853/2004, RASFF portal, DG SANTE audit process, TRACES system, 7 source URLs
+- [x] US — Added Egg Products Inspection Act (21 USC §1031), 9 CFR Part 590, FSIS equivalence process, FDA FURLS/FSVP (21 CFR Part 1), Section 301 tariffs, HTSUS lookup, 7 source URLs
+
+### Guides Rewritten (3 guides × 2 languages = 6 files)
+- [x] GACC Registration — Added Decree 248/249 references, CIFER system URL, Internet+ Customs portal, GB standard numbers with effective dates, CNAS lab requirements, 4-year registration validity, 9 source URLs
+- [x] Health Certificate — Added Single Window platform URL, destination-specific certificate formats, minimum testing panel with GB method numbers, application timeline (7+ business days), 5 source URLs
+- [x] Residue Compliance — Added GB 31650-2019 MRL table with specific values, MOA Announcement 250/2292/176, destination-specific risk matrix, LOD requirements per substance, CNAS lab directory URL, 8 source URLs
+
+### Build Verification
+- 26 pages generated successfully
+- Build time: ~8.4s
+- All EN/ZH pairs render correctly
+- Content includes specific regulation numbers, form names, fee amounts, and official portal URLs
+
+---
+
+## Architecture Decisions
+- Astro v5 with content layer API (glob loader, render() function)
+- Tailwind v3 (required by @astrojs/tailwind v6)
+- Fontsource for self-hosted Inter + Noto Sans SC fonts
+- Manual i18n routing (/en/ and /zh/ prefix)
+- Content collections use path-based IDs (zh/ prefix for Chinese)
+- Design system persisted in design-system/MASTER.md
+
+## Next Phase Ideas (Phase 4)
 - Add P1 content: South Korea, GCC markets
 - SEO setup: sitemap, Open Graph meta tags
 - Production deployment (HK VPS + CDN)
 - Legal disclaimer page
 - Search functionality
+- Verify all external URLs are live and correct
