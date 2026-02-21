@@ -53,10 +53,10 @@ summaryZh: "新加坡通过SFA两级许可制度（贸易商执照+逐批TradeNe
 
 在启动出口流程前，请在SFA数据库中确认中国的当前认可状态：
 
-- **ADOS数据库**：SFA的认可/批准/声明/其他来源数据库列出了所有被批准向新加坡出口特定食品类别的国家
-- **访问方式**：通过[SFA网站](https://www.sfa.gov.sg/food-import-export/commercial-food-imports/accredited-approved-declared-other-sources)
-- **查验内容**：确认"蛋及蛋制品"类别显示中国（中华人民共和国）为认可来源
-- **注意**：在食品安全事件或疫病暴发期间，认可资格可能被暂停
+- **ADOS交互式数据库**：在[SFA ADOS数据库](https://www.sfa.gov.sg/tools-and-resources/accreditation-database-for-overseas-sources)中按国家和产品类型搜索 — 选择"China"和"Eggs & Egg Products"
+- **批准国家PDF**：下载完整名单 [SFA批准国家/地区（PDF）](https://www.sfa.gov.sg/docs/default-source/food-import-and-export/list_of_approved_countries_regions.pdf)
+- **重要**：批准在**两个层级**授予 — 产品类别的国家级批准和单个企业的认可。两者均须确认。
+- **注意**：在食品安全事件或疫病暴发期间，认可资格可能被暂停 — 关注[SFA贸易通告](https://www.sfa.gov.sg/news-publications/circulars-and-notices)了解最新动态
 
 ---
 
@@ -166,10 +166,14 @@ SFA根据**《食品条例》**（《食品销售法》附属法例）执行标�
 ## 信息来源
 
 - SFA — 商业食品进口概览：[https://www.sfa.gov.sg/food-import-export/commercial-food-imports](https://www.sfa.gov.sg/food-import-export/commercial-food-imports)
-- SFA — ADOS（认可/批准/声明/其他来源）：[https://www.sfa.gov.sg/food-import-export/commercial-food-imports/accredited-approved-declared-other-sources](https://www.sfa.gov.sg/food-import-export/commercial-food-imports/accredited-approved-declared-other-sources)
+- SFA — ADOS交互式数据库（按国家和产品搜索）：[https://www.sfa.gov.sg/tools-and-resources/accreditation-database-for-overseas-sources](https://www.sfa.gov.sg/tools-and-resources/accreditation-database-for-overseas-sources)
+- SFA — 批准国家/地区名单（PDF）：[https://www.sfa.gov.sg/docs/default-source/food-import-and-export/list_of_approved_countries_regions.pdf](https://www.sfa.gov.sg/docs/default-source/food-import-and-export/list_of_approved_countries_regions.pdf)
+- SFA — 食品中兽药MRL（PDF，附表十八完整数值）：[https://www.sfa.gov.sg/docs/default-source/regulatory-standards-frameworks-and-guidelines/veterinary-drug-residues.pdf](https://www.sfa.gov.sg/docs/default-source/regulatory-standards-frameworks-and-guidelines/veterinary-drug-residues.pdf)
 - SFA — 《食品条例》（附属法例）：[https://sso.agc.gov.sg/SL/SFA1973-RG1](https://sso.agc.gov.sg/SL/SFA1973-RG1)
-- SFA — 食品标签要求：[https://www.sfa.gov.sg/food-information/food-labelling](https://www.sfa.gov.sg/food-information/food-labelling)
-- SFA — 《2025年食品安全与保障法》：[https://www.sfa.gov.sg/food-safety-security-bill](https://www.sfa.gov.sg/food-safety-security-bill)
-- 新加坡法规 — 《食品销售法》1973：[https://sso.agc.gov.sg/Act/SFA1973](https://sso.agc.gov.sg/Act/SFA1973)
+- SFA — 进口执照/许可要求：[https://www.sfa.gov.sg/food-import-export/licence-permit-registration/requirements-for-licence-permit-registration-for-import-export](https://www.sfa.gov.sg/food-import-export/licence-permit-registration/requirements-for-licence-permit-registration-for-import-export)
+- SFA — 食品标签要求：[https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-labelling-packaging-guidelines/labelling-requirements-for-food](https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-labelling-packaging-guidelines/labelling-requirements-for-food)
+- SFA — 《2025年食品安全与保障法》：[https://sso.agc.gov.sg/Act/FSSA2025](https://sso.agc.gov.sg/Act/FSSA2025)
+- SFA — 食品中污染物限量：[https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-safety-regulatory-limits/regulatory-limits-for-contaminants-in-food](https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-safety-regulatory-limits/regulatory-limits-for-contaminants-in-food)
+- SFA — 特定食品进口要求（PDF）：[https://www.sfa.gov.sg/docs/default-source/tools-and-resources/import-requirements-of-specific-food-products.pdf](https://www.sfa.gov.sg/docs/default-source/tools-and-resources/import-requirements-of-specific-food-products.pdf)
 - 新加坡TradeNet系统：[https://www.tradenet.gov.sg](https://www.tradenet.gov.sg)
 - 海关总署 — 出口食品生产企业注册：[https://www.customs.gov.cn](https://www.customs.gov.cn)

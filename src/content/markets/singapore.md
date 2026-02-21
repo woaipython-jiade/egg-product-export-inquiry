@@ -53,10 +53,10 @@ For **each shipment**, the importer must apply for an import permit via Singapor
 
 Before beginning the export process, verify China's current accreditation status in SFA's database:
 
-- **ADOS Database**: SFA's Accredited/Approved/Declared/Other Sources database lists all countries approved to export specific food categories to Singapore
-- **Access**: Available through [SFA's website](https://www.sfa.gov.sg/food-import-export/commercial-food-imports/accredited-approved-declared-other-sources)
-- **Check**: Verify "Egg and Egg Products" category shows China (People's Republic of) as an accredited source
-- **Note**: Accreditation can be suspended during food safety incidents or disease outbreaks
+- **ADOS Interactive Database**: Search by country and product type at [SFA ADOS Database](https://www.sfa.gov.sg/tools-and-resources/accreditation-database-for-overseas-sources) — select "China" and "Eggs & Egg Products"
+- **Approved Countries PDF**: Download the full list at [SFA Approved Countries/Regions (PDF)](https://www.sfa.gov.sg/docs/default-source/food-import-and-export/list_of_approved_countries_regions.pdf)
+- **Important**: Approval is granted at **two levels** — country-level approval for the product category AND individual establishment-level accreditation. Both must be confirmed.
+- **Note**: Accreditation can be suspended during food safety incidents or disease outbreaks — monitor [SFA Trade Circulars](https://www.sfa.gov.sg/news-publications/circulars-and-notices) for updates
 
 ---
 
@@ -166,10 +166,14 @@ All pre-packaged egg products must comply with SFA labeling regulations:
 ## Sources
 
 - SFA — Commercial Food Imports Overview: [https://www.sfa.gov.sg/food-import-export/commercial-food-imports](https://www.sfa.gov.sg/food-import-export/commercial-food-imports)
-- SFA — ADOS (Accredited/Approved/Declared/Other Sources): [https://www.sfa.gov.sg/food-import-export/commercial-food-imports/accredited-approved-declared-other-sources](https://www.sfa.gov.sg/food-import-export/commercial-food-imports/accredited-approved-declared-other-sources)
+- SFA — ADOS Interactive Database (search by country and product): [https://www.sfa.gov.sg/tools-and-resources/accreditation-database-for-overseas-sources](https://www.sfa.gov.sg/tools-and-resources/accreditation-database-for-overseas-sources)
+- SFA — List of Approved Countries/Regions (PDF): [https://www.sfa.gov.sg/docs/default-source/food-import-and-export/list_of_approved_countries_regions.pdf](https://www.sfa.gov.sg/docs/default-source/food-import-and-export/list_of_approved_countries_regions.pdf)
+- SFA — Veterinary Drug MRLs in Food (PDF, full Eighteenth Schedule values): [https://www.sfa.gov.sg/docs/default-source/regulatory-standards-frameworks-and-guidelines/veterinary-drug-residues.pdf](https://www.sfa.gov.sg/docs/default-source/regulatory-standards-frameworks-and-guidelines/veterinary-drug-residues.pdf)
 - SFA — Food Regulations (subsidiary legislation): [https://sso.agc.gov.sg/SL/SFA1973-RG1](https://sso.agc.gov.sg/SL/SFA1973-RG1)
-- SFA — Labelling Requirements for Food Products: [https://www.sfa.gov.sg/food-information/food-labelling](https://www.sfa.gov.sg/food-information/food-labelling)
-- SFA — Food Safety and Security Act 2025: [https://www.sfa.gov.sg/food-safety-security-bill](https://www.sfa.gov.sg/food-safety-security-bill)
-- Singapore Statutes — Sale of Food Act 1973: [https://sso.agc.gov.sg/Act/SFA1973](https://sso.agc.gov.sg/Act/SFA1973)
+- SFA — Import Licence/Permit Requirements: [https://www.sfa.gov.sg/food-import-export/licence-permit-registration/requirements-for-licence-permit-registration-for-import-export](https://www.sfa.gov.sg/food-import-export/licence-permit-registration/requirements-for-licence-permit-registration-for-import-export)
+- SFA — Labelling Requirements for Food Products: [https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-labelling-packaging-guidelines/labelling-requirements-for-food](https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-labelling-packaging-guidelines/labelling-requirements-for-food)
+- SFA — Food Safety and Security Act 2025: [https://sso.agc.gov.sg/Act/FSSA2025](https://sso.agc.gov.sg/Act/FSSA2025)
+- SFA — Regulatory Limits for Contaminants in Food: [https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-safety-regulatory-limits/regulatory-limits-for-contaminants-in-food](https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-safety-regulatory-limits/regulatory-limits-for-contaminants-in-food)
+- SFA — Import Requirements for Specific Food Products (PDF): [https://www.sfa.gov.sg/docs/default-source/tools-and-resources/import-requirements-of-specific-food-products.pdf](https://www.sfa.gov.sg/docs/default-source/tools-and-resources/import-requirements-of-specific-food-products.pdf)
 - Singapore TradeNet System: [https://www.tradenet.gov.sg](https://www.tradenet.gov.sg)
 - GACC — Export Food Producer Registration: [https://www.customs.gov.cn](https://www.customs.gov.cn)
