@@ -42,14 +42,16 @@ The GSO sets unified technical regulations and standards for the GCC. Key standa
 
 | Standard | Title | Scope |
 |----------|-------|-------|
-| **GSO 9** | Labeling of Prepackaged Foodstuffs | Mandatory labeling requirements for all prepackaged foods |
-| **GSO 150** | General Requirements for Food Additives | Permitted additives and maximum levels |
-| **GSO 382** | Microbiological Criteria of Foodstuffs | Microbiological limits for food products |
-| **GSO 839** | Egg Products | Specific standards for processed egg products |
-| **GSO 2055-1** | Requirements for Halal Food — Part 1 | General requirements for halal food products |
-| **GSO 2055-2** | Requirements for Halal Food — Part 2 | Requirements for slaughterhouses and processing plants |
-| **GSO 21** | Maximum Limits of Contaminants in Food | Heavy metal and contaminant limits |
-| **GSO 193** | General Standard for Contaminants and Toxins | Aligned with Codex STAN 193 |
+| **GSO 2351:2014** | Hygienic Practices for Eggs and Egg Products | **Core egg standard** — covers production, storage, packing, transport, processing of whole eggs, egg yolk, egg albumen, pasteurized/liquid/frozen/dried products |
+| **GSO 9:2022** | Labeling of Prepackaged Foodstuffs | Mandatory labeling requirements for all prepackaged foods |
+| **GSO 150:2021** | Expiration Dates for Food Products | Mandatory shelf-life dating |
+| **GSO 2500:2022** | Additives Permitted for Use in Food Stuffs | Permitted additives and maximum levels (Codex INS aligned) |
+| **GSO 382:2020** | Maximum Levels of Pesticide Residues | MRLs in mg/kg for agricultural and food products |
+| **GSO 2481:2015** | Maximum Residue Limits (MRLs) of Veterinary Drugs in Food | Veterinary drug residues in eggs and other foods |
+| **GSO 2055-1:2015** | Halal Food — Part 1: General Requirements | All stages of halal food chain |
+| **GSO 2055-2:2021** | Halal Products — Part 2: Halal Certification Bodies | Requirements for halal CBs, accreditation by GAC/EIAC |
+| **GSO 193:2021** | Contaminants and Toxins in Food and Feed | Heavy metals, mycotoxins, other contaminants (Codex STAN 193 aligned) |
+| **GSO 839:2021** | General Requirements for Food Packaging | Packaging materials and standards |
 
 ### GSO Technical Regulations (Mandatory)
 
@@ -75,15 +77,19 @@ Halal certification is **mandatory** for all meat and animal-derived products im
 | Scope | Covers production, processing, storage, transport | Same |
 | Strictness | Moderate — focuses on ingredient compliance and process | Very strict — facility-level audits |
 
-### Accepted Halal Certification Bodies
+### Halal Certification Body Accreditation
 
-GCC states generally accept halal certificates from a broader range of certification bodies compared to Malaysia. Common accepted bodies include:
+GCC states require halal CBs to be accredited by recognized accreditation bodies. Key accreditation authorities:
 
-- **Islamic Food and Nutrition Council of America (IFANCA)**
-- **Halal Food Authority (HFA)** — UK
-- **Islamic Services of America (ISA)**
-- **Recognised Chinese halal CBs** — varies by member state; verify with the specific importing country's authority
-- Other internationally recognized halal certification bodies accredited to GSO 2055
+| Authority | Scope | URL |
+|-----------|-------|-----|
+| **GAC (GCC Accreditation Center)** | GCC-wide halal CB accreditation per GSO 2055-2:2021 | [gac.org.sa](https://gac.org.sa/services/accreditation-of-halal-certification-bodies/) |
+| **EIAC (Emirates International Accreditation Centre)** | UAE halal CB accreditation | [eiac.gov.ae](https://eiac.gov.ae/directory?filter=Halal+Certification+Bodies) |
+| **MoIAT** | UAE registered halal CB list | [moiat.gov.ae](https://moiat.gov.ae/en/programs/halal/registered-halal-certification-bodies) |
+
+Accepted international bodies include IFANCA, AHF (American Halal Foundation), and others — **but only if accredited by GAC, EIAC, or equivalent recognized accreditation body**. Chinese halal CBs must verify their accreditation status with the specific importing GCC country's authority.
+
+> **Important**: JAKIM certification alone may **not** be automatically accepted in GCC countries — the halal standards (GSO 2055 vs. MS 1500) are distinct systems.
 
 ### Key Halal Compliance Points for Egg Products
 
@@ -107,30 +113,32 @@ Saudi Arabia is the largest GCC market. The **Saudi Food and Drug Authority (SFD
 
 | System | Purpose | URL |
 |--------|---------|-----|
-| **SABER** | Product conformity certification platform | [saber.sa](https://saber.sa/) |
-| **SALEEM** | Food import permit and traceability system | [saleem.sfda.gov.sa](https://saleem.sfda.gov.sa/) |
+| **Ghad Platform** | SFDA E-services — foreign facility registration, product registration | [sfda.gov.sa/en/imported-food](https://sfda.gov.sa/en/imported-food) |
+| **SABER** | Product conformity certification (operated by SASO) | [saber.sa](https://saber.sa/) |
+| **SALEEM** | Food certification scheme within SABER; conformity assessment | [saleem.sfda.gov.sa](https://saleem.sfda.gov.sa/) |
 
 ### SFDA Import Process
 
-1. **Product registration**: Foreign manufacturer registers products on **SABER** and obtains a **Product Conformity Certificate (PCoC)** through an SFDA-recognized conformity body
-2. **Shipment Certificate (SCoC)**: Per-consignment certificate issued through SABER before shipment
-3. **SALEEM registration**: The Saudi importer registers on SALEEM for food traceability
-4. **Import permit**: Saudi importer obtains import permit through SALEEM
+1. **Facility registration**: Foreign manufacturer registers through the **Ghad electronic platform** — requires government-issued license, GMP, ISO 22000 or FSSC 22000. **Importer registration valid 5 years**.
+2. **Product registration**: Each food product individually registered via Ghad for approval
+3. **Conformity certification**: Importer connects through **SABER** to conformity assessment bodies to obtain **Product Certificate of Conformity (PCoC)**
+4. **Import permit**: Importer obtains SFDA import permit specifying establishment name, approval number, country of origin, product type, and 6-month quantity planning
 5. **Border inspection**: SFDA inspectors conduct document verification, physical inspection, and sampling at port of entry
 6. **Release or rejection**: Compliant goods cleared; non-compliant goods rejected, re-exported, or destroyed
 
-### SFDA Key Requirements
+### SFDA Key Requirements for Egg Products
 
 | Requirement | Detail |
 |-------------|--------|
-| Facility registration | Foreign food facilities must be registered with SFDA |
-| Health certificate | Official veterinary/health certificate from GACC |
-| Halal certificate | From an SFDA-accepted certification body |
+| Facility registration | Via Ghad platform — GMP + ISO 22000/FSSC 22000 required |
+| **Pasteurization** | **Mandatory** for liquid eggs, powdered eggs, and frozen egg products — pasteurization certification required |
+| Health certificate | Signed and stamped by official inspector in country of origin |
+| Halal certificate | From a GAC/EIAC-accredited certification body |
 | Lab analysis | Certificate of Analysis from an accredited laboratory |
 | Shelf life | Minimum **50% remaining shelf life** at time of import |
 | Free sale certificate | Certificate proving product is legally sold in country of origin |
 
-**Source**: [SFDA Official Website](https://www.sfda.gov.sa/en) | [SFDA Food Sector](https://www.sfda.gov.sa/en/food)
+**Source**: [SFDA Imported Food](https://sfda.gov.sa/en/imported-food) | [SFDA Food Clearance Conditions (2025 PDF)](https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf)
 
 ---
 
@@ -149,24 +157,32 @@ The UAE is the GCC's second-largest market and a major re-export hub.
 
 ### UAE Import Process
 
-1. **MOCCAE import permit**: Apply through the [MOCCAE e-services portal](https://www.moccae.gov.ae/en/e-services.aspx) for animal-origin products
-2. **Health certificate**: Official veterinary health certificate from GACC
-3. **Halal certificate**: From a recognized halal certification body
+1. **MOCCAE import permit**: Apply through [MOCCAE services](https://www.moccae.gov.ae/en/services/permit-import-ani-waste) for animal-origin products — permit **valid 30 days** from issuance
+2. **Health certificate**: Must state eggs come from areas **free from HPAI/Newcastle Disease for not less than 3 months** (or 12 months if destruction policy not used)
+3. **Halal certificate**: From a MoIAT-registered or EIAC-accredited halal CB
 4. **Dubai Municipality / ADAFSA approval**: Local authority approval for the specific emirate of import
-5. **Border inspection**: Document check, physical inspection, lab sampling
-6. **FIRS (Food Import and Re-export System)**: Dubai Municipality's electronic import system — [FIRS Portal](https://portal.dm.gov.ae)
+5. **FIRS registration**: Food Item Registration + Food Label Registration in Dubai Municipality's system
+6. **Border inspection**: Document check, physical inspection, lab sampling
+
+### UAE Fees
+
+| Fee | Amount |
+|-----|--------|
+| MOCCAE import permit (per consignment) | **100 AED** |
+| MOCCAE consignment release | **500 AED** |
 
 ### UAE Key Requirements
 
 | Requirement | Detail |
 |-------------|--------|
-| MOCCAE permit | Per-consignment import permit for animal-origin products |
-| Facility approval | Foreign facility must be approved by MOCCAE |
-| Halal certificate | Mandatory for animal-origin products |
+| MOCCAE permit | Per-consignment; valid 30 days; HACCP or equivalent required at manufacturing facility |
+| Facility approval | Foreign facility must be under official supervision with HACCP |
+| Halal certificate | From MoIAT-registered or EIAC-accredited body |
 | Shelf life | Minimum **50% remaining shelf life** for Dubai; varies by emirate |
 | Temperature control | Cold chain documentation for perishable products |
+| FIRS registration | Two-step: food item registration + food label registration |
 
-**Source**: [MOCCAE E-Services](https://www.moccae.gov.ae/en/e-services.aspx) | [Dubai Municipality Food Safety](https://www.dm.gov.ae/municipality-business/food-safety/)
+**Source**: [MOCCAE Import Services](https://www.moccae.gov.ae/en/services/permit-import-ani-waste) | [Dubai Municipality Food Safety](https://www.dm.gov.ae/municipality-business/food-safety-department-2/important-information-to-food-establishment/)
 
 ---
 
@@ -182,23 +198,28 @@ The UAE is the GCC's second-largest market and a major re-export hub.
 | Staphylococcus aureus | Maximum limits per product type |
 | Listeria monocytogenes | Not detected in 25g |
 
-### Chemical Contaminant Limits
+### Chemical Contaminant & Residue Limits
 
-| Contaminant | Reference |
-|-------------|-----------|
-| Heavy metals (Pb, Cd, Hg, As) | GSO 21 / GSO 193 — aligned with Codex |
-| Veterinary drug residues | Codex MRLs generally adopted; member states may set stricter limits |
-| Pesticide residues | GSO/Codex alignment |
-| Aflatoxins | GSO limits (typically stricter than Codex for some mycotoxins) |
-| Melamine | Zero tolerance / maximum 1 mg/kg per Codex |
+| Category | GSO Standard | Notes |
+|----------|-------------|-------|
+| Heavy metals (Pb, Cd, Hg, As) | **GSO 193:2021** | Aligned with Codex STAN 193 |
+| Pesticide residues | **GSO 382:2020** | Positive list approach; MRLs in mg/kg |
+| Veterinary drug residues | **GSO 2481:2015** | MRLs for antibiotics, coccidiostats in eggs |
+| Food additives | **GSO 2500:2022** | Only JECFA-assigned ADI substances permitted |
+| Aflatoxins & mycotoxins | **GSO 193:2021** | May be stricter than Codex for some mycotoxins |
+| Melamine | Zero tolerance / maximum 1 mg/kg per Codex | — |
 
-### Egg Product Standards (GSO 839)
+### Egg Product Hygiene Standards (GSO 2351:2014)
 
-GSO 839 covers:
-- Composition requirements (moisture, protein, fat content)
+**GSO 2351:2014** (with Corrigendum GSO 2351:2014/Cor 1:2017) is the core egg product standard, covering:
+- Hygienic practices for production, storage, packing, transport, and processing
+- Scope: whole eggs, egg yolk, egg albumen, pasteurized eggs
+- Product forms: liquid, frozen, and dried egg products
+- Products containing not less than 50% egg
 - Processing requirements (pasteurization, drying parameters)
-- Packaging and storage requirements
 - Prohibited substances (no preservatives unless specifically permitted)
+
+**Source**: [GSO 2351:2014](https://www.gso.org.sa/store/standards/GSO:634973/GSO%202351:2014?lang=en)
 
 ---
 
@@ -229,11 +250,13 @@ Arabic-language labeling is mandatory across all GCC states.
 
 - **Production date is mandatory** — unlike many markets that only require expiry/best-before date
 - **Expiry date**: Must show both production and expiry dates
+- **Date stickers are NOT permissible** — per GSO 150:2021, adding stickers for production and expiry dates is prohibited; no more than one production date or expiry date may appear on the same package
 - **Arabic text**: Must be at least as prominent as any other language
-- **GMO declaration**: If products contain GMO ingredients, declaration may be required
+- **Arabic stickers**: Arabic stickers/labels must be legible and properly adhered
+- **GMO declaration**: Products with GMO content >1% require declaration (per GSO 2142:2011)
 - **"Halal" marking**: Must not be misleading; certificate must be valid
 
-**Source**: [GSO 9 Standard](https://www.gso.org.sa/en/standards/) | [SFDA Food Labeling Guide](https://www.sfda.gov.sa/en/food)
+**Source**: [GSO 9:2022](https://www.gso.org.sa/store/standards/GSO:810825/GSO%209:2022?lang=en) | [Saudi Arabia Labeling Requirements](https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements)
 
 ---
 
@@ -336,24 +359,36 @@ GCC member states maintain import restrictions on poultry and egg products from 
 ## Sources
 
 ### GSO (Unified Standards)
-- GSO Official Website: [https://www.gso.org.sa/en/](https://www.gso.org.sa/en/)
-- GSO Standards Catalogue: [https://www.gso.org.sa/en/standards/](https://www.gso.org.sa/en/standards/)
+- GSO Standards Store: [https://www.gso.org.sa/en/standards/standards-store/](https://www.gso.org.sa/en/standards/standards-store/)
+- GSO 2351:2014 — Hygienic Practices for Eggs and Egg Products: [https://www.gso.org.sa/store/standards/GSO:634973/GSO%202351:2014?lang=en](https://www.gso.org.sa/store/standards/GSO:634973/GSO%202351:2014?lang=en)
+- GSO 9:2022 — Labeling: [https://www.gso.org.sa/store/standards/GSO:810825/GSO%209:2022?lang=en](https://www.gso.org.sa/store/standards/GSO:810825/GSO%209:2022?lang=en)
+- GSO 193:2021 — Contaminants: [https://www.gso.org.sa/store/standards/GSO:781074/GSO%20193:2021?lang=en](https://www.gso.org.sa/store/standards/GSO:781074/GSO%20193:2021?lang=en)
+- GSO 2500:2022 — Additives: [https://www.gso.org.sa/store/standards/GSO:807798/GSO%202500:2022?lang=en](https://www.gso.org.sa/store/standards/GSO:807798/GSO%202500:2022?lang=en)
+- GCC Guide for Control on Imported Foods (PDF): [https://gcc-sg.org/en/MediaCenter/DigitalLibrary/Documents/1429075065.pdf](https://gcc-sg.org/en/MediaCenter/DigitalLibrary/Documents/1429075065.pdf)
 - GCC Customs Union: [https://www.gcc-sg.org/en-us/CooperationAndAchievements/Achievements/EconomicCooperation/CustomsUnion/Pages/Home.aspx](https://www.gcc-sg.org/en-us/CooperationAndAchievements/Achievements/EconomicCooperation/CustomsUnion/Pages/Home.aspx)
 
 ### Saudi Arabia (SFDA)
-- SFDA Official Website: [https://www.sfda.gov.sa/en](https://www.sfda.gov.sa/en)
-- SFDA Food Sector: [https://www.sfda.gov.sa/en/food](https://www.sfda.gov.sa/en/food)
+- SFDA Imported Food: [https://sfda.gov.sa/en/imported-food](https://sfda.gov.sa/en/imported-food)
+- SFDA Food Clearance Conditions & Requirements (2025 PDF): [https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf](https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf)
 - SABER Platform: [https://saber.sa/](https://saber.sa/)
-- SALEEM System: [https://saleem.sfda.gov.sa/](https://saleem.sfda.gov.sa/)
 - SFDA Recalls & Alerts: [https://www.sfda.gov.sa/en/food-recalls](https://www.sfda.gov.sa/en/food-recalls)
+- ZATCA Tariff Exemptions Inquiry: [https://zatca.gov.sa/en/eServices/Pages/eServices_286.aspx](https://zatca.gov.sa/en/eServices/Pages/eServices_286.aspx)
+- Saudi Arabia Standards & Trade Guide: [https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade](https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade)
+- Saudi Arabia Labeling Requirements: [https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements](https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements)
+
+### Halal Accreditation
+- GAC (GCC Accreditation Center) — Halal CB Accreditation: [https://gac.org.sa/services/accreditation-of-halal-certification-bodies/](https://gac.org.sa/services/accreditation-of-halal-certification-bodies/)
+- EIAC — Halal CB Directory: [https://eiac.gov.ae/directory?filter=Halal+Certification+Bodies](https://eiac.gov.ae/directory?filter=Halal+Certification+Bodies)
+- MoIAT — Registered Halal CBs: [https://moiat.gov.ae/en/programs/halal/registered-halal-certification-bodies](https://moiat.gov.ae/en/programs/halal/registered-halal-certification-bodies)
+- GSO 2055-1:2015 — Halal Food Requirements: [https://www.gso.org.sa/store/standards/GSO:693304/GSO%202055-1:2015?lang=en](https://www.gso.org.sa/store/standards/GSO:693304/GSO%202055-1:2015?lang=en)
 
 ### UAE
-- MOCCAE Official Website: [https://www.moccae.gov.ae](https://www.moccae.gov.ae)
-- MOCCAE E-Services: [https://www.moccae.gov.ae/en/e-services.aspx](https://www.moccae.gov.ae/en/e-services.aspx)
-- Dubai Municipality Food Safety: [https://www.dm.gov.ae/municipality-business/food-safety/](https://www.dm.gov.ae/municipality-business/food-safety/)
+- MOCCAE Import Permit (Animal Products): [https://www.moccae.gov.ae/en/services/permit-import-ani-waste](https://www.moccae.gov.ae/en/services/permit-import-ani-waste)
+- Dubai Municipality Food Safety: [https://www.dm.gov.ae/municipality-business/food-safety-department-2/important-information-to-food-establishment/](https://www.dm.gov.ae/municipality-business/food-safety-department-2/important-information-to-food-establishment/)
 - ADAFSA: [https://www.adafsa.gov.ae](https://www.adafsa.gov.ae)
 - MoIAT (formerly ESMA): [https://www.moiat.gov.ae](https://www.moiat.gov.ae)
 
 ### Other
+- KPMG — GCC Integrated Customs Tariff (2025): [https://kpmg.com/sa/en/insights/tax-insights/tax-alert-gcc-countries-implement-the-gcc-integrated-customs-tariff.html](https://kpmg.com/sa/en/insights/tax-insights/tax-alert-gcc-countries-implement-the-gcc-integrated-customs-tariff.html)
 - GACC — Decree No. 249: [https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
 - OIE/WOAH HPAI Information: [https://www.woah.org/en/disease/avian-influenza/](https://www.woah.org/en/disease/avian-influenza/)

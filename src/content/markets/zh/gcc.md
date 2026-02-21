@@ -42,14 +42,16 @@ GSO为GCC制定统一技术法规和标准。与蛋品相关的关键标准：
 
 | 标准编号 | 标题 | 范围 |
 |---------|------|------|
-| **GSO 9** | 预包装食品标签 | 所有预包装食品的强制标签要求 |
-| **GSO 150** | 食品添加剂通用要求 | 允许的添加剂及最大用量 |
-| **GSO 382** | 食品微生物标准 | 食品的微生物限量 |
-| **GSO 839** | 蛋制品 | 加工蛋制品的专门标准 |
-| **GSO 2055-1** | 清真食品要求 — 第1部分 | 清真食品的通用要求 |
-| **GSO 2055-2** | 清真食品要求 — 第2部分 | 屠宰场和加工厂的要求 |
-| **GSO 21** | 食品中污染物最大限量 | 重金属和污染物限量 |
-| **GSO 193** | 污染物和毒素通用标准 | 与Codex STAN 193对齐 |
+| **GSO 2351:2014** | 蛋及蛋制品卫生规范 | **核心蛋品标准** — 涵盖全蛋、蛋黄、蛋清的生产、储存、包装、运输和加工（液态/冷冻/干燥） |
+| **GSO 9:2022** | 预包装食品标签 | 所有预包装食品的强制标签要求 |
+| **GSO 150:2021** | 食品有效期 | 强制保质期标注 |
+| **GSO 2500:2022** | 食品中允许使用的添加剂 | 允许的添加剂及最大用量（与Codex INS对齐） |
+| **GSO 382:2020** | 农药残留最大限量 | 农业和食品中农药MRL（mg/kg） |
+| **GSO 2481:2015** | 食品中兽药残留最大限量 | 蛋品等食品中的兽药残留 |
+| **GSO 2055-1:2015** | 清真食品 — 第1部分：通用要求 | 清真食品链全阶段 |
+| **GSO 2055-2:2021** | 清真产品 — 第2部分：清真认证机构 | 清真认证机构要求，GAC/EIAC认可 |
+| **GSO 193:2021** | 食品和饲料中的污染物和毒素 | 重金属、真菌毒素等（与Codex STAN 193对齐） |
+| **GSO 839:2021** | 食品包装通用要求 | 包装材料和标准 |
 
 ### GSO技术法规（强制性）
 
@@ -77,13 +79,17 @@ GSO为GCC制定统一技术法规和标准。与蛋品相关的关键标准：
 
 ### 接受的清真认证机构
 
-GCC国家通常接受比马来西亚更广泛的认证机构。常见接受的机构包括：
+GCC国家要求清真认证机构获得认可的认可机构的认可。主要认可机构：
 
-- **美国伊斯兰食品与营养委员会（IFANCA）**
-- **清真食品管理局（HFA）** — 英国
-- **美国伊斯兰服务机构（ISA）**
-- **获认可的中国清真认证机构** — 因成员国而异；须与特定进口国主管机构确认
-- 其他获GSO 2055认可的国际清真认证机构
+| 机构 | 范围 | 网址 |
+|------|------|------|
+| **GAC（GCC认可中心）** | GCC全域清真认证机构认可（按GSO 2055-2:2021） | [gac.org.sa](https://gac.org.sa/services/accreditation-of-halal-certification-bodies/) |
+| **EIAC（阿联酋国际认可中心）** | 阿联酋清真认证机构认可 | [eiac.gov.ae](https://eiac.gov.ae/directory?filter=Halal+Certification+Bodies) |
+| **MoIAT** | 阿联酋注册清真认证机构名单 | [moiat.gov.ae](https://moiat.gov.ae/en/programs/halal/registered-halal-certification-bodies) |
+
+接受的国际机构包括IFANCA、AHF（美国清真基金会）等 — **但仅限获得GAC、EIAC或同等认可机构认可者**。中国清真认证机构须与特定进口GCC国家的主管机构确认其认可状态。
+
+> **重要**：JAKIM认证**可能不会**在GCC国家自动获得接受 — 清真标准（GSO 2055 vs. MS 1500）是不同体系。
 
 ### 蛋品清真合规要点
 
@@ -107,30 +113,32 @@ GCC国家通常接受比马来西亚更广泛的认证机构。常见接受的�
 
 | 系统 | 用途 | 网址 |
 |------|------|------|
-| **SABER** | 产品合格认证平台 | [saber.sa](https://saber.sa/) |
-| **SALEEM** | 食品进口许可和追溯系统 | [saleem.sfda.gov.sa](https://saleem.sfda.gov.sa/) |
+| **Ghad平台** | SFDA电子服务 — 境外设施注册、产品注册 | [sfda.gov.sa/en/imported-food](https://sfda.gov.sa/en/imported-food) |
+| **SABER** | 产品合格认证（由SASO运营） | [saber.sa](https://saber.sa/) |
+| **SALEEM** | SABER内的食品认证方案；合格评定 | [saleem.sfda.gov.sa](https://saleem.sfda.gov.sa/) |
 
 ### SFDA进口流程
 
-1. **产品注册**：境外生产商在**SABER**上注册产品，通过SFDA认可的合格评定机构获取**产品合格证书（PCoC）**
-2. **批次证书（SCoC）**：每批货物通过SABER在发运前获取批次证书
-3. **SALEEM注册**：沙特进口商在SALEEM上注册以实现食品追溯
-4. **进口许可**：沙特进口商通过SALEEM获取进口许可
+1. **设施注册**：境外生产商通过**Ghad电子平台**注册 — 需要政府颁发的许可证、GMP、ISO 22000或FSSC 22000。**进口商注册有效期5年**。
+2. **产品注册**：每个食品产品通过Ghad单独注册审批
+3. **合格认证**：进口商通过**SABER**连接合格评定机构获取**产品合格证书（PCoC）**
+4. **进口许可**：进口商获取SFDA进口许可，须注明设施名称、批准号、原产国、产品类型和6个月数量计划
 5. **口岸检查**：SFDA检查员在入境口岸进行文件核查、实物检查和抽样
 6. **放行或拒绝**：合规货物放行；不合规货物被拒、退运或销毁
 
-### SFDA关键要求
+### SFDA蛋品关键要求
 
 | 要求 | 详情 |
 |------|------|
-| 设施注册 | 境外食品设施须在SFDA注册 |
-| 卫生证书 | GACC出具的官方兽医/卫生证书 |
-| 清真证书 | 来自SFDA接受的认证机构 |
+| 设施注册 | 通过Ghad平台 — 须有GMP + ISO 22000/FSSC 22000 |
+| **巴氏杀菌** | 液蛋、蛋粉和冷冻蛋制品**强制要求** — 须提供巴氏杀菌证明 |
+| 卫生证书 | 由原产国官方检查员签章 |
+| 清真证书 | 来自GAC/EIAC认可的认证机构 |
 | 检验报告 | 获认可实验室出具的分析证书 |
 | 保质期 | 进口时须剩余**至少50%保质期** |
 | 自由销售证明 | 证明产品在原产国合法销售的证书 |
 
-**来源**：[SFDA官网](https://www.sfda.gov.sa/en) | [SFDA食品部门](https://www.sfda.gov.sa/en/food)
+**来源**：[SFDA进口食品](https://sfda.gov.sa/en/imported-food) | [SFDA食品通关条件（2025年PDF）](https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf)
 
 ---
 
@@ -149,24 +157,32 @@ GCC国家通常接受比马来西亚更广泛的认证机构。常见接受的�
 
 ### 阿联酋进口流程
 
-1. **MOCCAE进口许可**：通过[MOCCAE电子服务门户](https://www.moccae.gov.ae/en/e-services.aspx)为动物源性产品申请
-2. **卫生证书**：GACC出具的官方兽医卫生证书
-3. **清真证书**：来自认可的清真认证机构
+1. **MOCCAE进口许可**：通过[MOCCAE服务](https://www.moccae.gov.ae/en/services/permit-import-ani-waste)为动物源性产品申请 — 许可**自签发之日起30天有效**
+2. **卫生证书**：须注明蛋品来自**HPAI/新城疫清净不少于3个月**的地区（如未采用扑杀政策则为12个月）
+3. **清真证书**：来自MoIAT注册或EIAC认可的清真认证机构
 4. **迪拜市政府 / ADAFSA审批**：特定酋长国的地方主管机构审批
-5. **口岸检查**：文件检查、实物检查、实验室抽样
-6. **FIRS（食品进口和转口系统）**：迪拜市政府的电子进口系统 — [FIRS门户](https://portal.dm.gov.ae)
+5. **FIRS注册**：在迪拜市政府系统中完成食品项目注册 + 食品标签注册
+6. **口岸检查**：文件检查、实物检查、实验室抽样
+
+### 阿联酋费用
+
+| 费用项目 | 金额 |
+|---------|------|
+| MOCCAE进口许可（每批） | **100迪拉姆** |
+| MOCCAE货物放行 | **500迪拉姆** |
 
 ### 阿联酋关键要求
 
 | 要求 | 详情 |
 |------|------|
-| MOCCAE许可 | 动物源性产品需每批进口许可 |
-| 设施审批 | 境外设施须经MOCCAE审批 |
-| 清真证书 | 动物源性产品强制要求 |
+| MOCCAE许可 | 每批发放；有效30天；生产设施须有HACCP或同等体系 |
+| 设施审批 | 境外设施须在官方监管下并有HACCP |
+| 清真证书 | 来自MoIAT注册或EIAC认可的机构 |
 | 保质期 | 迪拜要求剩余至少**50%保质期**；各酋长国有差异 |
 | 温度管控 | 易腐产品须冷链记录 |
+| FIRS注册 | 两步：食品项目注册 + 食品标签注册 |
 
-**来源**：[MOCCAE电子服务](https://www.moccae.gov.ae/en/e-services.aspx) | [迪拜市政府食品安全](https://www.dm.gov.ae/municipality-business/food-safety/)
+**来源**：[MOCCAE进口服务](https://www.moccae.gov.ae/en/services/permit-import-ani-waste) | [迪拜市政府食品安全](https://www.dm.gov.ae/municipality-business/food-safety-department-2/important-information-to-food-establishment/)
 
 ---
 
@@ -182,23 +198,28 @@ GCC国家通常接受比马来西亚更广泛的认证机构。常见接受的�
 | 金黄色葡萄球菌 | 按产品类型最大限量 |
 | 单核细胞增生李斯特菌 | 25g中不得检出 |
 
-### 化学污染物限量
+### 化学污染物与残留限量
 
-| 污染物 | 参考标准 |
-|--------|---------|
-| 重金属（铅、镉、汞、砷） | GSO 21 / GSO 193 — 与Codex对齐 |
-| 兽药残留 | 通常采用Codex MRL；成员国可设定更严格限量 |
-| 农药残留 | GSO/Codex对齐 |
-| 黄曲霉毒素 | GSO限量（部分真菌毒素可能比Codex更严格） |
-| 三聚氰胺 | 零容忍 / 最大1 mg/kg（按Codex） |
+| 类别 | GSO标准 | 备注 |
+|------|---------|------|
+| 重金属（铅、镉、汞、砷） | **GSO 193:2021** | 与Codex STAN 193对齐 |
+| 农药残留 | **GSO 382:2020** | 肯定列表方式；MRL以mg/kg计 |
+| 兽药残留 | **GSO 2481:2015** | 蛋品中抗生素、抗球虫药的MRL |
+| 食品添加剂 | **GSO 2500:2022** | 仅允许有JECFA评定ADI的物质 |
+| 黄曲霉毒素及真菌毒素 | **GSO 193:2021** | 部分真菌毒素可能比Codex更严格 |
+| 三聚氰胺 | 零容忍 / 最大1 mg/kg（按Codex） | — |
 
-### 蛋制品标准（GSO 839）
+### 蛋制品卫生标准（GSO 2351:2014）
 
-GSO 839涵盖：
-- 组成要求（水分、蛋白质、脂肪含量）
+**GSO 2351:2014**（含勘误GSO 2351:2014/Cor 1:2017）是核心蛋品标准，涵盖：
+- 生产、储存、包装、运输和加工的卫生规范
+- 范围：全蛋、蛋黄、蛋清、巴氏杀菌蛋
+- 产品形式：液态、冷冻和干燥蛋制品
+- 蛋含量不低于50%的产品
 - 加工要求（巴氏杀菌、干燥参数）
-- 包装和储存要求
 - 禁用物质（除非特别允许，不得使用防腐剂）
+
+**来源**：[GSO 2351:2014](https://www.gso.org.sa/store/standards/GSO:634973/GSO%202351:2014?lang=en)
 
 ---
 
@@ -229,11 +250,13 @@ GSO 839涵盖：
 
 - **生产日期为强制标注** — 不同于许多仅要求有效期/最佳食用期的市场
 - **有效期**：须同时显示生产日期和有效期
+- **日期贴纸不被允许** — 根据GSO 150:2021，禁止以贴纸方式添加生产日期和有效期；同一包装上不得出现多个生产日期或有效期
 - **阿拉伯语文字**：须至少与其他任何语言同等醒目
-- **转基因声明**：如产品含转基因成分，可能需要声明
+- **阿拉伯语贴标**：阿拉伯语贴标/标签须清晰可读且牢固粘贴
+- **转基因声明**：转基因含量超过1%的产品须声明（按GSO 2142:2011）
 - **"清真"标识**：不得误导；证书须有效
 
-**来源**：[GSO 9标准](https://www.gso.org.sa/en/standards/) | [SFDA食品标签指南](https://www.sfda.gov.sa/en/food)
+**来源**：[GSO 9:2022](https://www.gso.org.sa/store/standards/GSO:810825/GSO%209:2022?lang=en) | [沙特阿拉伯标签要求](https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements)
 
 ---
 
@@ -336,24 +359,36 @@ GCC成员国对来自HPAI暴发国的禽类和蛋品实施进口限制：
 ## 信息来源
 
 ### GSO（统一标准）
-- GSO官网：[https://www.gso.org.sa/en/](https://www.gso.org.sa/en/)
-- GSO标准目录：[https://www.gso.org.sa/en/standards/](https://www.gso.org.sa/en/standards/)
+- GSO标准商店：[https://www.gso.org.sa/en/standards/standards-store/](https://www.gso.org.sa/en/standards/standards-store/)
+- GSO 2351:2014 — 蛋及蛋制品卫生规范：[https://www.gso.org.sa/store/standards/GSO:634973/GSO%202351:2014?lang=en](https://www.gso.org.sa/store/standards/GSO:634973/GSO%202351:2014?lang=en)
+- GSO 9:2022 — 标签：[https://www.gso.org.sa/store/standards/GSO:810825/GSO%209:2022?lang=en](https://www.gso.org.sa/store/standards/GSO:810825/GSO%209:2022?lang=en)
+- GSO 193:2021 — 污染物：[https://www.gso.org.sa/store/standards/GSO:781074/GSO%20193:2021?lang=en](https://www.gso.org.sa/store/standards/GSO:781074/GSO%20193:2021?lang=en)
+- GSO 2500:2022 — 添加剂：[https://www.gso.org.sa/store/standards/GSO:807798/GSO%202500:2022?lang=en](https://www.gso.org.sa/store/standards/GSO:807798/GSO%202500:2022?lang=en)
+- GCC进口食品管控指南（PDF）：[https://gcc-sg.org/en/MediaCenter/DigitalLibrary/Documents/1429075065.pdf](https://gcc-sg.org/en/MediaCenter/DigitalLibrary/Documents/1429075065.pdf)
 - GCC关税同盟：[https://www.gcc-sg.org/en-us/CooperationAndAchievements/Achievements/EconomicCooperation/CustomsUnion/Pages/Home.aspx](https://www.gcc-sg.org/en-us/CooperationAndAchievements/Achievements/EconomicCooperation/CustomsUnion/Pages/Home.aspx)
 
 ### 沙特阿拉伯（SFDA）
-- SFDA官网：[https://www.sfda.gov.sa/en](https://www.sfda.gov.sa/en)
-- SFDA食品部门：[https://www.sfda.gov.sa/en/food](https://www.sfda.gov.sa/en/food)
+- SFDA进口食品：[https://sfda.gov.sa/en/imported-food](https://sfda.gov.sa/en/imported-food)
+- SFDA食品通关条件与要求（2025年PDF）：[https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf](https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf)
 - SABER平台：[https://saber.sa/](https://saber.sa/)
-- SALEEM系统：[https://saleem.sfda.gov.sa/](https://saleem.sfda.gov.sa/)
 - SFDA召回与警报：[https://www.sfda.gov.sa/en/food-recalls](https://www.sfda.gov.sa/en/food-recalls)
+- ZATCA关税豁免查询：[https://zatca.gov.sa/en/eServices/Pages/eServices_286.aspx](https://zatca.gov.sa/en/eServices/Pages/eServices_286.aspx)
+- 沙特阿拉伯标准与贸易指南：[https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade](https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade)
+- 沙特阿拉伯标签要求：[https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements](https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements)
+
+### 清真认可
+- GAC（GCC认可中心）— 清真认证机构认可：[https://gac.org.sa/services/accreditation-of-halal-certification-bodies/](https://gac.org.sa/services/accreditation-of-halal-certification-bodies/)
+- EIAC — 清真认证机构目录：[https://eiac.gov.ae/directory?filter=Halal+Certification+Bodies](https://eiac.gov.ae/directory?filter=Halal+Certification+Bodies)
+- MoIAT — 注册清真认证机构：[https://moiat.gov.ae/en/programs/halal/registered-halal-certification-bodies](https://moiat.gov.ae/en/programs/halal/registered-halal-certification-bodies)
+- GSO 2055-1:2015 — 清真食品要求：[https://www.gso.org.sa/store/standards/GSO:693304/GSO%202055-1:2015?lang=en](https://www.gso.org.sa/store/standards/GSO:693304/GSO%202055-1:2015?lang=en)
 
 ### 阿联酋
-- MOCCAE官网：[https://www.moccae.gov.ae](https://www.moccae.gov.ae)
-- MOCCAE电子服务：[https://www.moccae.gov.ae/en/e-services.aspx](https://www.moccae.gov.ae/en/e-services.aspx)
-- 迪拜市政府食品安全：[https://www.dm.gov.ae/municipality-business/food-safety/](https://www.dm.gov.ae/municipality-business/food-safety/)
+- MOCCAE进口许可（动物产品）：[https://www.moccae.gov.ae/en/services/permit-import-ani-waste](https://www.moccae.gov.ae/en/services/permit-import-ani-waste)
+- 迪拜市政府食品安全：[https://www.dm.gov.ae/municipality-business/food-safety-department-2/important-information-to-food-establishment/](https://www.dm.gov.ae/municipality-business/food-safety-department-2/important-information-to-food-establishment/)
 - ADAFSA：[https://www.adafsa.gov.ae](https://www.adafsa.gov.ae)
 - MoIAT（原ESMA）：[https://www.moiat.gov.ae](https://www.moiat.gov.ae)
 
 ### 其他
+- KPMG — GCC统一关税（2025年）：[https://kpmg.com/sa/en/insights/tax-insights/tax-alert-gcc-countries-implement-the-gcc-integrated-customs-tariff.html](https://kpmg.com/sa/en/insights/tax-insights/tax-alert-gcc-countries-implement-the-gcc-integrated-customs-tariff.html)
 - 海关总署 — 第249号令：[https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
 - OIE/WOAH HPAI信息：[https://www.woah.org/en/disease/avian-influenza/](https://www.woah.org/en/disease/avian-influenza/)
