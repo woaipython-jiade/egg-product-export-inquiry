@@ -6,26 +6,28 @@ status: "Restricted"
 asOfDate: "2026-02-20"
 region: "East Asia"
 priority: 5
-summary: "South Korea controls egg product imports through MFDS (food safety & facility registration) and APQA (animal quarantine). China is currently subject to HPAI-related import suspensions on poultry/egg products. The Special Act on Imported Food Safety requires foreign facility registration, and Korean-language labeling is mandatory. Verify APQA suspension status and MFDS facility listing before planning any shipment."
-summaryZh: "韩国通过食品药品安全部（MFDS，食品安全和设施注册）和农林畜产检疫本部（APQA，动物检疫）管控蛋品进口。中国目前因HPAI受到禽类/蛋品进口限制。《进口食品安全管理特别法》要求境外设施注册，韩语标签为强制要求。发货前须确认APQA暂停状态和MFDS设施备案。"
+summary: "South Korea controls egg product imports through MFDS (6-step Import Sanitation Assessment, facility registration) and APQA (bilateral quarantine agreement, HPAI controls). CRITICAL: China has almost certainly NOT completed the bilateral quarantine agreement for egg products — no evidence of APQA/MFDS approval exists. Even if access were granted, eggs are explicitly EXCLUDED from China-Korea FTA tariff concessions, facing 27–30% MFN duties. Korean PLS applies 0.01 ppm default for both pesticides (2019) and veterinary drugs (2024)."
+summaryZh: "韩国通过MFDS（六步进口卫生评估、设施注册）和APQA（双边检疫协议、HPAI管控）管控蛋品进口。重要：中国几乎可以确定尚未完成蛋品双边检疫协议——无APQA/MFDS批准的公开记录。即使获得准入，蛋品被明确排除在中韩FTA关税减让之外，面临27-30%最惠国税率。韩国PLS对农药（2019年）和兽药（2024年）均适用0.01 ppm默认限量。"
 ---
 
 ## Market Access Overview
 
-South Korea is a potentially significant market for Chinese egg products, but access is **heavily restricted** by both food safety and animal quarantine barriers. Two agencies jointly control imports:
+South Korea is a potentially significant market for Chinese egg products, but access is **effectively blocked** by multiple layered regulatory barriers. Two agencies jointly control imports:
 
-- **MFDS (Ministry of Food and Drug Safety / 식품의약품안전처)** — food safety standards, import inspection, foreign facility registration
-- **APQA (Animal and Plant Quarantine Agency / 농림축산검역본부)** — animal quarantine, HPAI controls, veterinary certificates
+- **MFDS (Ministry of Food and Drug Safety / 식품의약품안전처)** — food safety standards, 6-step Import Sanitation Assessment, foreign facility registration
+- **APQA (Animal and Plant Quarantine Agency / 농림축산검역본부)** — bilateral quarantine agreements, HPAI controls, veterinary certificates
 
-Access is "Restricted" — legal trade frameworks exist, but **HPAI-related suspensions on Chinese poultry and egg products** are the primary barrier to active commerce.
+> **CRITICAL ASSESSMENT**: China has **almost certainly NOT completed** the bilateral quarantine agreement required by APQA for egg product exports to Korea. No public evidence exists of an approved Korea-China bilateral veterinary agreement for eggs, nor of completed MFDS Import Sanitation Assessment for Chinese egg facilities. This is a **blocking barrier** — trade cannot occur until this process is completed.
 
 ### Key Facts
 
-- **HPAI suspensions**: APQA maintains import restrictions on poultry/egg products from countries with active HPAI outbreaks — **China has been subject to recurring suspensions**
-- **Foreign facility registration**: Required under the **Special Act on Imported Food Safety Management (수입식품안전관리특별법)** — foreign manufacturers must register with MFDS
+- **No bilateral agreement**: APQA requires a completed bilateral quarantine negotiation before any country can export livestock/egg products to Korea — **no evidence this exists for Chinese eggs**
+- **HPAI blocking**: China's endemic HPAI situation means Korea restricts imports; Korea follows WOAH guidelines requiring 90 days HPAI-free status
+- **6-step Import Sanitation Assessment**: MFDS requires questionnaire review, on-site inspection, equivalence determination, and facility registration **before** any imports can begin
+- **Eggs EXCLUDED from FTA**: The China-Korea FTA (December 2015) explicitly places eggs on the **"Highly Sensitive List"** — **no tariff concessions**, full 27–30% MFN duty applies
 - **Korean-language labeling**: Mandatory for all imported food products under the **Food Labeling and Advertising Act (식품 등의 표시·광고에 관한 법률)**
-- **Korea-China FTA**: In effect since December 2015, but egg products (HS 0408) have limited tariff concessions due to agricultural sensitivity
-- South Korea is a **net egg importer** for processed egg products, particularly egg powder and liquid egg for food manufacturing
+- **Dual PLS**: Korea applies 0.01 ppm default for both pesticides (January 2019) and veterinary drugs (January 2024)
+- **Known approved egg exporters**: US, Brazil, Thailand, Denmark — **China is not among them**
 
 ---
 
@@ -33,12 +35,21 @@ Access is "Restricted" — legal trade frameworks exist, but **HPAI-related susp
 
 ### HPAI Import Controls
 
-APQA enforces strict controls on imports from countries with HPAI outbreaks under the **Livestock Epidemic Prevention Act (가축전염병예방법)**:
+APQA (under MAFRA) is the **gatekeeper for country eligibility**. Before any livestock/egg product can be exported to Korea, the exporting country must complete **bilateral quarantine negotiations** with APQA. Key responsibilities:
+
+- Maintaining the **list of countries/regions eligible to export livestock products to Korea** — [APQA Eligible Countries List](https://www.qia.go.kr/english/html/About_QIA/listqiaEngNoticeWebAction.do?type=21&clear=1)
+- Negotiating **Import Health Requirements (IHR)** bilaterally with each exporting country
+- Approving **individual foreign establishments** for export to Korea
+- Conducting **quarantine inspections** at ports of entry
+
+### HPAI Import Controls (Livestock Epidemic Prevention Act / 가축전염병예방법)
 
 - **Mechanism**: When HPAI is confirmed in an exporting country, APQA suspends imports of poultry and egg products from that country or affected regions
-- **Scope**: Covers shell eggs, liquid eggs, frozen eggs, and may extend to processed egg products depending on heat treatment status
-- **Current status**: China has experienced recurring HPAI outbreaks — **verify current suspension status with APQA before planning any shipment**
-- **APQA Import Quarantine Requirements**: [https://www.qia.go.kr/animal/quarantine/ani_livestock_import.jsp](https://www.qia.go.kr/animal/quarantine/ani_livestock_import.jsp)
+- **WOAH standard**: Korea follows WOAH guidelines — requires **90 days HPAI-free** before bans can be lifted
+- **Korea's own experience**: Korea experienced **50 HPAI outbreaks** between October 2024 and June 2025, affecting 2.49 million poultry — demonstrating extreme sensitivity to HPAI risks
+- **China's status**: China has endemic HPAI — **no evidence China has APQA quarantine approval for egg products**
+- **Known approved countries for eggs**: US, Brazil, Thailand, Denmark — China is **not** among approved egg product exporters
+- **APQA Export/Import Quarantine**: [https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_006.jsp](https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_006.jsp)
 
 ### Veterinary Health Certificate Requirements
 
@@ -66,18 +77,37 @@ Processed egg products (egg powder, pasteurized liquid egg) that undergo suffici
 
 ### Special Act on Imported Food Safety Management
 
-The **Special Act on Imported Food Safety Management (수입식품안전관리특별법)** is the primary legislation governing food imports. Key requirements:
+The **Special Act on Imported Food Safety Management (수입식품안전관리특별법)**, effective February 4, 2016, is the primary legislation governing food imports. Egg products are classified as **livestock products subject to special sanitation control** — the most stringent import pathway.
+
+### 6-Step Import Sanitation Assessment (Pre-Market Access)
+
+Before any country can export livestock/egg products to Korea, it must pass this assessment:
+
+| Step | Process |
+|------|---------|
+| 1 | MFDS sends **Import Sanitation Questionnaire** to the exporting country's competent authority |
+| 2 | MFDS reviews the questionnaire answers |
+| 3 | MFDS conducts **overseas on-site inspections** of the exporting country's regulatory system and facilities |
+| 4 | MFDS determines import approval (**equivalence determination**) |
+| 5 | MFDS and exporting country negotiate **sanitation requirements and health certificate templates** |
+| 6 | **Foreign food facilities are registered** |
+
+A compliance rate of 70–85% triggers a correction period (60+30 days). A rate **below 70% results in import prohibition**.
+
+**Source**: [MFDS Imported Food Safety](https://www.mfds.go.kr/eng/wpge/m_11/de011002l001.do)
 
 ### Foreign Facility Registration
 
 | Requirement | Detail |
 |-------------|--------|
-| Legal basis | Article 5, Special Act on Imported Food Safety Management |
-| System | **Imported Food Information (IFIS)** — [https://impfood.mfds.go.kr](https://impfood.mfds.go.kr) |
-| Who registers | The **foreign manufacturer** (or through an authorized Korean agent) |
+| Legal basis | Special Act on Imported Food Safety Management |
+| System | **Imported Food Information Maru (IFIS)** — [https://impfood.mfds.go.kr](https://impfood.mfds.go.kr/?locale=en_EN) |
+| Who registers | The **exporting government** registers facilities (not self-registration) |
 | What's needed | Facility information, product types, manufacturing processes, sanitary control documentation |
-| Validity | Registration must be maintained and updated; subject to periodic review |
-| Consequence | Products from unregistered facilities **cannot clear Korean customs** |
+| Validity | **2 years** (renewable) |
+| Registration deadline | At least **7 days before** import declaration |
+| Simplified scheme | Facilities with ISO 22000, HACCP, GMP, FSSC 22000, BRC, SQF, or IFS certification may qualify for differential (simplified) registration (since February 2023) |
+| Consequence | Products from unregistered facilities — **import clearance will not be initiated** |
 
 ### Import Inspection Process
 
@@ -116,11 +146,13 @@ The Korean Food Code, maintained by MFDS, sets standards for food products inclu
 
 Korea operates its own comprehensive MRL system for veterinary drugs and pesticides:
 
-| Category | Framework |
-|----------|-----------|
-| **Veterinary drug MRLs** | Managed by MFDS under the Livestock Products Sanitary Control Act |
-| **Pesticide MRLs** | Positive List System (PLS) effective since January 2019 — similar to Japan's system |
-| **Default MRL** | **0.01 ppm** for substances without established MRLs (under PLS) |
+| Category | Framework | PLS Effective Date |
+|----------|-----------|-------------------|
+| **Pesticide MRLs** | ~84+ pesticides with specific MRLs for eggs; PLS for unlisted substances | **January 1, 2019** |
+| **Veterinary drug MRLs** | ~193+ veterinary drugs with specific MRLs; 26 banned compounds (zero tolerance) | **January 1, 2024** |
+| **Default MRL (PLS)** | **0.01 ppm** for any substance without an established MRL | Both categories |
+
+Korea's MRLs are generally **stricter than or equivalent to Codex standards**. The 0.01 ppm default is more conservative than Codex, which only sets MRLs for compounds it has evaluated (no universal default).
 
 ### Key MRLs for Egg Products
 
@@ -164,13 +196,19 @@ Korean food labeling is governed by the **Food Labeling and Advertising Act (식
 
 ### Allergen Declaration
 
-Korea mandates allergen labeling for the following categories (including eggs):
+Korea mandates allergen labeling for **22 categories** (including eggs):
 
-**Mandatory allergens**: Eggs, milk, buckwheat, peanuts, soybeans, wheat, mackerel, crab, shrimp, pork, peach, tomato, sulfites, walnut, chicken, beef, squid, shellfish (including oyster, abalone, mussel), pine nuts
+**Mandatory allergens (22)**: Eggs, milk, buckwheat, peanuts, soybeans, wheat, mackerel, crab, shrimp, pork, peach, tomato, sulfites, walnut, chicken, beef, squid, shellfish (including oyster, abalone, mussel), pine nuts, and others
 
 Egg products must prominently declare "알류(계란) 함유" (Contains eggs).
 
-**Source**: [MFDS Food Labeling Standards](https://www.mfds.go.kr/wpge/m_658/de010601l001.do)
+### Labeling Format Notes
+
+- Korean-language stickers/tags are permitted but **must not be easily removable** and must **not cover the original label**
+- Foreign languages may appear alongside Korean text but in a **font size equal to or smaller than** the Korean text
+- Labels must be applied **before customs clearance**
+
+**Source**: [MFDS Food Labeling Standards (English PDF)](https://www.mfds.go.kr/files/upload/eng/Foods_labeling_standars_03.pdf) | [MFDS Food Labeling System](https://www.mfds.go.kr/eng/wpge/m_14/de011005l001.do)
 
 ---
 
@@ -178,20 +216,27 @@ Egg products must prominently declare "알류(계란) 함유" (Contains eggs).
 
 ### HS 0408 Tariff Structure
 
-| HS Code | Description | Base MFN Rate | China-Korea FTA |
-|---------|-------------|---------------|-----------------|
-| 0408.11 | Dried egg yolks | 8% | Limited concession — agricultural sensitivity exclusion |
-| 0408.19 | Other egg yolks (liquid/frozen) | 8% | Limited concession |
-| 0408.91 | Other dried eggs (whole/white) | 8% | Limited concession |
-| 0408.99 | Other eggs not in shell | 8% | Limited concession |
+| HS Code | Description | MFN Rate | China-Korea FTA |
+|---------|-------------|----------|-----------------|
+| 0408.11 | Dried egg yolks | **27%** | **EXCLUDED** — no concession |
+| 0408.19 | Other egg yolks (liquid/frozen) | **27%** | **EXCLUDED** — no concession |
+| 0408.91 | Other dried eggs (whole/white) | **27%** | **EXCLUDED** — no concession |
+| 0408.99 | Other eggs not in shell | **30%** | **EXCLUDED** — no concession |
 
-### FTA Notes
+### FTA Exclusion — Critical
 
-- The **China-Korea FTA** (effective December 2015) provides tariff concessions on many products, but **agricultural products including eggs are largely excluded** or placed in long staging categories (10–20 year phase-out)
-- **Tariff lookup**: [Korea Customs Service — Tariff Information](https://unipass.customs.go.kr/clip/index.do)
+> **Eggs are explicitly placed on the "Highly Sensitive List"** in the China-Korea FTA. There is **no tariff reduction schedule, no phase-out, and no TRQ arrangement** for egg products. The full MFN rate (27–30%) applies to Chinese egg exports.
+
+Per the [FFTC analysis of China-Korea FTA negotiations](https://ap.fftc.org.tw/article/811):
+> "Major animal products in domestic market such as cows, pigs, chickens, ducks and other major animal products such as **milk and egg are all excluded from the negotiation**."
+
+### Additional Tariff Notes
+
+- **Adjustment Tariff / Voluntary TRQ**: Korea may open in-quota imports at 0% duty during domestic supply shortages (e.g., during HPAI outbreaks) — but these are temporary and not guaranteed
 - **VAT**: 10% on imported goods (applied on CIF + duty value)
+- **Tariff lookup**: [Korea Customs UniPass](https://unipass.customs.go.kr/clip/hsinfosrch/openULS0201002Q.do?engl=Y)
 
-**Source**: [Korea Customs Service (KCS)](https://www.customs.go.kr/english/main.do) | [China-Korea FTA text](http://fta.mofcom.gov.cn/korea/korea_agreementText.shtml)
+**Source**: [KCS FTA Portal](https://www.customs.go.kr/engportal/cm/cntnts/cntntsView.do?mi=7312&cntntsId=2334) | [China-Korea FTA text](https://fta.mofcom.gov.cn/korea/annex/xdzw_en.pdf) | [PIIE Assessment](https://www.piie.com/sites/default/files/publications/pb/pb15-24.pdf)
 
 ---
 
@@ -243,25 +288,36 @@ Egg products must prominently declare "알류(계란) 함유" (Contains eggs).
 
 ### MFDS (Food Safety & Import Control)
 - MFDS English Portal: [https://www.mfds.go.kr/eng/index.do](https://www.mfds.go.kr/eng/index.do)
-- MFDS Imported Food Safety: [https://www.mfds.go.kr/wpge/m_659/de010602l001.do](https://www.mfds.go.kr/wpge/m_659/de010602l001.do)
-- MFDS Food Labeling Standards: [https://www.mfds.go.kr/wpge/m_658/de010601l001.do](https://www.mfds.go.kr/wpge/m_658/de010601l001.do)
-- IFIS (Imported Food Information System): [https://impfood.mfds.go.kr](https://impfood.mfds.go.kr)
+- MFDS Imported Food Safety: [https://www.mfds.go.kr/eng/wpge/m_11/de011002l001.do](https://www.mfds.go.kr/eng/wpge/m_11/de011002l001.do)
+- MFDS Food Labeling System: [https://www.mfds.go.kr/eng/wpge/m_14/de011005l001.do](https://www.mfds.go.kr/eng/wpge/m_14/de011005l001.do)
+- MFDS Food Labeling Standards (PDF): [https://www.mfds.go.kr/files/upload/eng/Foods_labeling_standars_03.pdf](https://www.mfds.go.kr/files/upload/eng/Foods_labeling_standars_03.pdf)
+- MFDS Regulations List: [https://www.mfds.go.kr/eng/brd/m_15/list.do](https://www.mfds.go.kr/eng/brd/m_15/list.do)
+- MFDS Article 5 — Egg Product Standards (PDF): [https://www.mfds.go.kr/files/upload/eng/Article_5._Standards_and_Spefications_for_Each_Food_Product.pdf](https://www.mfds.go.kr/files/upload/eng/Article_5._Standards_and_Spefications_for_Each_Food_Product.pdf)
+- Imported Food Information Maru (IFIS): [https://impfood.mfds.go.kr/?locale=en_EN](https://impfood.mfds.go.kr/?locale=en_EN)
 
 ### Food Safety Korea (Integrated Portal)
 - Food Safety Korea Portal: [https://www.foodsafetykorea.go.kr](https://www.foodsafetykorea.go.kr)
 - Korean Food Code: [https://www.foodsafetykorea.go.kr/foodcode/](https://www.foodsafetykorea.go.kr/foodcode/)
-- Residue Standards Database: [https://www.foodsafetykorea.go.kr/residue/main.do](https://www.foodsafetykorea.go.kr/residue/main.do)
+- Residue Standards Database: [https://www.foodsafetykorea.go.kr/residue](https://www.foodsafetykorea.go.kr/residue)
 
 ### APQA (Animal Quarantine)
-- APQA Portal: [https://www.qia.go.kr](https://www.qia.go.kr)
-- APQA Animal Quarantine (English): [https://www.qia.go.kr/english/html/Animal_livestock/ani_livestock_import-E.jsp](https://www.qia.go.kr/english/html/Animal_livestock/ani_livestock_import-E.jsp)
-- APQA Import Quarantine Requirements: [https://www.qia.go.kr/animal/quarantine/ani_livestock_import.jsp](https://www.qia.go.kr/animal/quarantine/ani_livestock_import.jsp)
+- APQA English Portal: [https://www.qia.go.kr/english/html/indexqiaEngNoticeWebAction.do](https://www.qia.go.kr/english/html/indexqiaEngNoticeWebAction.do)
+- APQA Export/Import Quarantine & Inspection: [https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_006.jsp](https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_006.jsp)
+- APQA List of Eligible Countries: [https://www.qia.go.kr/english/html/About_QIA/listqiaEngNoticeWebAction.do?type=21&clear=1](https://www.qia.go.kr/english/html/About_QIA/listqiaEngNoticeWebAction.do?type=21&clear=1)
 
 ### Tariffs & Trade
 - Korea Customs Service (English): [https://www.customs.go.kr/english/main.do](https://www.customs.go.kr/english/main.do)
-- KCS UniPass Tariff Lookup: [https://unipass.customs.go.kr/clip/index.do](https://unipass.customs.go.kr/clip/index.do)
-- China-Korea FTA Text: [http://fta.mofcom.gov.cn/korea/korea_agreementText.shtml](http://fta.mofcom.gov.cn/korea/korea_agreementText.shtml)
+- KCS UniPass HS Code Tariff Search: [https://unipass.customs.go.kr/clip/hsinfosrch/openULS0201002Q.do?engl=Y](https://unipass.customs.go.kr/clip/hsinfosrch/openULS0201002Q.do?engl=Y)
+- KCS FTA Portal: [https://www.customs.go.kr/engportal/cm/cntnts/cntntsView.do?mi=7312&cntntsId=2334](https://www.customs.go.kr/engportal/cm/cntnts/cntntsView.do?mi=7312&cntntsId=2334)
+- China-Korea FTA Full Text (English PDF): [https://fta.mofcom.gov.cn/korea/annex/xdzw_en.pdf](https://fta.mofcom.gov.cn/korea/annex/xdzw_en.pdf)
+- FFTC — Result of Korea-China FTA Negotiations on Agriculture: [https://ap.fftc.org.tw/article/811](https://ap.fftc.org.tw/article/811)
+- Korea Import Tariffs Guide: [https://www.trade.gov/country-commercial-guides/south-korea-import-tariffs](https://www.trade.gov/country-commercial-guides/south-korea-import-tariffs)
+
+### MRL & Residue Standards
+- USDA MRL Database (Korea): [https://www.fas.usda.gov/maximum-residue-limits-mrl-database](https://www.fas.usda.gov/maximum-residue-limits-mrl-database)
+- USDA — Korea's PLS for Veterinary Drugs: [https://www.fas.usda.gov/data/south-korea-koreas-positive-list-system-veterinary-drugs](https://www.fas.usda.gov/data/south-korea-koreas-positive-list-system-veterinary-drugs)
 
 ### Other
 - MAFRA (Ministry of Agriculture): [https://www.mafra.go.kr](https://www.mafra.go.kr)
+- USDA FAIRS Report on Korea (2025): [USDA FAS Korea FAIRS](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=FAIRS+Country+Report+Annual_Seoul_Korea+-+Republic+of_KS2025-0011)
 - GACC — Decree No. 249: [https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)

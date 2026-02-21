@@ -6,26 +6,28 @@ status: "Restricted"
 asOfDate: "2026-02-20"
 region: "东亚"
 priority: 5
-summary: "South Korea controls egg product imports through MFDS (food safety & facility registration) and APQA (animal quarantine). China is currently subject to HPAI-related import suspensions on poultry/egg products. The Special Act on Imported Food Safety requires foreign facility registration, and Korean-language labeling is mandatory. Verify APQA suspension status and MFDS facility listing before planning any shipment."
-summaryZh: "韩国通过食品药品安全部（MFDS，食品安全和设施注册）和农林畜产检疫本部（APQA，动物检疫）管控蛋品进口。中国目前因HPAI受到禽类/蛋品进口限制。《进口食品安全管理特别法》要求境外设施注册，韩语标签为强制要求。发货前须确认APQA暂停状态和MFDS设施备案。"
+summary: "South Korea controls egg product imports through MFDS (6-step Import Sanitation Assessment, facility registration) and APQA (bilateral quarantine agreement, HPAI controls). CRITICAL: China has almost certainly NOT completed the bilateral quarantine agreement for egg products — no evidence of APQA/MFDS approval exists. Even if access were granted, eggs are explicitly EXCLUDED from China-Korea FTA tariff concessions, facing 27–30% MFN duties. Korean PLS applies 0.01 ppm default for both pesticides (2019) and veterinary drugs (2024)."
+summaryZh: "韩国通过MFDS（六步进口卫生评估、设施注册）和APQA（双边检疫协议、HPAI管控）管控蛋品进口。重要：中国几乎可以确定尚未完成蛋品双边检疫协议——无APQA/MFDS批准的公开记录。即使获得准入，蛋品被明确排除在中韩FTA关税减让之外，面临27-30%最惠国税率。韩国PLS对农药（2019年）和兽药（2024年）均适用0.01 ppm默认限量。"
 ---
 
 ## 市场准入概览
 
-韩国是中国蛋品的潜在重要市场，但准入受到食品安全和动物检疫双重**严格限制**。两个机构共同管控进口：
+韩国是中国蛋品的潜在重要市场，但准入**实际上被阻断**，面临多层监管壁垒。两个机构共同管控进口：
 
-- **食品药品安全部（MFDS / 식품의약품안전처）** — 食品安全标准、进口检查、境外设施注册
-- **农林畜产检疫本部（APQA / 농림축산검역본부）** — 动物检疫、HPAI管控、兽医证书
+- **食品药品安全部（MFDS / 식품의약품안전처）** — 食品安全标准、六步进口卫生评估、境外设施注册
+- **农林畜产检疫本部（APQA / 농림축산검역본부）** — 双边检疫协议、HPAI管控、兽医证书
 
-准入状态为"受限" — 法律贸易框架存在，但**中国禽类和蛋品因HPAI相关暂停**是阻碍活跃贸易的首要壁垒。
+> **重要评估**：中国**几乎可以确定尚未完成**APQA要求的蛋品出口双边检疫协议。不存在已批准的中韩蛋品双边兽医协议的公开记录，也无中国蛋品设施通过MFDS进口卫生评估的证据。这是**阻断性壁垒**——在此流程完成前，贸易无法进行。
 
 ### 关键事实
 
-- **HPAI暂停**：APQA对有活跃HPAI暴发国家的禽类/蛋品实施进口限制 — **中国已多次受到暂停影响**
-- **境外设施注册**：依据**《进口食品安全管理特别法》（수입식품안전관리특별법）**，境外生产商须向MFDS注册
+- **无双边协议**：APQA要求完成双边检疫谈判后，任何国家方可对韩出口畜产品/蛋品 — **无证据表明中国蛋品已完成此程序**
+- **HPAI阻断**：中国HPAI地方性流行导致韩国限制进口；韩国遵循WOAH指南，要求90天无HPAI方可解除禁令
+- **六步进口卫生评估**：MFDS要求问卷审核、现场检查、等效性认定和设施注册**后**方可开始进口
+- **蛋品被排除在FTA之外**：中韩FTA（2015年12月）将蛋品明确列入**"高度敏感清单"** — **无关税减让**，适用27-30%最惠国关税
 - **韩语标签**：依据**《食品等标示·广告法》（식품 등의 표시·광고에 관한 법률）**，所有进口食品须使用韩语标签
-- **中韩FTA**：2015年12月生效，但蛋品（HS 0408）因农业敏感性获得的关税减让有限
-- 韩国是加工蛋品（特别是蛋粉和液蛋，用于食品制造）的**净进口国**
+- **双重PLS**：韩国对农药（2019年1月）和兽药（2024年1月）均适用0.01 ppm默认限量
+- **已知获准蛋品出口国**：美国、巴西、泰国、丹麦 — **中国不在其中**
 
 ---
 
@@ -33,12 +35,21 @@ summaryZh: "韩国通过食品药品安全部（MFDS，食品安全和设施注�
 
 ### HPAI进口管控
 
-APQA依据**《家畜传染病预防法》（가축전염병예방법）**对来自HPAI暴发国的进口实施严格管控：
+APQA（隶属农林畜产食品部MAFRA）是**国家准入的看门人**。任何国家向韩国出口畜产品/蛋品前，必须完成与APQA的**双边检疫谈判**。主要职责：
+
+- 维护**有资格向韩国出口畜产品的国家/地区名单** — [APQA合格国家名单](https://www.qia.go.kr/english/html/About_QIA/listqiaEngNoticeWebAction.do?type=21&clear=1)
+- 与每个出口国双边谈判**进口卫生要求（IHR）**
+- 审批**单个境外工厂**的对韩出口资格
+- 在入境口岸实施**检疫检查**
+
+### HPAI进口管控（家畜传染病预防法 / 가축전염병예방법）
 
 - **机制**：出口国确认HPAI时，APQA暂停该国或受影响地区的禽类和蛋品进口
-- **范围**：涵盖壳蛋、液蛋、冷冻蛋，加工蛋制品视热处理情况可能也在范围内
-- **当前状态**：中国经历过多次HPAI暴发 — **发货前务必向APQA确认当前暂停状态**
-- **APQA进口检疫要求**：[https://www.qia.go.kr/animal/quarantine/ani_livestock_import.jsp](https://www.qia.go.kr/animal/quarantine/ani_livestock_import.jsp)
+- **WOAH标准**：韩国遵循WOAH指南 — 要求**90天无HPAI**方可解除禁令
+- **韩国自身经历**：韩国在2024年10月至2025年6月间发生**50起HPAI暴发**，影响249万只家禽 — 表明其对HPAI风险极度敏感
+- **中国状态**：中国HPAI地方性流行 — **无证据表明中国获得APQA蛋品检疫批准**
+- **已知获准蛋品出口国**：美国、巴西、泰国、丹麦 — 中国**不在**获准蛋品出口国之列
+- **APQA出口/进口检疫**：[https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_006.jsp](https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_006.jsp)
 
 ### 兽医卫生证书要求
 
@@ -66,18 +77,37 @@ APQA依据**《家畜传染病预防法》（가축전염병예방법）**对来
 
 ### 进口食品安全管理特别法
 
-**《进口食品安全管理特别法》（수입식품안전관리특별법）**是规范食品进口的主要法规。主要要求：
+**《进口食品安全管理特别法》（수입식품안전관리특별법）**（2016年2月4日生效）是规范食品进口的主要法规。蛋品被归类为**须特别卫生管控的畜产品** — 最严格的进口路径。
+
+### 六步进口卫生评估（市场准入前置条件）
+
+任何国家向韩国出口畜产品/蛋品前，必须通过此评估：
+
+| 步骤 | 流程 |
+|------|------|
+| 1 | MFDS向出口国主管机构发送**进口卫生问卷** |
+| 2 | MFDS审核问卷答复 |
+| 3 | MFDS对出口国监管体系和设施进行**海外现场检查** |
+| 4 | MFDS作出进口批准决定（**等效性认定**） |
+| 5 | MFDS与出口国谈判**卫生要求和卫生证书模板** |
+| 6 | **境外食品设施注册** |
+
+合规率在70-85%之间触发整改期（60+30天）。合规率**低于70%将导致进口禁止**。
+
+**来源**：[MFDS进口食品安全](https://www.mfds.go.kr/eng/wpge/m_11/de011002l001.do)
 
 ### 境外设施注册
 
 | 要求 | 详情 |
 |------|------|
-| 法律依据 | 《进口食品安全管理特别法》第5条 |
-| 系统 | **进口食品信息系统（IFIS）** — [https://impfood.mfds.go.kr](https://impfood.mfds.go.kr) |
-| 注册主体 | **境外生产商**（或通过授权韩国代理人） |
+| 法律依据 | 《进口食品安全管理特别法》 |
+| 系统 | **进口食品信息Maru（IFIS）** — [https://impfood.mfds.go.kr/?locale=en_EN](https://impfood.mfds.go.kr/?locale=en_EN) |
+| 注册主体 | **出口国政府**代为注册（非自行注册） |
 | 所需材料 | 设施信息、产品类型、生产工艺、卫生控制文件 |
-| 有效期 | 注册须维护和更新；定期审查 |
-| 后果 | 未注册设施的产品**无法通过韩国海关** |
+| 有效期 | **2年**（可续期） |
+| 注册期限 | 进口申报前至少**7天** |
+| 简化方案 | 持有ISO 22000、HACCP、GMP、FSSC 22000、BRC、SQF或IFS认证的设施可申请差异化（简化）注册（2023年2月起） |
+| 后果 | 未注册设施的产品 — **进口通关不予受理** |
 
 ### 进口检查流程
 
@@ -116,11 +146,13 @@ APQA依据**《家畜传染病预防法》（가축전염병예방법）**对来
 
 韩国运行自有的兽药和农药残留限量体系：
 
-| 类别 | 框架 |
-|------|------|
-| **兽药MRL** | 由MFDS依据《畜产品卫生管理法》管理 |
-| **农药MRL** | 2019年1月起实施肯定列表制度（PLS）— 与日本体系类似 |
-| **默认MRL** | 未建立MRL的物质默认**0.01 ppm**（PLS下） |
+| 类别 | 框架 | PLS生效日期 |
+|------|------|-----------|
+| **农药MRL** | 约84种以上农药对蛋品有特定MRL；未列入物质适用PLS | **2019年1月1日** |
+| **兽药MRL** | 约193种以上兽药有特定MRL；26种禁用化合物（零容忍） | **2024年1月1日** |
+| **默认MRL（PLS）** | 未建立MRL的任何物质默认**0.01 ppm** | 两个类别均适用 |
+
+韩国MRL总体上**严于或等同于Codex标准**。0.01 ppm默认值比Codex更为保守——Codex仅对已评估的化合物设定MRL（无通用默认值）。
 
 ### 蛋品关键MRL
 
@@ -164,13 +196,19 @@ APQA依据**《家畜传染病预防法》（가축전염병예방법）**对来
 
 ### 过敏原声明
 
-韩国强制要求以下过敏原标签（包括蛋类）：
+韩国强制要求**22个类别**的过敏原标签（包括蛋类）：
 
-**强制过敏原**：蛋类、乳、荞麦、花生、大豆、小麦、鲭鱼、蟹、虾、猪肉、桃、番茄、亚硫酸盐、核桃、鸡肉、牛肉、鱿鱼、贝类（含牡蛎、鲍鱼、贻贝）、松子
+**强制过敏原（22种）**：蛋类、乳、荞麦、花生、大豆、小麦、鲭鱼、蟹、虾、猪肉、桃、番茄、亚硫酸盐、核桃、鸡肉、牛肉、鱿鱼、贝类（含牡蛎、鲍鱼、贻贝）、松子等
 
 蛋品须醒目声明"알류(계란) 함유"（含蛋类）。
 
-**来源**：[MFDS食品标签标准](https://www.mfds.go.kr/wpge/m_658/de010601l001.do)
+### 标签格式说明
+
+- 韩语贴标/标签允许使用但**不得易于撕除**且**不得遮盖原标签**
+- 外语可与韩语并列但字体**不得大于**韩语文字
+- 标签须在**海关放行前**粘贴
+
+**来源**：[MFDS食品标签标准（英文PDF）](https://www.mfds.go.kr/files/upload/eng/Foods_labeling_standars_03.pdf) | [MFDS食品标签制度](https://www.mfds.go.kr/eng/wpge/m_14/de011005l001.do)
 
 ---
 
@@ -178,20 +216,27 @@ APQA依据**《家畜传染病预防法》（가축전염병예방법）**对来
 
 ### HS 0408关税结构
 
-| HS编码 | 描述 | 基础MFN税率 | 中韩FTA |
-|--------|------|------------|---------|
-| 0408.11 | 干燥蛋黄 | 8% | 有限减让 — 农业敏感性排除 |
-| 0408.19 | 其他蛋黄（液态/冷冻） | 8% | 有限减让 |
-| 0408.91 | 其他干燥蛋（全蛋/蛋白） | 8% | 有限减让 |
-| 0408.99 | 其他去壳蛋 | 8% | 有限减让 |
+| HS编码 | 描述 | MFN税率 | 中韩FTA |
+|--------|------|---------|---------|
+| 0408.11 | 干燥蛋黄 | **27%** | **排除** — 无减让 |
+| 0408.19 | 其他蛋黄（液态/冷冻） | **27%** | **排除** — 无减让 |
+| 0408.91 | 其他干燥蛋（全蛋/蛋白） | **27%** | **排除** — 无减让 |
+| 0408.99 | 其他去壳蛋 | **30%** | **排除** — 无减让 |
 
-### FTA备注
+### FTA排除 — 重要
 
-- **中韩FTA**（2015年12月生效）对许多产品提供关税减让，但**包括蛋品在内的农产品基本被排除**或纳入长期过渡类别（10–20年逐步取消）
-- **关税查询**：[韩国关税厅 — 关税信息](https://unipass.customs.go.kr/clip/index.do)
+> **蛋品被明确列入中韩FTA"高度敏感清单"。蛋品没有关税削减计划、没有过渡期安排、没有关税配额**。中国蛋品出口适用完整MFN税率（27-30%）。
+
+据[FFTC中韩FTA农业谈判分析](https://ap.fftc.org.tw/article/811)：
+> "国内市场的主要动物产品，如牛、猪、鸡、鸭及其他主要动物产品，如**奶和蛋均被排除在谈判之外**。"
+
+### 其他关税备注
+
+- **调整关税/自愿TRQ**：韩国在国内供应短缺时（如HPAI暴发期间）可开放配额内进口享受0%关税 — 但这是临时性的，非保证性
 - **增值税**：进口货物10%（按CIF+关税计算）
+- **关税查询**：[韩国关税厅UniPass](https://unipass.customs.go.kr/clip/hsinfosrch/openULS0201002Q.do?engl=Y)
 
-**来源**：[韩国关税厅（KCS）](https://www.customs.go.kr/english/main.do) | [中韩FTA文本](http://fta.mofcom.gov.cn/korea/korea_agreementText.shtml)
+**来源**：[KCS FTA门户](https://www.customs.go.kr/engportal/cm/cntnts/cntntsView.do?mi=7312&cntntsId=2334) | [中韩FTA文本（英文PDF）](https://fta.mofcom.gov.cn/korea/annex/xdzw_en.pdf) | [PIIE评估](https://www.piie.com/sites/default/files/publications/pb/pb15-24.pdf)
 
 ---
 
@@ -243,25 +288,36 @@ APQA依据**《家畜传染病预防法》（가축전염병예방법）**对来
 
 ### MFDS（食品安全与进口管控）
 - MFDS英文门户：[https://www.mfds.go.kr/eng/index.do](https://www.mfds.go.kr/eng/index.do)
-- MFDS进口食品安全：[https://www.mfds.go.kr/wpge/m_659/de010602l001.do](https://www.mfds.go.kr/wpge/m_659/de010602l001.do)
-- MFDS食品标签标准：[https://www.mfds.go.kr/wpge/m_658/de010601l001.do](https://www.mfds.go.kr/wpge/m_658/de010601l001.do)
-- 进口食品信息系统（IFIS）：[https://impfood.mfds.go.kr](https://impfood.mfds.go.kr)
+- MFDS进口食品安全：[https://www.mfds.go.kr/eng/wpge/m_11/de011002l001.do](https://www.mfds.go.kr/eng/wpge/m_11/de011002l001.do)
+- MFDS食品标签制度：[https://www.mfds.go.kr/eng/wpge/m_14/de011005l001.do](https://www.mfds.go.kr/eng/wpge/m_14/de011005l001.do)
+- MFDS食品标签标准（PDF）：[https://www.mfds.go.kr/files/upload/eng/Foods_labeling_standars_03.pdf](https://www.mfds.go.kr/files/upload/eng/Foods_labeling_standars_03.pdf)
+- MFDS法规清单：[https://www.mfds.go.kr/eng/brd/m_15/list.do](https://www.mfds.go.kr/eng/brd/m_15/list.do)
+- MFDS第5条 — 蛋制品标准（PDF）：[https://www.mfds.go.kr/files/upload/eng/Article_5._Standards_and_Spefications_for_Each_Food_Product.pdf](https://www.mfds.go.kr/files/upload/eng/Article_5._Standards_and_Spefications_for_Each_Food_Product.pdf)
+- 进口食品信息Maru（IFIS）：[https://impfood.mfds.go.kr/?locale=en_EN](https://impfood.mfds.go.kr/?locale=en_EN)
 
 ### Food Safety Korea（综合门户）
 - Food Safety Korea门户：[https://www.foodsafetykorea.go.kr](https://www.foodsafetykorea.go.kr)
 - 韩国食品公典：[https://www.foodsafetykorea.go.kr/foodcode/](https://www.foodsafetykorea.go.kr/foodcode/)
-- 残留标准数据库：[https://www.foodsafetykorea.go.kr/residue/main.do](https://www.foodsafetykorea.go.kr/residue/main.do)
+- 残留标准数据库：[https://www.foodsafetykorea.go.kr/residue](https://www.foodsafetykorea.go.kr/residue)
 
 ### APQA（动物检疫）
-- APQA门户：[https://www.qia.go.kr](https://www.qia.go.kr)
-- APQA动物检疫（英文）：[https://www.qia.go.kr/english/html/Animal_livestock/ani_livestock_import-E.jsp](https://www.qia.go.kr/english/html/Animal_livestock/ani_livestock_import-E.jsp)
-- APQA进口检疫要求：[https://www.qia.go.kr/animal/quarantine/ani_livestock_import.jsp](https://www.qia.go.kr/animal/quarantine/ani_livestock_import.jsp)
+- APQA英文门户：[https://www.qia.go.kr/english/html/indexqiaEngNoticeWebAction.do](https://www.qia.go.kr/english/html/indexqiaEngNoticeWebAction.do)
+- APQA出口/进口检疫检查：[https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_006.jsp](https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_006.jsp)
+- APQA合格国家名单：[https://www.qia.go.kr/english/html/About_QIA/listqiaEngNoticeWebAction.do?type=21&clear=1](https://www.qia.go.kr/english/html/About_QIA/listqiaEngNoticeWebAction.do?type=21&clear=1)
 
 ### 关税与贸易
 - 韩国关税厅（英文）：[https://www.customs.go.kr/english/main.do](https://www.customs.go.kr/english/main.do)
-- KCS UniPass关税查询：[https://unipass.customs.go.kr/clip/index.do](https://unipass.customs.go.kr/clip/index.do)
-- 中韩FTA文本：[http://fta.mofcom.gov.cn/korea/korea_agreementText.shtml](http://fta.mofcom.gov.cn/korea/korea_agreementText.shtml)
+- KCS UniPass HS编码关税查询：[https://unipass.customs.go.kr/clip/hsinfosrch/openULS0201002Q.do?engl=Y](https://unipass.customs.go.kr/clip/hsinfosrch/openULS0201002Q.do?engl=Y)
+- KCS FTA门户：[https://www.customs.go.kr/engportal/cm/cntnts/cntntsView.do?mi=7312&cntntsId=2334](https://www.customs.go.kr/engportal/cm/cntnts/cntntsView.do?mi=7312&cntntsId=2334)
+- 中韩FTA全文（英文PDF）：[https://fta.mofcom.gov.cn/korea/annex/xdzw_en.pdf](https://fta.mofcom.gov.cn/korea/annex/xdzw_en.pdf)
+- FFTC — 中韩FTA农业谈判结果：[https://ap.fftc.org.tw/article/811](https://ap.fftc.org.tw/article/811)
+- 韩国进口关税指南：[https://www.trade.gov/country-commercial-guides/south-korea-import-tariffs](https://www.trade.gov/country-commercial-guides/south-korea-import-tariffs)
+
+### MRL与残留标准
+- USDA MRL数据库（韩国）：[https://www.fas.usda.gov/maximum-residue-limits-mrl-database](https://www.fas.usda.gov/maximum-residue-limits-mrl-database)
+- USDA — 韩国兽药PLS：[https://www.fas.usda.gov/data/south-korea-koreas-positive-list-system-veterinary-drugs](https://www.fas.usda.gov/data/south-korea-koreas-positive-list-system-veterinary-drugs)
 
 ### 其他
 - 农林畜产食品部（MAFRA）：[https://www.mafra.go.kr](https://www.mafra.go.kr)
+- USDA韩国FAIRS报告（2025年）：[USDA FAS韩国FAIRS](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=FAIRS+Country+Report+Annual_Seoul_Korea+-+Republic+of_KS2025-0011)
 - 海关总署 — 第249号令：[https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
