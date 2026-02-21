@@ -26,10 +26,10 @@ const statusCounts = {
         {t('hero.subtitle')}
       </p>
       <div class="mt-8 flex flex-wrap gap-3">
-        <a href="/zh/markets/" class="inline-flex items-center px-5 py-2.5 bg-white text-primary-900 font-medium rounded-lg hover:bg-primary-50 transition-colors">
+        <a href="/zh/markets/" class="inline-flex items-center px-6 py-3 bg-white text-primary-900 font-medium rounded-lg hover:bg-primary-50 transition-colors duration-200 cursor-pointer min-h-[44px]">
           {t('nav.markets')} &rarr;
         </a>
-        <a href="/zh/guides/gacc-registration" class="inline-flex items-center px-5 py-2.5 border border-primary-300 text-white font-medium rounded-lg hover:bg-primary-700 transition-colors">
+        <a href="/zh/guides/" class="inline-flex items-center px-6 py-3 border border-primary-300 text-white font-medium rounded-lg hover:bg-primary-700 transition-colors duration-200 cursor-pointer min-h-[44px]">
           {t('nav.guides')} &rarr;
         </a>
       </div>
@@ -58,10 +58,10 @@ const statusCounts = {
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
       {allMarkets.sort((a, b) => a.data.priority - b.data.priority).map((market) => (
-        <a href={`/zh/markets/${market.data.slug}`} class="block border border-slate-200 rounded-lg p-5 hover:border-primary-300 hover:shadow-md transition-all group">
+        <a href={`/zh/markets/${market.data.slug}`} class="block border border-slate-200 rounded-lg p-5 hover:border-primary-300 hover:shadow-md transition-all duration-200 cursor-pointer group">
           <div class="flex items-start justify-between gap-3">
             <div>
-              <h3 class="font-semibold text-slate-900 group-hover:text-primary-700 transition-colors">
+              <h3 class="font-semibold text-slate-900 group-hover:text-primary-700 transition-colors duration-200">
                 {market.data.titleZh}
               </h3>
               <p class="text-sm text-slate-500 mt-1">{market.data.region} &middot; 更新于 {market.data.asOfDate}</p>
@@ -82,13 +82,15 @@ const statusCounts = {
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         {allGuides.sort((a, b) => a.data.priority - b.data.priority).map((guide) => (
-          <a href={`/zh/guides/${guide.data.slug}`} class="block bg-white border border-slate-200 rounded-lg p-5 hover:border-primary-300 hover:shadow-md transition-all group">
+          <a href={`/zh/guides/${guide.data.slug}`} class="block bg-white border border-slate-200 rounded-lg p-5 hover:border-primary-300 hover:shadow-md transition-all duration-200 cursor-pointer group">
             <div class="flex items-start gap-3">
-              <span class="inline-flex items-center justify-center w-8 h-8 bg-primary-100 text-primary-700 rounded-lg text-sm font-bold flex-shrink-0">
-                G
+              <span class="inline-flex items-center justify-center w-8 h-8 bg-primary-100 text-primary-700 rounded-lg flex-shrink-0">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
               </span>
               <div>
-                <h3 class="font-semibold text-slate-900 group-hover:text-primary-700 transition-colors">
+                <h3 class="font-semibold text-slate-900 group-hover:text-primary-700 transition-colors duration-200">
                   {guide.data.titleZh}
                 </h3>
                 <p class="text-xs text-slate-500 mt-0.5">{guide.data.category}</p>

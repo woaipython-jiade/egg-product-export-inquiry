@@ -6,11 +6,40 @@ const t = useTranslations(lang);
 ---
 
 <footer class="border-t border-slate-200 bg-slate-50 mt-16">
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
-    <div class="text-center space-y-3">
-      <p class="text-sm text-amber-700 bg-amber-50 border border-amber-200 rounded-md px-4 py-2 inline-block">
-        {t('footer.disclaimer')}
-      </p>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
+    <!-- Footer nav columns -->
+    <div class="grid grid-cols-2 sm:grid-cols-3 gap-8 mb-8">
+      <!-- Platform -->
+      <div>
+        <h3 class="text-sm font-semibold text-slate-900 mb-3">{t('nav.home')}</h3>
+        <ul class="space-y-2">
+          <li><a href={`/${lang}/`} class="text-sm text-slate-600 hover:text-primary-700 transition-colors duration-200 cursor-pointer">{t('nav.home')}</a></li>
+          <li><a href={`/${lang}/markets/`} class="text-sm text-slate-600 hover:text-primary-700 transition-colors duration-200 cursor-pointer">{t('nav.markets')}</a></li>
+        </ul>
+      </div>
+
+      <!-- Resources -->
+      <div>
+        <h3 class="text-sm font-semibold text-slate-900 mb-3">{t('nav.guides')}</h3>
+        <ul class="space-y-2">
+          <li><a href={`/${lang}/guides/`} class="text-sm text-slate-600 hover:text-primary-700 transition-colors duration-200 cursor-pointer">{t('nav.guides')}</a></li>
+          <li><a href={`/${lang}/hs-codes/`} class="text-sm text-slate-600 hover:text-primary-700 transition-colors duration-200 cursor-pointer">{t('nav.hscodes')}</a></li>
+        </ul>
+      </div>
+
+      <!-- Legal -->
+      <div class="col-span-2 sm:col-span-1">
+        <h3 class="text-sm font-semibold text-slate-900 mb-3">
+          {lang === 'en' ? 'Legal' : '法律信息'}
+        </h3>
+        <p class="text-xs text-slate-500 leading-relaxed">
+          {t('footer.disclaimer')}
+        </p>
+      </div>
+    </div>
+
+    <!-- Bottom bar -->
+    <div class="pt-6 border-t border-slate-200 text-center">
       <p class="text-xs text-slate-500">
         {t('footer.copyright')}
       </p>

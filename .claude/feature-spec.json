@@ -1,0 +1,91 @@
+{
+  "project": "egg-product-export-inquiry",
+  "phase": 2,
+  "status": "complete",
+  "features": {
+    "astro-scaffold": {
+      "status": "complete",
+      "version": "5.17.3",
+      "typescript": "strict"
+    },
+    "tailwind": {
+      "status": "complete",
+      "version": "3.4.x",
+      "plugins": ["@tailwindcss/typography"]
+    },
+    "i18n": {
+      "status": "complete",
+      "locales": ["en", "zh"],
+      "defaultLocale": "en",
+      "routing": "prefix-all"
+    },
+    "fonts": {
+      "status": "complete",
+      "method": "fontsource",
+      "families": ["Inter", "Noto Sans SC"]
+    },
+    "design-system": {
+      "status": "complete",
+      "file": "design-system/MASTER.md",
+      "style": "Professional Editorial"
+    },
+    "content-collections": {
+      "status": "complete",
+      "collections": ["markets", "guides"],
+      "loader": "glob"
+    },
+    "pages": {
+      "status": "complete",
+      "count": 26,
+      "routes": [
+        "/",
+        "/en/",
+        "/zh/",
+        "/en/markets/",
+        "/zh/markets/",
+        "/en/markets/[slug]",
+        "/zh/markets/[slug]",
+        "/en/guides/",
+        "/zh/guides/",
+        "/en/guides/[slug]",
+        "/zh/guides/[slug]",
+        "/en/hs-codes/",
+        "/zh/hs-codes/"
+      ]
+    },
+    "content": {
+      "markets": [
+        { "slug": "hong-kong-macau", "status": "Open", "languages": ["en", "zh"] },
+        { "slug": "singapore", "status": "Open", "languages": ["en", "zh"] },
+        { "slug": "malaysia", "status": "Restricted", "languages": ["en", "zh"] },
+        { "slug": "japan", "status": "Restricted", "languages": ["en", "zh"] },
+        { "slug": "eu", "status": "Closed", "languages": ["en", "zh"] },
+        { "slug": "us", "status": "Closed", "languages": ["en", "zh"] }
+      ],
+      "guides": [
+        { "slug": "gacc-registration", "category": "Regulatory", "languages": ["en", "zh"] },
+        { "slug": "health-certificate", "category": "Documentation", "languages": ["en", "zh"] },
+        { "slug": "residue-compliance", "category": "Compliance", "languages": ["en", "zh"] }
+      ]
+    },
+    "ui-ux-audit": {
+      "status": "complete",
+      "fixes": [
+        "cursor-pointer on all clickable elements",
+        "focus-visible ring styles globally",
+        "prefers-reduced-motion support",
+        "aria-labels and aria-expanded",
+        "active nav state highlighting",
+        "SVG icons replacing text letters",
+        "44px minimum touch targets",
+        "consistent transition durations",
+        "enhanced footer with nav columns"
+      ]
+    }
+  },
+  "buildVerification": {
+    "buildPasses": true,
+    "pagesGenerated": 26,
+    "lastVerified": "2026-02-20"
+  }
+}

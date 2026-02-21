@@ -36,6 +36,11 @@ export const ui = {
     'readmore': 'Read more',
     'back.markets': '← Back to Markets',
     'back.guides': '← Back to Guides',
+    'hscodes.title': 'HS Codes Reference',
+    'hscodes.subtitle': 'Harmonized System codes for egg products commonly exported from China.',
+    'hscodes.code': 'HS Code',
+    'hscodes.description': 'Description',
+    'hscodes.commercial': 'Commercial Name',
   },
   zh: {
     'site.title': '蛋品出口查询平台',
@@ -65,6 +70,11 @@ export const ui = {
     'readmore': '查看详情',
     'back.markets': '← 返回市场列表',
     'back.guides': '← 返回指南列表',
+    'hscodes.title': 'HS编码参考',
+    'hscodes.subtitle': '中国常见出口蛋品的协调制度编码。',
+    'hscodes.code': 'HS编码',
+    'hscodes.description': '描述',
+    'hscodes.commercial': '商品名称',
   },
 } as const;
 
