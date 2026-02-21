@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import StatusBadge from '../../../components/StatusBadge.astro';
+import { getCollection, render } from 'astro:content';
+import { useTranslations } from '../../../i18n/ui';
+
+const t = useTranslations('zh');
+
+export async function getStaticPaths() {
+  const markets = await getCollection('markets', ({ id }) => id.startsWith('zh/'));
+  return markets.map((market) => ({
+    params: { slug: market.data.slug },
+    props: { market },
+  }));
+}
+
+const { market } = Astro.props;
+const { Content } = await render(market);
+---
+
+<BaseLayout title={market.data.titleZh}>
+  <article class="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+    <a href="/zh/markets/" class="text-sm text-primary-600 hover:text-primary-700 font-medium">
+      {t('back.markets')}
+    </a>
+
+    <div class="mt-6 mb-8">
+      <div class="flex items-start justify-between gap-4 flex-wrap">
+        <h1 class="text-3xl sm:text-4xl font-bold text-slate-900">{market.data.titleZh}</h1>
+        <StatusBadge status={market.data.status} lang="zh" />
+      </div>
+      <p class="text-sm text-slate-500 mt-2">
+        {market.data.region} &middot; 更新于 {market.data.asOfDate}
+      </p>
+      <p class="text-lg text-slate-600 mt-4">{market.data.summaryZh}</p>
+    </div>
+
+    <div class="prose prose-slate max-w-none">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

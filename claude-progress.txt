@@ -1,0 +1,40 @@
+# Egg Product Export Inquiry — Project Progress
+
+## Phase 1: Foundation + First Content
+Status: COMPLETE
+
+### Completed Steps
+- [x] Step 1: Scaffold Astro project (v5.17.3, pnpm, TypeScript strict)
+- [x] Step 2: Configure Tailwind v3 + Typography plugin + self-hosted fonts (fontsource)
+- [x] Step 3: Define content schemas (markets, guides) with Zod + glob loader
+- [x] Step 4: Build base layout (BaseLayout, Header, Footer, LanguageSwitcher, StatusBadge)
+- [x] Step 5: Create page templates + i18n routing (/en/, /zh/)
+- [x] Step 6: Draft HK/Macau market page (EN + ZH)
+- [x] Step 7: Draft GACC Registration guide (EN + ZH)
+- [x] Step 8: Homepage with hero, market overview, guide cards, about section
+- [x] Step 9: Git init + progress tracking
+
+### Architecture Decisions
+- Astro v5 with new content layer API (glob loader, render() function)
+- Tailwind v3 (required by @astrojs/tailwind v6)
+- Fontsource for self-hosted Inter + Noto Sans SC fonts
+- Manual i18n routing (/en/ and /zh/ prefix) with shared content collections
+- Content collections use path-based IDs to distinguish EN/ZH variants
+
+### Key Files
+- astro.config.mjs — Astro + Tailwind + i18n config
+- src/content/config.ts — Content collection schemas
+- src/i18n/ui.ts — UI translations and locale utilities
+- src/layouts/BaseLayout.astro — Main layout with font imports
+
+### Build Verification
+- `pnpm build` passes successfully
+- All 8 pages generate (EN homepage, ZH homepage, EN/ZH market index, EN/ZH market detail, EN/ZH guide detail)
+- Redirect from / to /en/ works
+
+### Next Phase Ideas
+- Add more market pages (Japan, EU, US, Southeast Asia)
+- Add HS codes reference page
+- Add search functionality
+- Add more compliance guides
+- SEO optimization and sitemap

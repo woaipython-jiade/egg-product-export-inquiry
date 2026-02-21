@@ -1,0 +1,111 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StatusBadge from '../../components/StatusBadge.astro';
+import { getCollection } from 'astro:content';
+import { useTranslations } from '../../i18n/ui';
+
+const t = useTranslations('en');
+const allMarkets = await getCollection('markets', ({ id }) => !id.startsWith('zh/'));
+const allGuides = await getCollection('guides', ({ id }) => !id.startsWith('zh/'));
+
+const statusCounts = {
+  Open: allMarkets.filter(m => m.data.status === 'Open').length,
+  Restricted: allMarkets.filter(m => m.data.status === 'Restricted').length,
+  Closed: allMarkets.filter(m => m.data.status === 'Closed').length,
+};
+---
+
+<BaseLayout>
+  <!-- Hero -->
+  <section class="bg-gradient-to-br from-primary-900 via-primary-800 to-primary-950 text-white">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight mb-4">
+        {t('hero.title')}
+      </h1>
+      <p class="text-lg sm:text-xl text-primary-100 max-w-2xl leading-relaxed">
+        {t('hero.subtitle')}
+      </p>
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a href="/en/markets/" class="inline-flex items-center px-5 py-2.5 bg-white text-primary-900 font-medium rounded-lg hover:bg-primary-50 transition-colors">
+          {t('nav.markets')} &rarr;
+        </a>
+        <a href="/en/guides/gacc-registration" class="inline-flex items-center px-5 py-2.5 border border-primary-300 text-white font-medium rounded-lg hover:bg-primary-700 transition-colors">
+          {t('nav.guides')} &rarr;
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Market Overview -->
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+    <h2 class="text-2xl font-bold text-slate-900 mb-2">{t('home.markets.title')}</h2>
+    <p class="text-slate-600 mb-8">{t('home.markets.subtitle')}</p>
+
+    <!-- Status summary cards -->
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+      <div class="bg-status-open-bg border border-status-open/20 rounded-lg p-5 text-center">
+        <div class="text-3xl font-bold text-status-open">{statusCounts.Open}</div>
+        <div class="text-sm text-status-open font-medium mt-1">{t('status.open')}</div>
+      </div>
+      <div class="bg-status-restricted-bg border border-status-restricted/20 rounded-lg p-5 text-center">
+        <div class="text-3xl font-bold text-status-restricted">{statusCounts.Restricted}</div>
+        <div class="text-sm text-status-restricted font-medium mt-1">{t('status.restricted')}</div>
+      </div>
+      <div class="bg-status-closed-bg border border-status-closed/20 rounded-lg p-5 text-center">
+        <div class="text-3xl font-bold text-status-closed">{statusCounts.Closed}</div>
+        <div class="text-sm text-status-closed font-medium mt-1">{t('status.closed')}</div>
+      </div>
+    </div>
+
+    <!-- Market cards -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {allMarkets.sort((a, b) => a.data.priority - b.data.priority).map((market) => (
+        <a href={`/en/markets/${market.data.slug}`} class="block border border-slate-200 rounded-lg p-5 hover:border-primary-300 hover:shadow-md transition-all group">
+          <div class="flex items-start justify-between gap-3">
+            <div>
+              <h3 class="font-semibold text-slate-900 group-hover:text-primary-700 transition-colors">
+                {market.data.title}
+              </h3>
+              <p class="text-sm text-slate-500 mt-1">{market.data.region} &middot; Updated {market.data.asOfDate}</p>
+            </div>
+            <StatusBadge status={market.data.status} lang="en" />
+          </div>
+          <p class="text-sm text-slate-600 mt-3">{market.data.summary}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Guides -->
+  <section class="bg-slate-50 border-y border-slate-200">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+      <h2 class="text-2xl font-bold text-slate-900 mb-2">{t('home.guides.title')}</h2>
+      <p class="text-slate-600 mb-8">{t('home.guides.subtitle')}</p>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {allGuides.sort((a, b) => a.data.priority - b.data.priority).map((guide) => (
+          <a href={`/en/guides/${guide.data.slug}`} class="block bg-white border border-slate-200 rounded-lg p-5 hover:border-primary-300 hover:shadow-md transition-all group">
+            <div class="flex items-start gap-3">
+              <span class="inline-flex items-center justify-center w-8 h-8 bg-primary-100 text-primary-700 rounded-lg text-sm font-bold flex-shrink-0">
+                G
+              </span>
+              <div>
+                <h3 class="font-semibold text-slate-900 group-hover:text-primary-700 transition-colors">
+                  {guide.data.title}
+                </h3>
+                <p class="text-xs text-slate-500 mt-0.5">{guide.data.category}</p>
+                <p class="text-sm text-slate-600 mt-2">{guide.data.summary}</p>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+    <h2 class="text-2xl font-bold text-slate-900 mb-4">{t('home.about.title')}</h2>
+    <p class="text-slate-600 max-w-3xl leading-relaxed">{t('home.about.text')}</p>
+  </section>
+</BaseLayout>

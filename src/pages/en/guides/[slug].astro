@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import { useTranslations } from '../../../i18n/ui';
+
+const t = useTranslations('en');
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides', ({ id }) => !id.startsWith('zh/'));
+  return guides.map((guide) => ({
+    params: { slug: guide.data.slug },
+    props: { guide },
+  }));
+}
+
+const { guide } = Astro.props;
+const { Content } = await render(guide);
+---
+
+<BaseLayout title={guide.data.title}>
+  <article class="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+    <a href="/en/" class="text-sm text-primary-600 hover:text-primary-700 font-medium">
+      {t('back.guides')}
+    </a>
+
+    <div class="mt-6 mb-8">
+      <h1 class="text-3xl sm:text-4xl font-bold text-slate-900">{guide.data.title}</h1>
+      <p class="text-xs text-slate-500 mt-2 uppercase tracking-wide">{guide.data.category}</p>
+      <p class="text-lg text-slate-600 mt-4">{guide.data.summary}</p>
+    </div>
+
+    <div class="prose prose-slate max-w-none">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

@@ -1,0 +1,25 @@
+---
+interface Props {
+  status: 'Open' | 'Restricted' | 'Closed';
+  lang?: 'en' | 'zh';
+}
+
+const { status, lang = 'en' } = Astro.props;
+
+const labels = {
+  Open: { en: 'Open', zh: '开放' },
+  Restricted: { en: 'Restricted', zh: '受限' },
+  Closed: { en: 'Closed', zh: '关闭' },
+};
+
+const styles = {
+  Open: 'bg-status-open-bg text-status-open border-status-open/30',
+  Restricted: 'bg-status-restricted-bg text-status-restricted border-status-restricted/30',
+  Closed: 'bg-status-closed-bg text-status-closed border-status-closed/30',
+};
+---
+
+<span class={`inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-sm font-medium border ${styles[status]}`}>
+  <span class={`w-1.5 h-1.5 rounded-full ${status === 'Open' ? 'bg-status-open' : status === 'Restricted' ? 'bg-status-restricted' : 'bg-status-closed'}`}></span>
+  {labels[status][lang]}
+</span>
