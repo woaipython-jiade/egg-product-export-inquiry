@@ -4,18 +4,20 @@ titleZh: "海关总署出口注册指南"
 slug: "gacc-registration"
 category: "Regulatory"
 priority: 1
-summary: "Step-by-step guide to registering your egg product facility under GACC Decree 248 (overseas importers) and Decree 249 (domestic exporters) — the mandatory prerequisite for all egg product exports from China."
-summaryZh: "根据海关总署第248号令（境外进口商）和第249号令（境内出口商）注册蛋品设施的分步指南——中国所有蛋品出口的强制性前提。"
+summary: "Step-by-step guide to registering your egg product facility under GACC Decree 249 — the mandatory prerequisite for all egg product exports from China. Covers the 6-step registration process, required standards, and ongoing compliance."
+summaryZh: "根据海关总署第249号令注册蛋品出口设施的分步指南——中国所有蛋品出口的强制性前提。涵盖六步备案流程、必需标准及持续合规要求。"
 ---
 
 ## Overview
 
-All egg product manufacturers in China that wish to export must be registered with the **General Administration of Customs of China (GACC)**. This is governed by two key decrees:
+All egg product manufacturers in China that wish to export must be registered with the **General Administration of Customs of China (GACC)**. The governing regulation is:
 
-- **GACC Decree No. 248** (海关总署令第248号) — *Regulations on the Registration and Administration of Overseas Manufacturers of Imported Food* — governs how foreign facilities register to export to China, but also establishes the framework for reciprocal registration
-- **GACC Decree No. 249** (海关总署令第249号) — *Regulations on the Administration of the Registration of Export Food Manufacturers* — directly governs Chinese domestic facilities seeking to export food products
+- **GACC Decree No. 249** (海关总署令第249号) — 《中华人民共和国进出口食品安全管理办法》(*Administrative Measures for Import and Export Food Safety*) — effective **January 1, 2022**. This is the current omnibus regulation covering export food enterprise registration, export food inspection, and health certificate issuance. It supersedes the earlier standalone rules (AQSIQ Order No. 142, as amended by GACC Decree No. 243).
+  - Official text: [gov.cn](https://www.gov.cn/gongbao/content/2021/content_5621202.htm) | [customs.gov.cn](http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html)
 
-**Decree 249 is the primary regulation** for Chinese egg product exporters. It requires that all export food production facilities register with GACC through the local customs office.
+> **Note on Decree 248**: GACC Decree No. 248 governs *overseas* food producers registering to export *into* China — it is not directly applicable to Chinese exporters, but importing countries may reference it in reciprocal arrangements.
+
+**Decree 249 requires** that all export food production facilities register (备案) with GACC through the local customs office. Customs reviews applications within **20 working days** of acceptance.
 
 ---
 
@@ -27,10 +29,11 @@ All egg product manufacturers in China that wish to export must be registered wi
 |----------|-------|-------|
 | **GB 2749-2015** | National Food Safety Standard — Eggs | Safety requirements for fresh shell eggs |
 | **GB 21710-2016** | National Food Safety Standard — Egg Products | Safety requirements for processed egg products (liquid, dried, frozen) |
-| **GB 14881-2013** | General Hygienic Practice for Food Production | Facility hygiene requirements (prerequisite for registration) |
+| **GB 14881-2013** | General Hygienic Practice for Food Production | Facility hygiene requirements (prerequisite for registration). **Note**: Being replaced by GB 14881-2025, effective 2026-09-02 |
 | **GB 31650-2019** | Maximum Residue Limits for Veterinary Drugs in Food | MRL values for all permitted veterinary drugs in eggs |
 | **GB 2762-2022** | Maximum Levels of Contaminants in Food | Heavy metals (Pb, Cd, Hg, As) and other contaminant limits |
 | **GB 2763-2021** | Maximum Residue Limits for Pesticides in Food | Pesticide MRLs applicable to eggs |
+| **SN/T 0422-2010** | Rules for Inspection and Quarantine of Fresh Eggs and Egg Products for Import and Export | Covers sampling, inspection procedures, result judgment, non-conforming handling, storage/transport |
 | **SN/T 1.29** | Export Egg Product Inspection Regulations | Specific export inspection procedures |
 
 ### Governing Bodies
@@ -44,14 +47,28 @@ All egg product manufacturers in China that wish to export must be registered wi
 
 ---
 
-## GACC Online Registration: CIFER System
+## GACC Online Registration Systems
 
-GACC uses the **China Import Food Enterprise Registration (CIFER)** system for managing registrations. For domestic export registrations under Decree 249, the process goes through the **"Internet+ Customs" (互联网+海关)** platform:
+For **domestic export food enterprise registration** (备案) under Decree 249, two systems are available:
+
+### Primary: Internet+ Customs Portal (互联网+海关)
 
 - **Portal URL**: [https://online.customs.gov.cn](https://online.customs.gov.cn)
-- **System name**: 互联网+海关 → 企业管理和稽查 → 出口食品生产企业备案
+- **All services listing**: [online.customs.gov.cn/static/pages/alllistitems.html](https://online.customs.gov.cn/static/pages/alllistitems.html)
+- **Service guides**: [online.customs.gov.cn/static/pages/treeGuide.html](https://online.customs.gov.cn/static/pages/treeGuide.html)
+- **Navigation path**: 互联网+海关 → 我要办 → 出口食品生产企业备案
 - **Access**: Requires a GACC digital certificate or China E-Port account
 - **Language**: Chinese only (no English interface)
+
+### Dedicated Export Registration System
+
+- **Direct URL**: `http://qgs.customs.gov.cn:10081/efpe/clogin`
+- **Also accessible via Single Window SSO**: through [singlewindow.cn](https://www.singlewindow.cn) → Enterprise Qualification module
+- This is the dedicated **China Export Food Production Enterprise Registration Management System** (中国出口食品生产企业备案管理系统)
+
+### Related: CIFER (for import-side queries)
+
+The **CIFER** system ([ciferquery.singlewindow.cn](https://ciferquery.singlewindow.cn)) is for querying *overseas* food producers registered to export *into* China — it is not the system for domestic export registration, but can be useful for verifying reciprocal registrations.
 
 ---
 
@@ -143,7 +160,7 @@ Upon successful inspection:
 
 - Facility receives a **GACC export registration number** (出口食品生产企业备案号)
 - Registration number format: typically province code + sequential number
-- Registration is valid for **4 years** from approval date
+- Registration is valid for **5 years** from approval date (per Decree 249)
 - Facility is added to the GACC registered establishment database
 - **Important**: Some destination countries (e.g., Japan, Singapore) maintain their own approved facility lists — GACC registration alone may not be sufficient
 
@@ -157,7 +174,7 @@ Ongoing requirements:
 | Regulatory tracking | Ongoing | Monitor destination country requirement changes |
 | Record keeping | Minimum 2 years | Production, testing, and export shipping records |
 | Change notification | As needed | Notify local customs of significant facility/process/product changes |
-| Renewal application | Before 4-year expiry | Submit renewal through Internet+ Customs portal |
+| Renewal application | 30 days before 5-year expiry | Submit renewal through Internet+ Customs portal |
 
 **Failure to maintain compliance** can result in:
 - Suspension of export registration
@@ -189,18 +206,22 @@ Egg products are subject to strict **veterinary drug residue** monitoring under 
 2. **Traceability gaps** — Must demonstrate full chain from farm/supplier to export shipment; gaps at the raw egg procurement stage are the most common failure
 3. **Outdated testing methods** — Lab methods must align with current GB standards; SN/T methods are required for export-specific testing
 4. **Ignoring destination country requirements** — GACC registration is necessary but may not be sufficient; verify importing country's additional requirements
-5. **Missing renewal deadline** — Registration expires after 4 years; begin renewal process 6 months before expiry
+5. **Missing renewal deadline** — Registration expires after 5 years; renewal must be applied for at least 30 days before expiry per Decree 249
 
 ---
 
 ## Sources
 
 - GACC Internet+ Customs Portal (互联网+海关): [https://online.customs.gov.cn](https://online.customs.gov.cn)
-- GACC Decree No. 249 — Registration of Export Food Manufacturers: [http://www.customs.gov.cn/customs/302249/302266/302267/2801160/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/2801160/index.html)
-- GACC Decree No. 248 — Registration of Overseas Manufacturers of Imported Food: [http://www.customs.gov.cn/customs/302249/302266/302267/2801162/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/2801162/index.html)
-- National Standard GB 2749-2015 (Eggs): National Standards Information Public Service Platform [https://std.samr.gov.cn](https://std.samr.gov.cn)
-- National Standard GB 21710-2016 (Egg Products): [https://std.samr.gov.cn](https://std.samr.gov.cn)
-- National Standard GB 31650-2019 (Veterinary Drug MRLs): [https://std.samr.gov.cn](https://std.samr.gov.cn)
-- National Standard GB 2762-2022 (Contaminants): [https://std.samr.gov.cn](https://std.samr.gov.cn)
+- GACC Internet+ Customs — All Services (我要办): [https://online.customs.gov.cn/static/pages/alllistitems.html](https://online.customs.gov.cn/static/pages/alllistitems.html)
+- GACC Decree No. 249 — Administrative Measures for Import and Export Food Safety (gov.cn full text): [https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
+- GACC Decree No. 249 (customs.gov.cn): [http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html)
+- GACC Decree No. 248 — Registration of Overseas Manufacturers of Imported Food: [https://www.gov.cn/gongbao/content/2021/content_5616161.htm](https://www.gov.cn/gongbao/content/2021/content_5616161.htm)
+- Export Food Enterprise Registration System (出口食品生产企业备案管理系统): `http://qgs.customs.gov.cn:10081/efpe/clogin`
+- National Standards — Search and Metadata: [https://std.samr.gov.cn](https://std.samr.gov.cn)
+- National Standards — Full-Text Public Disclosure (国家标准全文公开): [https://openstd.samr.gov.cn/bzgk/std/](https://openstd.samr.gov.cn/bzgk/std/)
+- SN/T 0422-2010 (Import/Export Egg Inspection Rules): [https://std.samr.gov.cn/hb](https://std.samr.gov.cn/hb)
 - SAMR Food Production License: [https://www.samr.gov.cn](https://www.samr.gov.cn)
 - China International Trade Single Window: [https://www.singlewindow.cn](https://www.singlewindow.cn)
+- CIFER Query (overseas enterprise registration query): [https://ciferquery.singlewindow.cn](https://ciferquery.singlewindow.cn)
+- China Customs Enterprise Credit Information Platform: [https://credit.customs.gov.cn](https://credit.customs.gov.cn)

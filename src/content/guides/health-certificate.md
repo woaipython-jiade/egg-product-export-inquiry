@@ -63,14 +63,18 @@ For each export batch, assemble:
 Applications are submitted through **China International Trade Single Window (中国国际贸易单一窗口)**:
 
 - **Portal**: [https://www.singlewindow.cn](https://www.singlewindow.cn)
-- **Module**: 出口食品检验检疫 (Export Food Inspection and Quarantine)
+- **Key modules** (since April 2023, per GACC Announcement No. 27/2023):
+  - **属地查检 (Localized Inspection)** — submit export inspection application
+  - **出证计划 (Certificate Issuance Planning)** — apply for health/sanitary certificate
+- **Alternative portal**: [Internet+ Customs](https://online.customs.gov.cn) — [Export Inspection Guide](https://online.customs.gov.cn/static/pages/guides/000629009001/000629009001.html)
 - **Process**:
   1. Log in with your enterprise digital certificate
-  2. Select "Apply for Export Inspection and Quarantine"
-  3. Enter commodity code (HS code), destination country, and shipment details
-  4. Upload all required documents
+  2. Under **属地查检** module, submit export inspection application with commodity code (HS code), destination country, and shipment details
+  3. Upload all required documents
+  4. Under **出证计划** module, apply for the health/sanitary certificate
   5. Pay inspection and certification fees (varies by product value and inspection scope)
   6. Submit and receive application reference number
+- **E-Certificate query (login-free)**: [swapp.singlewindow.cn/ecertwebunloginserver](https://swapp.singlewindow.cn/ecertwebunloginserver) — supports "cloud signing" (云签发) for self-printing
 
 **Timing**: Submit the application **at least 7 business days** before planned shipment date to allow for inspection and testing.
 
@@ -197,6 +201,8 @@ The laboratory test report supporting your health certificate must cover paramet
 
 - China International Trade Single Window: [https://www.singlewindow.cn](https://www.singlewindow.cn)
 - GACC — Export Food Inspection and Quarantine: [https://www.customs.gov.cn](https://www.customs.gov.cn)
-- GACC Decree No. 249 — Export Food Manufacturer Registration: [http://www.customs.gov.cn/customs/302249/302266/302267/2801160/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/2801160/index.html)
+- GACC Decree No. 249 — Administrative Measures for Import and Export Food Safety: [https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
+- GACC — Export Inspection and Quarantine Guide: [https://online.customs.gov.cn/static/pages/guides/000629009001/000629009001.html](https://online.customs.gov.cn/static/pages/guides/000629009001/000629009001.html)
+- E-Certificate Query (login-free): [https://swapp.singlewindow.cn/ecertwebunloginserver](https://swapp.singlewindow.cn/ecertwebunloginserver)
 - National Standards (GB) — Public Service Platform: [https://std.samr.gov.cn](https://std.samr.gov.cn)
 - CNAS (China National Accreditation Service) — Accredited Lab Directory: [https://www.cnas.org.cn](https://www.cnas.org.cn)

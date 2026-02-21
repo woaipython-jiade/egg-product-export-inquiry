@@ -184,7 +184,7 @@ Egg products under HS heading 0408 are subject to Malaysian import duties:
 
 ## Action Checklist
 
-- [ ] Confirm GACC registration is current (Decree 248/249)
+- [ ] Confirm GACC registration is current (Decree 249)
 - [ ] Identify a **JAKIM-recognized** halal certification body operating in China — verify on [halal.gov.my](https://www.halal.gov.my)
 - [ ] Complete halal facility audit and obtain certificate (budget 6–12 months)
 - [ ] Verify ALL ingredients and processing aids are halal-compliant

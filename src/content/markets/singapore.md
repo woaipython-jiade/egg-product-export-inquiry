@@ -150,7 +150,7 @@ All pre-packaged egg products must comply with SFA labeling regulations:
 
 ## Action Checklist
 
-- [ ] Confirm GACC registration is current (Decree 248/249)
+- [ ] Confirm GACC registration is current (Decree 249)
 - [ ] Verify China's accreditation in SFA ADOS database for "Egg and Egg Products"
 - [ ] Engage an SFA-licensed food importer in Singapore with a valid Trader License
 - [ ] Ensure importer applies for TradeNet import permit before each shipment

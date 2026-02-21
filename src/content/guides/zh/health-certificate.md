@@ -63,14 +63,18 @@ summaryZh: "如何通过单一窗口平台为每批蛋品出口货物获取官�
 通过**中国国际贸易单一窗口**提交申请：
 
 - **门户网址**：[https://www.singlewindow.cn](https://www.singlewindow.cn)
-- **功能模块**：出口食品检验检疫
+- **关键功能模块**（自2023年4月起，依据海关总署2023年第27号公告）：
+  - **属地查检** — 提交出口检验申请
+  - **出证计划** — 申请卫生/检疫证书
+- **备选渠道**：[互联网+海关](https://online.customs.gov.cn) — [出境货物检验检疫办事指南](https://online.customs.gov.cn/static/pages/guides/000629009001/000629009001.html)
 - **操作流程**：
   1. 使用企业数字证书登录
-  2. 选择"申请出口检验检疫"
-  3. 输入商品编码（HS编码）、目的地国家和发运信息
-  4. 上传所有必需文件
+  2. 在**属地查检**模块中，提交出口检验申请，填写商品编码（HS编码）、目的地国家和发运信息
+  3. 上传所有必需文件
+  4. 在**出证计划**模块中，申请卫生/检疫证书
   5. 缴纳检验和认证费（按产品价值和检验范围而定）
   6. 提交并获取申请参考号
+- **电子证书查询（免登录）**：[swapp.singlewindow.cn/ecertwebunloginserver](https://swapp.singlewindow.cn/ecertwebunloginserver) — 支持"云签发"自助打印
 
 **时间规划**：在计划发运日期前**至少7个工作日**提交申请，预留检验和检测时间。
 
@@ -197,6 +201,8 @@ summaryZh: "如何通过单一窗口平台为每批蛋品出口货物获取官�
 
 - 中国国际贸易单一窗口：[https://www.singlewindow.cn](https://www.singlewindow.cn)
 - 海关总署——出口食品检验检疫：[https://www.customs.gov.cn](https://www.customs.gov.cn)
-- 海关总署令第249号——出口食品生产企业备案管理规定：[http://www.customs.gov.cn/customs/302249/302266/302267/2801160/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/2801160/index.html)
+- 海关总署令第249号——进出口食品安全管理办法：[https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
+- 海关总署——出境货物检验检疫办事指南：[https://online.customs.gov.cn/static/pages/guides/000629009001/000629009001.html](https://online.customs.gov.cn/static/pages/guides/000629009001/000629009001.html)
+- 电子证书查询（免登录）：[https://swapp.singlewindow.cn/ecertwebunloginserver](https://swapp.singlewindow.cn/ecertwebunloginserver)
 - 国家标准（GB）——信息公共服务平台：[https://std.samr.gov.cn](https://std.samr.gov.cn)
 - CNAS（中国合格评定国家认可委员会）——认可实验室名录：[https://www.cnas.org.cn](https://www.cnas.org.cn)

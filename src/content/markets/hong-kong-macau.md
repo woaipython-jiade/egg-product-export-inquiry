@@ -137,7 +137,7 @@ Macau requires food labels in **at least one of the official languages** (Chines
 
 ## Action Checklist
 
-- [ ] Confirm GACC registration is current for your facility (GACC Decree 248/249)
+- [ ] Confirm GACC registration is current for your facility (GACC Decree 249)
 - [ ] Obtain health certificate from local customs office for each consignment
 - [ ] Ensure HK importer has registered with FEHD (Form FEHB 295, HK$195/3yr)
 - [ ] Prepare bilingual (EN/ZH) labels complying with Cap. 132W

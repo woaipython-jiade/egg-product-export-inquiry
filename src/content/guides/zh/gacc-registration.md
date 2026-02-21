@@ -4,18 +4,20 @@ titleZh: "海关总署出口注册指南"
 slug: "gacc-registration"
 category: "法规"
 priority: 1
-summary: "Step-by-step guide to registering your egg product facility under GACC Decree 248 (overseas importers) and Decree 249 (domestic exporters) — the mandatory prerequisite for all egg product exports from China."
-summaryZh: "根据海关总署第248号令（境外进口商）和第249号令（境内出口商）注册蛋品设施的分步指南——中国所有蛋品出口的强制性前提。"
+summary: "Step-by-step guide to registering your egg product facility under GACC Decree 249 — the mandatory prerequisite for all egg product exports from China. Covers the 6-step registration process, required standards, and ongoing compliance."
+summaryZh: "根据海关总署第249号令注册蛋品出口设施的分步指南——中国所有蛋品出口的强制性前提。涵盖六步备案流程、必需标准及持续合规要求。"
 ---
 
 ## 概述
 
-所有希望出口蛋品的中国生产企业必须在**中国海关总署（GACC）**注册。相关法规依据：
+所有希望出口蛋品的中国生产企业必须在**中国海关总署（GACC）**备案。主要法规依据：
 
-- **海关总署令第248号** — 《进口食品境外生产企业注册管理规定》 — 规定境外设施向中国出口的注册，同时建立了互惠注册框架
-- **海关总署令第249号** — 《出口食品生产企业备案管理规定》 — 直接规定中国境内企业出口食品的备案要求
+- **海关总署令第249号** —《中华人民共和国进出口食品安全管理办法》— 自**2022年1月1日**起施行。这是现行涵盖出口食品生产企业备案、出口食品检验和卫生证书签发的综合性法规。取代了此前的单行规定（原质检总局令第142号，经海关总署令第243号修订）。
+  - 官方全文：[国务院公报](https://www.gov.cn/gongbao/content/2021/content_5621202.htm) | [海关总署](http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html)
 
-**第249号令是中国蛋品出口商的主要适用法规。**要求所有出口食品生产企业通过地方海关向海关总署备案。
+> **关于第248号令**：海关总署令第248号规定的是*境外*食品生产企业向中国出口的注册——不直接适用于中国出口商，但进口国可能在互惠安排中参考。
+
+**第249号令要求**所有出口食品生产企业通过地方海关向海关总署备案。海关自受理之日起**20个工作日**内完成审核。
 
 ---
 
@@ -27,10 +29,11 @@ summaryZh: "根据海关总署第248号令（境外进口商）和第249号令�
 |---------|---------|---------|
 | **GB 2749-2015** | 食品安全国家标准 蛋与蛋制品 | 鲜蛋安全要求 |
 | **GB 21710-2016** | 食品安全国家标准 蛋与蛋制品 | 加工蛋制品安全要求（液蛋、蛋粉、冷冻蛋） |
-| **GB 14881-2013** | 食品生产通用卫生规范 | 设施卫生要求（备案前提条件） |
+| **GB 14881-2013** | 食品生产通用卫生规范 | 设施卫生要求（备案前提条件）。**注意**：将被GB 14881-2025取代，2026年9月2日生效 |
 | **GB 31650-2019** | 食品中兽药最大残留限量 | 蛋品中所有允许使用兽药的MRL值 |
 | **GB 2762-2022** | 食品中污染物限量 | 重金属（铅、镉、汞、砷）及其他污染物限量 |
 | **GB 2763-2021** | 食品中农药最大残留限量 | 蛋品适用的农药MRL |
+| **SN/T 0422-2010** | 进出口鲜蛋及蛋制品检验检疫规程 | 涵盖抽样、检验程序、结果判定、不合格品处理、贮运条件 |
 | **SN/T 1.29** | 出口蛋制品检验规程 | 出口专用检验程序 |
 
 ### 监管部门
@@ -44,14 +47,28 @@ summaryZh: "根据海关总署第248号令（境外进口商）和第249号令�
 
 ---
 
-## GACC在线备案：CIFER系统
+## GACC在线备案系统
 
-GACC使用**中国进口食品企业注册（CIFER）**系统管理注册。国内出口备案（第249号令）通过**"互联网+海关"**平台办理：
+国内出口食品生产企业备案（第249号令）有两个系统可用：
+
+### 主渠道：互联网+海关门户
 
 - **门户网址**：[https://online.customs.gov.cn](https://online.customs.gov.cn)
-- **系统路径**：互联网+海关 → 企业管理和稽查 → 出口食品生产企业备案
+- **所有服务列表**：[online.customs.gov.cn/static/pages/alllistitems.html](https://online.customs.gov.cn/static/pages/alllistitems.html)
+- **办事指南**：[online.customs.gov.cn/static/pages/treeGuide.html](https://online.customs.gov.cn/static/pages/treeGuide.html)
+- **操作路径**：互联网+海关 → 我要办 → 出口食品生产企业备案
 - **登录方式**：需海关数字证书或中国电子口岸账号
 - **系统语言**：仅中文（无英文界面）
+
+### 专用备案系统
+
+- **直达地址**：`http://qgs.customs.gov.cn:10081/efpe/clogin`
+- **也可通过单一窗口SSO访问**：[singlewindow.cn](https://www.singlewindow.cn) → 企业资质模块
+- 全称：**中国出口食品生产企业备案管理系统**
+
+### 相关：CIFER系统（进口端查询）
+
+**CIFER**系统（[ciferquery.singlewindow.cn](https://ciferquery.singlewindow.cn)）用于查询向中国出口的*境外*食品生产企业注册信息——不是国内出口备案系统，但可用于验证互惠注册情况。
 
 ---
 
@@ -143,7 +160,7 @@ GACC使用**中国进口食品企业注册（CIFER）**系统管理注册。国�
 
 - 设施获得**出口食品生产企业备案号**
 - 备案号格式：通常为省份代码+序列号
-- 备案有效期自批准之日起**4年**
+- 备案有效期自批准之日起**5年**（依据第249号令）
 - 设施被录入海关总署备案企业数据库
 - **重要**：部分目的地国家（如日本、新加坡）维护自己的批准设施清单——仅有GACC备案可能不够
 
@@ -157,7 +174,7 @@ GACC使用**中国进口食品企业注册（CIFER）**系统管理注册。国�
 | 法规追踪 | 持续 | 关注目的地国家要求变化 |
 | 档案保存 | 至少2年 | 生产、检测和出口发运记录 |
 | 变更通知 | 按需 | 设施/工艺/产品发生重大变化时通知地方海关 |
-| 续期申请 | 4年有效期届满前 | 通过互联网+海关门户提交续期 |
+| 续期申请 | 5年有效期届满前30天 | 通过互联网+海关门户提交续期 |
 
 **未能维持合规**可能导致：
 - 出口备案暂停
@@ -189,18 +206,22 @@ GACC使用**中国进口食品企业注册（CIFER）**系统管理注册。国�
 2. **追溯性缺口** — 须证明从养殖场/供应商到出口发运的全链追溯；原料蛋采购环节的缺口最为常见
 3. **检测方法过时** — 实验室方法须与现行GB标准一致；出口专用检测须使用SN/T方法
 4. **忽视目的地国家要求** — GACC备案是必要条件但可能非充分条件；须确认进口国的额外要求
-5. **错过续期期限** — 备案4年后到期；应在到期前6个月启动续期流程
+5. **错过续期期限** — 备案5年后到期；根据第249号令须在到期前至少30天提交续期申请
 
 ---
 
 ## 信息来源
 
 - 海关总署互联网+海关门户：[https://online.customs.gov.cn](https://online.customs.gov.cn)
-- 海关总署令第249号——出口食品生产企业备案管理规定：[http://www.customs.gov.cn/customs/302249/302266/302267/2801160/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/2801160/index.html)
-- 海关总署令第248号——进口食品境外生产企业注册管理规定：[http://www.customs.gov.cn/customs/302249/302266/302267/2801162/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/2801162/index.html)
-- 国家标准GB 2749-2015（蛋与蛋制品）：国家标准信息公共服务平台 [https://std.samr.gov.cn](https://std.samr.gov.cn)
-- 国家标准GB 21710-2016（蛋与蛋制品）：[https://std.samr.gov.cn](https://std.samr.gov.cn)
-- 国家标准GB 31650-2019（兽药残留限量）：[https://std.samr.gov.cn](https://std.samr.gov.cn)
-- 国家标准GB 2762-2022（污染物限量）：[https://std.samr.gov.cn](https://std.samr.gov.cn)
+- 互联网+海关——所有服务（我要办）：[https://online.customs.gov.cn/static/pages/alllistitems.html](https://online.customs.gov.cn/static/pages/alllistitems.html)
+- 海关总署令第249号——进出口食品安全管理办法（国务院公报全文）：[https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
+- 海关总署令第249号（海关总署网站）：[http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html)
+- 海关总署令第248号——进口食品境外生产企业注册管理规定：[https://www.gov.cn/gongbao/content/2021/content_5616161.htm](https://www.gov.cn/gongbao/content/2021/content_5616161.htm)
+- 出口食品生产企业备案管理系统：`http://qgs.customs.gov.cn:10081/efpe/clogin`
+- 国家标准信息公共服务平台（搜索和元数据）：[https://std.samr.gov.cn](https://std.samr.gov.cn)
+- 国家标准全文公开系统：[https://openstd.samr.gov.cn/bzgk/std/](https://openstd.samr.gov.cn/bzgk/std/)
+- SN/T 0422-2010（进出口鲜蛋及蛋制品检验检疫规程）：[https://std.samr.gov.cn/hb](https://std.samr.gov.cn/hb)
 - 市场监管总局食品生产许可：[https://www.samr.gov.cn](https://www.samr.gov.cn)
 - 中国国际贸易单一窗口：[https://www.singlewindow.cn](https://www.singlewindow.cn)
+- CIFER进口食品境外生产企业注册信息查询：[https://ciferquery.singlewindow.cn](https://ciferquery.singlewindow.cn)
+- 中国海关企业信用信息公示平台：[https://credit.customs.gov.cn](https://credit.customs.gov.cn)
