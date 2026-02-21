@@ -6,8 +6,8 @@ status: "Restricted"
 asOfDate: "2026-02-20"
 region: "East Asia"
 priority: 4
-summary: "Japan allows certain Chinese egg products under MHLW's three-tier import inspection system and MAFF's animal quarantine controls. The positive list system (0.01 ppm default) and HPAI suspensions are key barriers."
-summaryZh: "日本在厚生劳动省三级进口检查制度和农林水产省动物检疫管控下允许特定中国蛋品进口。肯定列表制度（默认0.01 ppm）和HPAI暂停是主要壁垒。"
+summary: "Japan allows certain Chinese egg products under MHLW's three-tier import inspection system (Article 27, Food Sanitation Act) and MAFF's animal quarantine controls. The positive list system (0.01 ppm default for ~760+ substances) and HPAI province-level suspensions are key barriers. Check MAFF suspension list before planning any shipment."
+summaryZh: "日本在厚生劳动省三级进口检查制度（食品卫生法第27条）和农林水产省动物检疫管控下允许特定中国蛋品进口。肯定列表制度（约760种以上物质默认0.01 ppm）和HPAI省级暂停是主要壁垒。发货前须查核MAFF暂停名单。"
 ---
 
 ## Market Access Overview
@@ -21,10 +21,11 @@ Access is "Restricted" — trade is legally possible but contingent on strict co
 
 ### Key Facts
 
-- Japan's **positive list system** sets MRLs for ~800 substances; anything else defaults to **0.01 ppm**
+- Japan's **positive list system** sets MRLs for ~760+ substances; anything else defaults to **0.01 ppm**
 - Import inspection uses a **three-tier escalation** system (document → monitoring → ordered inspection)
-- **HPAI outbreaks** in China trigger province-level import suspensions that can persist for months
+- **HPAI outbreaks** in China trigger province-level import suspensions — **check [MAFF suspension list](https://www.maff.go.jp/aqs/english/news/hpai.html) before planning any shipment**
 - Japan is the world's **largest net egg importer** by value — a high-value target market
+- Legal basis: **Article 27, Food Sanitation Act** — all food imports require notification to MHLW
 
 ---
 
@@ -34,9 +35,9 @@ All food imports to Japan must go through the **Food Automated Import Notificati
 
 ### Process
 
-1. **Import notification**: The Japanese importer submits an "Import Notification for Foods" (食品等輸入届出書) to the MHLW quarantine station at the port of entry via FAINS/NACCS — **before the goods are released from customs**
+1. **Import notification**: The Japanese importer submits a "Notification Form for Importation of Foods, etc." (食品等輸入届出書) — [Notification Form (PDF)](https://www.mhlw.go.jp/english/topics/importedfoods/dl/1-3.pdf) — to the MHLW quarantine station via FAINS/NACCS. May be submitted up to **7 days before** goods arrive at port of entry. Processing time: **2–3 days** (electronic) or **5–7 days** (paper).
 
-2. **Document examination**: MHLW quarantine officer reviews the notification, health certificates, and supporting documents
+2. **Document examination**: MHLW food sanitation inspectors review the notification checking: country of export, product type, manufacturer, place of manufacture, ingredients/materials, manufacturing methods, and food additive usage.
 
 3. **Inspection determination**: Based on the product category, country of origin, and compliance history, the shipment is assigned one of three inspection levels
 
@@ -50,10 +51,13 @@ All food imports to Japan must go through the **Food Automated Import Notificati
 
 ### Escalation Mechanism
 
-- If a monitoring inspection detects a violation → the product/exporter is escalated to **enhanced monitoring (30% → 50% sampling rate)**
-- If violations continue → escalated to **ordered inspection (100% testing)**
-- Ordered inspection status is **publicly listed** on MHLW's website and can persist for **6–12 months** even after corrective action
-- De-escalation requires demonstrating a clean compliance record over multiple shipments
+- A **single violation** triggers **enhanced monitoring** — inspection rate increased to **30%** for all imports of the same product from that country
+- After **60 consecutive clean tests**, MHLW may lift enhanced monitoring
+- **Repeated violations** escalate to **ordered inspection (100% testing)** at importer's expense
+- Ordered inspection status is **publicly listed** on MHLW's website — [Inspection Orders Schedule](https://www.mhlw.go.jp/english/topics/importedfoods/19/appendix1.html)
+- De-escalation from ordered inspection requires sustained clean compliance record
+
+**Source**: [MHLW Imported Foods Inspection Services (English)](https://www.mhlw.go.jp/english/topics/importedfoods/1.html)
 
 ---
 
@@ -65,7 +69,7 @@ Japan's positive list system is the most critical compliance requirement for egg
 
 | Category | Treatment |
 |----------|-----------|
-| **Listed substances with MRLs** | ~800 agricultural chemicals and veterinary drugs with specific maximum residue limits per food commodity |
+| **Listed substances with MRLs** | ~760+ agricultural chemicals and veterinary drugs with specific maximum residue limits per food commodity |
 | **Substances exempt from regulation** | ~65 substances considered safe at any level |
 | **Everything else** | Default uniform limit of **0.01 ppm** — effectively zero tolerance |
 
@@ -81,12 +85,15 @@ Check the official **FFCR (Food and Food Chemicals Research Foundation) MRL data
 | Nicarbazin | 0.01 ppm (default) | Coccidiostat — must ensure withdrawal |
 | Melamine | Not a positive list substance — regulated separately | Per MHLW risk assessment |
 
-### FFCR MRL Database
+### MRL Lookup Resources
 
-**Official lookup tool**: [http://db.ffcr.or.jp/front/](http://db.ffcr.or.jp/front/)
-- Search by substance name (English or Japanese) and food category "Eggs"
-- This is the **authoritative source** for confirming specific MRL values
-- Database is updated when MHLW revises standards
+| Resource | URL | Notes |
+|----------|-----|-------|
+| **FFCR MRL Database** | [db.ffcr.or.jp/front/](http://db.ffcr.or.jp/front/) | **Authoritative source** — search by substance and food category "Eggs" |
+| FFCR English page | [ffcr.or.jp/en/zanryu/](https://www.ffcr.or.jp/en/zanryu/) | English-language MRL information |
+| MHLW MRL Official Page | [MHLW Residues](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/zanryu/index_00016.html) | Official MRL lists and amendments |
+| Japan Pesticides Database | [jpn-pesticides-database.go.jp](https://jpn-pesticides-database.go.jp/prdb/en/index_en.pl) | Cross-reference pesticide MRLs |
+| MHLW Positive List Introduction | [English](https://www.mhlw.go.jp/english/topics/foodsafety/positivelist060228/introduction.html) | System overview and guidance |
 
 ---
 
@@ -99,9 +106,11 @@ MAFF maintains a **dynamic suspension list** based on HPAI outbreaks:
 - **Mechanism**: When HPAI is confirmed in a Chinese province, MAFF suspends imports of poultry and egg products **from that specific province**
 - **Scope**: Suspension covers shell eggs and may cover processed egg products depending on heat treatment status
 - **Duration**: Suspension continues until the province is declared HPAI-free by OIE/WOAH, plus a waiting period
-- **Current status**: Check MAFF's website for the latest suspension list
+- **Current suspension list**: [https://www.maff.go.jp/aqs/english/news/hpai.html](https://www.maff.go.jp/aqs/english/news/hpai.html) — **check this before planning any shipment**
+- **HPAI-free "Third Countries" list**: [https://www.maff.go.jp/aqs/english/news/third-free.html](https://www.maff.go.jp/aqs/english/news/third-free.html)
 
 **MAFF Animal Quarantine Service**: [https://www.maff.go.jp/aqs/english/](https://www.maff.go.jp/aqs/english/)
+**MAFF FAQ on Animal Quarantine**: [https://www.maff.go.jp/e/policies/ap_health/animal/240904.html](https://www.maff.go.jp/e/policies/ap_health/animal/240904.html)
 
 ### Heat-Treated Egg Products
 
@@ -114,7 +123,7 @@ Processed egg products that have undergone sufficient heat treatment (e.g., egg 
 
 ## Labeling Requirements (Food Labeling Act / 食品表示法)
 
-Japan's **Food Labeling Act (食品表示法)** and **Food Labeling Standards (食品表示基準)** govern all labeling:
+Since April 2015, the **Food Labeling Act (食品表示法)** administered by the **Consumer Affairs Agency (CAA)** consolidates labeling requirements. Official: [CAA Food Labeling (English)](https://www.caa.go.jp/en/policy/food_labeling/) | [Japan's Food Labeling System (PDF, April 2024)](https://www.caa.go.jp/en/policy/food_labeling/assets/food_labeling_cms204_240425_01.pdf)
 
 ### Mandatory Label Elements
 
@@ -133,7 +142,13 @@ Japan's **Food Labeling Act (食品表示法)** and **Food Labeling Standards (�
 
 ### Allergen Declaration — Critical
 
-Egg (卵/たまご) is one of Japan's **8 specified allergens (特定原材料)** that **MUST** be declared. This is legally mandatory, not optional. Failure to declare egg allergen is a serious violation.
+Egg (卵/たまご) is one of Japan's **8 specified allergens (特定原材料)** that **MUST** be declared:
+
+**8 mandatory allergens**: Egg, milk, wheat, buckwheat, peanut, shrimp, crab, walnut
+
+Additionally, there are **20 recommended allergens** (including soy, sesame, etc.) for which labeling is encouraged but not legally mandated.
+
+Failure to declare egg allergen is a serious violation.
 
 ---
 
@@ -178,12 +193,32 @@ Egg (卵/たまご) is one of Japan's **8 specified allergens (特定原材料)*
 
 ## Sources
 
-- MHLW — Imported Food Monitoring and Guidance Plan: [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/yunyu_kanshi/](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/yunyu_kanshi/)
-- MHLW — Food Sanitation Act (食品衛生法): [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/)
-- FFCR — MRL Database for Pesticides, Veterinary Drugs: [http://db.ffcr.or.jp/front/](http://db.ffcr.or.jp/front/)
+### MHLW (Import Inspection & Food Safety)
+- MHLW — Imported Foods Inspection Services (English): [https://www.mhlw.go.jp/english/topics/importedfoods/1.html](https://www.mhlw.go.jp/english/topics/importedfoods/1.html)
+- MHLW — Import Procedure Page: [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/yunyu_kanshi/kanshi/index_00004.html](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/yunyu_kanshi/kanshi/index_00004.html)
+- MHLW — Notification Form for Importation of Foods (PDF): [https://www.mhlw.go.jp/english/topics/importedfoods/dl/1-3.pdf](https://www.mhlw.go.jp/english/topics/importedfoods/dl/1-3.pdf)
+- MHLW — FY2025 Imported Foods Monitoring Plan (PDF): [https://www.mhlw.go.jp/content/001478400.pdf](https://www.mhlw.go.jp/content/001478400.pdf)
+- MHLW — Inspection Orders Schedule: [https://www.mhlw.go.jp/english/topics/importedfoods/19/appendix1.html](https://www.mhlw.go.jp/english/topics/importedfoods/19/appendix1.html)
+- MHLW — Positive List System (English): [https://www.mhlw.go.jp/english/topics/foodsafety/positivelist060228/introduction.html](https://www.mhlw.go.jp/english/topics/foodsafety/positivelist060228/introduction.html)
+- MHLW — MRL Official Page: [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/zanryu/index_00016.html](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/zanryu/index_00016.html)
+
+### MRL Databases
+- FFCR — MRL Database: [http://db.ffcr.or.jp/front/](http://db.ffcr.or.jp/front/)
+- FFCR — English MRL Page: [https://www.ffcr.or.jp/en/zanryu/](https://www.ffcr.or.jp/en/zanryu/)
+- Japan Pesticides Database: [https://jpn-pesticides-database.go.jp/prdb/en/index_en.pl](https://jpn-pesticides-database.go.jp/prdb/en/index_en.pl)
+
+### MAFF (Animal Quarantine)
 - MAFF — Animal Quarantine Service: [https://www.maff.go.jp/aqs/english/](https://www.maff.go.jp/aqs/english/)
-- MAFF — HPAI Import Suspension Information: [https://www.maff.go.jp/aqs/topix/hpai.html](https://www.maff.go.jp/aqs/topix/hpai.html)
-- Japan Food Labeling Act (食品表示法): [https://www.caa.go.jp/policies/policy/food_labeling/](https://www.caa.go.jp/policies/policy/food_labeling/)
-- Consumer Affairs Agency — Allergen Labeling: [https://www.caa.go.jp/policies/policy/food_labeling/food_labeling_act/](https://www.caa.go.jp/policies/policy/food_labeling/food_labeling_act/)
+- MAFF — HPAI Import Suspension List (English): [https://www.maff.go.jp/aqs/english/news/hpai.html](https://www.maff.go.jp/aqs/english/news/hpai.html)
+- MAFF — HPAI-Free Third Countries: [https://www.maff.go.jp/aqs/english/news/third-free.html](https://www.maff.go.jp/aqs/english/news/third-free.html)
+- MAFF — Bringing Animal Products into Japan: [https://www.maff.go.jp/aqs/english/product/import.html](https://www.maff.go.jp/aqs/english/product/import.html)
+
+### Labeling
+- CAA — Food Labeling (English): [https://www.caa.go.jp/en/policy/food_labeling/](https://www.caa.go.jp/en/policy/food_labeling/)
+- CAA — Japan's Food Labeling System (PDF, April 2024): [https://www.caa.go.jp/en/policy/food_labeling/assets/food_labeling_cms204_240425_01.pdf](https://www.caa.go.jp/en/policy/food_labeling/assets/food_labeling_cms204_240425_01.pdf)
+- JETRO — Specifications and Standards for Foods (English): [https://www.jetro.go.jp/ext_images/en/reports/regulations/pdf/foodext2010e.pdf](https://www.jetro.go.jp/ext_images/en/reports/regulations/pdf/foodext2010e.pdf)
+
+### Other
 - NACCS System: [https://www.naccs.jp/e/](https://www.naccs.jp/e/)
-- GACC — Export Registration: [https://www.customs.gov.cn](https://www.customs.gov.cn)
+- Japan Customs — Tariff Schedule (January 2026): [https://www.customs.go.jp/english/tariff/2026_01_01/index.htm](https://www.customs.go.jp/english/tariff/2026_01_01/index.htm)
+- GACC — Decree No. 249: [https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
