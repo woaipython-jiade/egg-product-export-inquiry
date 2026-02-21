@@ -187,10 +187,37 @@ Background research agents verified content against official sources and returne
 
 ---
 
-## Next Phase Ideas (Phase 4)
-- Add P1 content: South Korea, GCC markets
+## Phase 4: South Korea & GCC Market Pages
+Status: COMPLETE
+
+### New Market Pages (8 total, up from 6)
+- [x] South Korea — Restricted (HPAI-sensitive, PLS system, MFDS facility registration)
+  - MFDS food safety & import inspection, APQA animal quarantine
+  - Korean PLS (0.01 ppm default, effective Jan 2019)
+  - HPAI import suspensions on Chinese products
+  - Korea-China FTA (limited agricultural concessions)
+  - Korean-language labeling mandatory, 9 mandatory nutrients, 19+ allergens
+- [x] GCC (Gulf Cooperation Council) — Restricted (halal + member-state permits)
+  - GSO unified food standards (GSO 9, 382, 839, 2055)
+  - Saudi Arabia: SFDA/SABER/SALEEM systems
+  - UAE: MOCCAE/Dubai Municipality/ADAFSA
+  - Halal certification (broader acceptance than Malaysia JAKIM)
+  - Arabic-language labeling mandatory
+  - 5% Common External Tariff
+  - Production date + expiry date both mandatory (GCC-specific)
+
+### Build Verification
+- 30 pages generated successfully (up from 26)
+- Build time: ~4.8s
+- All EN/ZH pairs render correctly
+- Homepage market counts update dynamically (no code changes needed)
+
+---
+
+## Next Phase Ideas (Phase 5)
 - SEO setup: sitemap, Open Graph meta tags
 - Production deployment (HK VPS + CDN)
 - Legal disclaimer page
 - Search functionality
 - Verify all external URLs are live and correct
+- Add remaining P2 markets: Australia, New Zealand, Canada

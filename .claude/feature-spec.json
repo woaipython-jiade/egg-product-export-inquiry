@@ -1,6 +1,6 @@
 {
   "project": "egg-product-export-inquiry",
-  "phase": 3,
+  "phase": 4,
   "status": "complete",
   "features": {
     "astro-scaffold": {
@@ -60,7 +60,9 @@
         { "slug": "malaysia", "status": "Restricted", "languages": ["en", "zh"] },
         { "slug": "japan", "status": "Restricted", "languages": ["en", "zh"] },
         { "slug": "eu", "status": "Closed", "languages": ["en", "zh"] },
-        { "slug": "us", "status": "Closed", "languages": ["en", "zh"] }
+        { "slug": "us", "status": "Closed", "languages": ["en", "zh"] },
+        { "slug": "south-korea", "status": "Restricted", "languages": ["en", "zh"] },
+        { "slug": "gcc", "status": "Restricted", "languages": ["en", "zh"] }
       ],
       "guides": [
         { "slug": "gacc-registration", "category": "Regulatory", "languages": ["en", "zh"] },
@@ -113,7 +115,7 @@
   },
   "buildVerification": {
     "buildPasses": true,
-    "pagesGenerated": 26,
+    "pagesGenerated": 30,
     "lastVerified": "2026-02-20"
   }
 }
