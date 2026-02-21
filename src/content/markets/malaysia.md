@@ -45,7 +45,7 @@ The official requirements are published in:
 
 | Step | Action | Detail |
 |------|--------|--------|
-| 1 | Complete application form | **DVS/BRV/APP/1a** — [Application Form (Rev. 3, March 2023)](https://www.dvs.gov.my/dvs/resources/user_1/2023/BRV/BORANG/APPLICATION_FORM_FOR_EXPORT_MEAT,_POULTRY,_MILK,_EGG_AND_PRODUCTS_TO_MALAYSIA_NEW_REVISED_3_MARCH_2023.1a_.pdf) |
+| 1 | Complete application form | **DVS/BRV/APP/1a** (Rev. 5, January 2025) — [Renewal Form (Rev. 5)](https://www.dvs.gov.my/dvs/resources/user_1/2025/BRV/LOJI%20LUAR%20NEGARA/2._APPLICATION_FORM_FOR_RENEWAL_EXPORT_MEAT,_POULTRY,_MILK,_EGG_AND_PRODUCTS_TO_MALAYSIA_RENEWAL_rev_.5_.pdf) |
 | 2 | GACC endorsement | Form requires signature/endorsement from China's veterinary authority (GACC) |
 | 3 | DVS risk assessment | SPS-based assessment by DVS Malaysia |
 | 4 | On-site inspection | DVS may conduct on-site inspection of the Chinese facility |
@@ -55,9 +55,9 @@ The official requirements are published in:
 
 ### Veterinary Health Certificate (Per Consignment)
 
-Each consignment must be accompanied by an **official Veterinary Health Certificate (VHC) in English** from GACC certifying:
+Each consignment must be accompanied by an **official Veterinary Health Certificate (VHC) in English** from GACC, **dated within 7 days of shipment**, certifying:
 
-1. Country/state of origin has been continuously **free from HPAI and Newcastle Disease** for 28 days prior to and until export date
+1. Country/state of origin has been continuously **free from Avian Influenza, Newcastle Disease, and Fowl Cholera** for the past **12 months**; no outbreaks in the 28 days prior to and until export date
 2. Eggs derived from farms **accredited free from Salmonella pullorum and Salmonella enteritidis**; no infectious/contagious poultry disease on farm in preceding 6 months
 3. Egg products were **processed in an approved processing plant** under government veterinary supervision
 4. Products were **processed to ensure destruction of Avian Influenza virus and Newcastle Disease virus** per WOAH recommendations
@@ -121,7 +121,8 @@ Before applying for permits, the Malaysian importer must register:
 | Item | Detail |
 |------|--------|
 | Application system | **e-Permit**: [newepermit2.dagangnet.com.my](https://newepermit2.dagangnet.com.my/epermit/html/login) |
-| Timing | Apply **before** goods arrive in Malaysia |
+| Processing time | Typically **24 hours** via online e-Permit system |
+| Timing | Apply **before** goods depart from the exporting country |
 | Fee schedule | [MAQIS Fees](https://www.maqis.gov.my/index.php/fi-dan-caj/) |
 
 ### Documents Required Per Shipment
@@ -248,7 +249,7 @@ Full text: [Food Regulations 1985 (updated October 2024)](https://hq.moh.gov.my/
 - [ ] Prepare **Bahasa Malaysia or English** labels meeting Food Regulations 1985 (Reg 171–178)
 - [ ] Include nutrition panel (energy, protein, carb, sugar, fat, sodium) and allergen declaration
 - [ ] Monitor HPAI situation and DVS announcements for trade disruptions
-- [ ] Check current import duty rates with [Malaysian Customs](https://www.customs.gov.my)
+- [ ] Check current import duty rates with [JKDM HS Explorer](https://ezhs.customs.gov.my/) — consider ACFTA Form E for preferential rates
 
 ---
 
@@ -257,7 +258,10 @@ Full text: [Food Regulations 1985 (updated October 2024)](https://hq.moh.gov.my/
 ### DVS (Facility Registration)
 - DVS R5 — Requirements for Importation of Egg Products (Revised July 2024): [PDF](https://www.dvs.gov.my/dvs/resources/user_1/2025/BKPBV/IMPORT%20EKSPORT/(R5)_Egg_Products-Any_Country-_Revised_290724.pdf)
 - DVS General Procedure — Import of Meat, Poultry, Milk, Egg Products (March 2023): [PDF](https://www.dvs.gov.my/dvs/resources/user_1/2023/BRV/LOJI%20LUAR%20NEGARA/UPDATE_MARCH_2023.GENERAL_PROCEDURE_IMPORT_MEAT,_POULTRY,_MILK_AND_EGG_PRODUCTS_TO_MALAYSIA_.REV_1_._30012023_.pdf)
-- DVS Application Form (Rev. 3, March 2023): [PDF](https://www.dvs.gov.my/dvs/resources/user_1/2023/BRV/BORANG/APPLICATION_FORM_FOR_EXPORT_MEAT,_POULTRY,_MILK,_EGG_AND_PRODUCTS_TO_MALAYSIA_NEW_REVISED_3_MARCH_2023.1a_.pdf)
+- DVS Application Form — Renewal (Rev. 5, January 2025): [PDF](https://www.dvs.gov.my/dvs/resources/user_1/2025/BRV/LOJI%20LUAR%20NEGARA/2._APPLICATION_FORM_FOR_RENEWAL_EXPORT_MEAT,_POULTRY,_MILK,_EGG_AND_PRODUCTS_TO_MALAYSIA_RENEWAL_rev_.5_.pdf)
+- DVS Import/Export Portal: [https://www.dvs.gov.my/index.php/pages/view/1941](https://www.dvs.gov.my/index.php/pages/view/1941)
+- DVS Registered Establishments — Egg Products (June 2021): [PDF](https://www.dvs.gov.my/dvs/resources/user_1/2021/BKPBV/PENGURUSAN%20IMPORT%20EKSPORT/LIST_OF_REGISTERED_ESTABLISHMENTS_EGG_PRODUCTS_JUNE_2021.pdf)
+- myTRADELINK — DVS: [https://www.mytradelink.gov.my/dvs](https://www.mytradelink.gov.my/dvs)
 
 ### JAKIM (Halal Certification)
 - JAKIM Halal Portal: [https://myehalal.halal.gov.my/portal-halal/v1/](https://myehalal.halal.gov.my/portal-halal/v1/)
@@ -266,6 +270,7 @@ Full text: [Food Regulations 1985 (updated October 2024)](https://hq.moh.gov.my/
 
 ### MAQIS (Import Permits & Inspection)
 - MAQIS Portal: [https://www.maqis.gov.my](https://www.maqis.gov.my)
+- MAQIS Permit Application Page: [https://www.maqis.gov.my/index.php/permohonan-permit/](https://www.maqis.gov.my/index.php/permohonan-permit/)
 - MAQIS e-Permit System: [https://newepermit2.dagangnet.com.my/epermit/html/login](https://newepermit2.dagangnet.com.my/epermit/html/login)
 - MAQIS SPEED Registration: [https://imaqis.maqis.gov.my/SPEED](https://imaqis.maqis.gov.my/SPEED/#!/login)
 - MAQIS Fee Schedule: [https://www.maqis.gov.my/index.php/fi-dan-caj/](https://www.maqis.gov.my/index.php/fi-dan-caj/)
@@ -274,6 +279,13 @@ Full text: [Food Regulations 1985 (updated October 2024)](https://hq.moh.gov.my/
 - Food Regulations 1985 (updated October 2024): [MOH PDF](https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Regulation+1985+Update+291024+(PUA+209_2020).pdf)
 - FOSIM System: [http://fsis2.moh.gov.my/fosimv2/](http://fsis2.moh.gov.my/fosimv2/)
 
+### Tariffs & Trade
+- JKDM HS Explorer (Royal Malaysian Customs tariff lookup): [https://ezhs.customs.gov.my/](https://ezhs.customs.gov.my/)
+- MySST Portal (Sales and Service Tax): [https://mysst.customs.gov.my/](https://mysst.customs.gov.my/)
+- MATRADE Tariff Code References: [https://www.matrade.gov.my/en/export-to-the-world/getting-started-page/tariff-code-references](https://www.matrade.gov.my/en/export-to-the-world/getting-started-page/tariff-code-references)
+- WTO Malaysia Tariff Profile: [https://www.wto.org/english/tratop_e/tariffs_e/tariff_profiles_e/mys_e.pdf](https://www.wto.org/english/tratop_e/tariffs_e/tariff_profiles_e/mys_e.pdf)
+
 ### Other
-- Royal Malaysian Customs — Tariff: [https://www.customs.gov.my](https://www.customs.gov.my)
+- Ministry of Agriculture — Import Programs: [https://www.kpkm.gov.my/en/programs-and-initiatives/myagro-trade/import](https://www.kpkm.gov.my/en/programs-and-initiatives/myagro-trade/import)
 - GACC — Decree No. 249: [https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
+- FSQD — Food Regulations Portal: [https://hq.moh.gov.my/fsq/peraturanperaturan-makanan-1985](https://hq.moh.gov.my/fsq/peraturanperaturan-makanan-1985)

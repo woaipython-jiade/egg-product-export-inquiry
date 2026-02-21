@@ -105,6 +105,88 @@ User feedback: All content was too generic. Required specific, actionable regula
 - Content collections use path-based IDs (zh/ prefix for Chinese)
 - Design system persisted in design-system/MASTER.md
 
+## Phase 3.5: Research Agent Integration — Factual Corrections
+Status: COMPLETE
+
+Background research agents verified content against official sources and returned corrections.
+
+### GACC Corrections (commit cf99118)
+- [x] Fixed registration validity: 4 years → **5 years** per Decree 249
+- [x] Clarified Decree 249 is sole regulation (Decree 248 is for overseas producers exporting INTO China)
+- [x] Added export registration system URL: qgs.customs.gov.cn:10081/efpe/clogin
+- [x] Clarified CIFER is for overseas enterprise queries, not domestic export
+- [x] Added SN/T 0422-2010, GB 14881-2025 note
+- [x] Added Single Window module names (属地查检, 出证计划)
+- [x] Fixed "Decree 248/249" → "Decree 249" across all 6 market pages
+
+### HK/Macau Corrections (commit 528e9cc)
+- [x] Separated Cap. 612 registration (HK$195/3yr) from Cap. 132AK import permission (Form FEHB 295, no fee)
+- [x] Fixed melamine regulation: Cap. 132CM → Cap. 132AF
+- [x] Added Cap. 132V (metallic contamination, amended 5 Sep 2025)
+- [x] Added entry points: Man Kam To, HKIA, HK-Zhuhai-Macao Bridge
+- [x] Added Macau legislation: Law 5/2013, Admin Reg 487/2016, Decree-Law 56/94/M
+- [x] Expanded sources to 15+ URLs
+
+### Malaysia Corrections (commit b876696)
+- [x] **CRITICAL**: Added JAKIM withdrawal of CIA recognition (Feb 2025, grace expired Aug 2025)
+- [x] Named 5 remaining JAKIM-recognized Chinese halal CBs
+- [x] Restructured as DVS + JAKIM + MAQIS three-layer authorization
+- [x] Added DVS R5 requirements document and facility registration form URLs
+- [x] Added MAQIS e-Permit and SPEED registration systems
+- [x] Corrected labeling: Bahasa Malaysia OR English (not BM-only)
+- [x] Expanded sources to 15+ URLs
+
+### Japan Corrections (commit 3f1cecb)
+- [x] Added Article 27 (Food Sanitation Act) as legal basis
+- [x] Fixed substance count: ~800 → ~760+
+- [x] Added FAINS timing: 7 days before arrival, 2-3 days electronic
+- [x] Corrected escalation: single violation → 30% → 60 clean tests to lift → 100%
+- [x] Added MRL lookup resources table (5 databases)
+- [x] Added MAFF HPAI suspension and third-free countries English URLs
+- [x] Added CAA labeling details, 8 mandatory + 20 recommended allergens
+- [x] Expanded sources from 9 to 20+ URLs by category
+- [x] ZH version fully updated to match EN
+
+### EU Corrections (commit f91b118)
+- [x] Fixed Annex reference: XVII → **Annex -I** (eggs) + Annex XIX to Reg 2021/404 (animal health)
+- [x] Added **Decision 2011/163/EU**: China lacks approved residue monitoring plan for eggs
+- [x] Added **Reg 2025/354**: Brazil and Thailand added to eggs list (March 2025), China not included
+- [x] Added specific RASFF notification **2024.7729**: enrofloxacin in Chinese eggs (Oct 2024)
+- [x] Added MRL regulations: Reg 396/2005 (pesticides) + Reg 37/2010 (vet drugs) with lookup tools
+- [x] Added TRACES-NT establishment listing process and module URLs
+- [x] Added DG SANTE audit process details with audit reports/country profiles URLs
+- [x] Expanded sources from 7 to 25+ URLs
+
+### US Corrections (commit f91b118)
+- [x] Added specific eligible countries: **Canada, Lithuania, Netherlands** (only 3 worldwide)
+- [x] Added **9 CFR 590.910(a)** citation for equivalence requirement
+- [x] Clarified FSIS/FDA jurisdictional split — egg products under FSIS, FSVP exempt
+- [x] Added China has meat/poultry FSIS equivalence but NOT egg products
+- [x] Added detailed tariff layers: Section 301 (25%/7.5%), IEEPA (10%), reciprocal (10%)
+- [x] Added agricultural exemption note and CBP duty determination URL
+- [x] Expanded sources from 7 to 20+ URLs
+
+### EU/US Corrections (commit f91b118)
+- [x] EU: Fixed Annex -I reference, added Decision 2011/163 residue plan prerequisite
+- [x] EU: Added Reg 2025/354 (Brazil/Thailand added, not China), RASFF 2024.7729
+- [x] EU: Added MRL regs (396/2005, 37/2010), TRACES-NT details, DG SANTE audit URLs
+- [x] US: Named 3 eligible countries (Canada, Lithuania, Netherlands)
+- [x] US: Added 9 CFR 590.910(a), FSIS/FDA jurisdiction split, tariff layers (301+IEEPA+reciprocal)
+- [x] Both EN and ZH fully updated, sources expanded to 20-25+ URLs each
+
+### GACC Guide Enhancements (commit 4abc4eb)
+- [x] Added **Decree 280** (replacing Decree 248, effective June 1, 2026) with PDF URL
+- [x] Added CIFER registration portal URL (cifer.singlewindow.cn)
+- [x] Expanded GB standard descriptions (GB 2749-2015 full scope, GB 2762-2025, GB 31650.1-2022, GB 2763-2021 specifics)
+- [x] Added GACC service guide URLs for export/overseas registration
+- [x] Both EN and ZH updated
+
+### Build Verification
+- 26 pages generated successfully
+- Build time: ~4.5s
+
+---
+
 ## Next Phase Ideas (Phase 4)
 - Add P1 content: South Korea, GCC markets
 - SEO setup: sitemap, Open Graph meta tags

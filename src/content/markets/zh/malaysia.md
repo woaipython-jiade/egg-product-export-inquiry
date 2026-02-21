@@ -45,7 +45,7 @@ DVS是蛋品进口的**首要把关机构**。中国加工设施须经DVS注册�
 
 | 步骤 | 操作 | 详情 |
 |------|------|------|
-| 1 | 填写申请表 | **DVS/BRV/APP/1a** — [申请表（第3版，2023年3月）](https://www.dvs.gov.my/dvs/resources/user_1/2023/BRV/BORANG/APPLICATION_FORM_FOR_EXPORT_MEAT,_POULTRY,_MILK,_EGG_AND_PRODUCTS_TO_MALAYSIA_NEW_REVISED_3_MARCH_2023.1a_.pdf) |
+| 1 | 填写申请表 | **DVS/BRV/APP/1a**（第5版，2025年1月）— [续期申请表（第5版）](https://www.dvs.gov.my/dvs/resources/user_1/2025/BRV/LOJI%20LUAR%20NEGARA/2._APPLICATION_FORM_FOR_RENEWAL_EXPORT_MEAT,_POULTRY,_MILK,_EGG_AND_PRODUCTS_TO_MALAYSIA_RENEWAL_rev_.5_.pdf) |
 | 2 | GACC背书 | 申请表须经中国兽医主管机构（GACC）签字/背书 |
 | 3 | DVS风险评估 | 马来西亚DVS进行基于SPS的评估 |
 | 4 | 现场检查 | DVS可能赴中国工厂进行现场检查 |
@@ -55,9 +55,9 @@ DVS是蛋品进口的**首要把关机构**。中国加工设施须经DVS注册�
 
 ### 兽医卫生证书（逐批要求）
 
-每批货物须附有GACC签发的**英文官方兽医卫生证书（VHC）**，证明：
+每批货物须附有GACC签发的**英文官方兽医卫生证书（VHC）**，**须在发运7日内签发**，证明：
 
-1. 原产国/地区在出口日期前28天内持续**无高致病性禽流感（HPAI）和新城疫**
+1. 原产国/地区在过去**12个月内**持续**无禽流感、新城疫和禽霍乱**；出口日期前28天内无暴发
 2. 蛋来自经认可的**无鸡白痢沙门氏菌和肠炎沙门氏菌**的养殖场；出口前6个月内农场未诊断出传染性禽病
 3. 蛋品在政府兽医监督下**经批准的加工厂**加工
 4. 产品经**加工处理确保灭活禽流感病毒和新城疫病毒**（符合WOAH建议）
@@ -248,7 +248,7 @@ MAQIS官员在入境口岸进行：
 - [ ] 准备符合1985年《食品条例》（第171-178条）的**马来语或英语**标签
 - [ ] 包含营养面板（能量、蛋白质、碳水化合物、糖、脂肪、钠）和过敏原声明
 - [ ] 关注HPAI动态和DVS公告应对贸易中断
-- [ ] 向[马来西亚关税局](https://www.customs.gov.my)查询当前进口税率
+- [ ] 向[JKDM HS Explorer](https://ezhs.customs.gov.my/)查询当前进口税率——考虑使用ACFTA原产地证书（Form E）享受优惠税率
 
 ---
 
@@ -257,7 +257,10 @@ MAQIS官员在入境口岸进行：
 ### DVS（设施注册）
 - DVS R5——蛋品进口要求（2024年7月修订）：[PDF](https://www.dvs.gov.my/dvs/resources/user_1/2025/BKPBV/IMPORT%20EKSPORT/(R5)_Egg_Products-Any_Country-_Revised_290724.pdf)
 - DVS通用程序——肉类、禽类、乳制品、蛋品进口（2023年3月）：[PDF](https://www.dvs.gov.my/dvs/resources/user_1/2023/BRV/LOJI%20LUAR%20NEGARA/UPDATE_MARCH_2023.GENERAL_PROCEDURE_IMPORT_MEAT,_POULTRY,_MILK_AND_EGG_PRODUCTS_TO_MALAYSIA_.REV_1_._30012023_.pdf)
-- DVS申请表（第3版，2023年3月）：[PDF](https://www.dvs.gov.my/dvs/resources/user_1/2023/BRV/BORANG/APPLICATION_FORM_FOR_EXPORT_MEAT,_POULTRY,_MILK,_EGG_AND_PRODUCTS_TO_MALAYSIA_NEW_REVISED_3_MARCH_2023.1a_.pdf)
+- DVS申请表——续期（第5版，2025年1月）：[PDF](https://www.dvs.gov.my/dvs/resources/user_1/2025/BRV/LOJI%20LUAR%20NEGARA/2._APPLICATION_FORM_FOR_RENEWAL_EXPORT_MEAT,_POULTRY,_MILK,_EGG_AND_PRODUCTS_TO_MALAYSIA_RENEWAL_rev_.5_.pdf)
+- DVS进出口门户：[https://www.dvs.gov.my/index.php/pages/view/1941](https://www.dvs.gov.my/index.php/pages/view/1941)
+- DVS已注册机构——蛋品（2021年6月）：[PDF](https://www.dvs.gov.my/dvs/resources/user_1/2021/BKPBV/PENGURUSAN%20IMPORT%20EKSPORT/LIST_OF_REGISTERED_ESTABLISHMENTS_EGG_PRODUCTS_JUNE_2021.pdf)
+- myTRADELINK — DVS：[https://www.mytradelink.gov.my/dvs](https://www.mytradelink.gov.my/dvs)
 
 ### JAKIM（清真认证）
 - JAKIM清真门户：[https://myehalal.halal.gov.my/portal-halal/v1/](https://myehalal.halal.gov.my/portal-halal/v1/)
@@ -266,6 +269,7 @@ MAQIS官员在入境口岸进行：
 
 ### MAQIS（进口许可与检查）
 - MAQIS门户：[https://www.maqis.gov.my](https://www.maqis.gov.my)
+- MAQIS许可申请页面：[https://www.maqis.gov.my/index.php/permohonan-permit/](https://www.maqis.gov.my/index.php/permohonan-permit/)
 - MAQIS e-Permit系统：[https://newepermit2.dagangnet.com.my/epermit/html/login](https://newepermit2.dagangnet.com.my/epermit/html/login)
 - MAQIS SPEED注册：[https://imaqis.maqis.gov.my/SPEED](https://imaqis.maqis.gov.my/SPEED/#!/login)
 - MAQIS费用标准：[https://www.maqis.gov.my/index.php/fi-dan-caj/](https://www.maqis.gov.my/index.php/fi-dan-caj/)
@@ -274,6 +278,13 @@ MAQIS官员在入境口岸进行：
 - 1985年《食品条例》（2024年10月更新）：[MOH PDF](https://hq.moh.gov.my/fsq/xs/dl.php?filename=Food+Regulation+1985+Update+291024+(PUA+209_2020).pdf)
 - FOSIM系统：[http://fsis2.moh.gov.my/fosimv2/](http://fsis2.moh.gov.my/fosimv2/)
 
+### 关税与贸易
+- JKDM HS Explorer（马来西亚皇家关税局税则查询）：[https://ezhs.customs.gov.my/](https://ezhs.customs.gov.my/)
+- MySST门户（销售与服务税）：[https://mysst.customs.gov.my/](https://mysst.customs.gov.my/)
+- MATRADE税则代码参考：[https://www.matrade.gov.my/en/export-to-the-world/getting-started-page/tariff-code-references](https://www.matrade.gov.my/en/export-to-the-world/getting-started-page/tariff-code-references)
+- WTO马来西亚关税概况：[https://www.wto.org/english/tratop_e/tariffs_e/tariff_profiles_e/mys_e.pdf](https://www.wto.org/english/tratop_e/tariffs_e/tariff_profiles_e/mys_e.pdf)
+
 ### 其他
-- 马来西亚皇家关税局——税则：[https://www.customs.gov.my](https://www.customs.gov.my)
+- 农业部——进口项目：[https://www.kpkm.gov.my/en/programs-and-initiatives/myagro-trade/import](https://www.kpkm.gov.my/en/programs-and-initiatives/myagro-trade/import)
 - 海关总署令第249号：[https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
+- FSQD——食品条例门户：[https://hq.moh.gov.my/fsq/peraturanperaturan-makanan-1985](https://hq.moh.gov.my/fsq/peraturanperaturan-makanan-1985)
