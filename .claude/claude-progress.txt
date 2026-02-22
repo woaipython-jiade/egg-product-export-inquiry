@@ -214,10 +214,39 @@ Status: COMPLETE
 
 ---
 
-## Next Phase Ideas (Phase 5)
-- SEO setup: sitemap, Open Graph meta tags
+## Phase 5: SEO, Legal Disclaimer & Launch Readiness
+Status: COMPLETE
+
+### SEO Infrastructure
+- [x] Installed @astrojs/sitemap integration
+- [x] Configured site URL (placeholder: https://example.com)
+- [x] sitemap-index.xml auto-generated at build
+- [x] Created public/robots.txt referencing sitemap
+- [x] Created public/og-default.svg (1200x630 social sharing fallback)
+- [x] Added canonical URL via Astro.url
+- [x] Added hreflang alternates (en, zh, x-default → en)
+- [x] Added Open Graph meta tags (title, description, image, url, type, locale)
+- [x] Added Twitter Card meta tags (summary_large_image)
+- [x] BaseLayout accepts new props: canonicalUrl, ogImage, ogType
+
+### Legal & 404 Pages
+- [x] Legal disclaimer page (EN: /en/disclaimer/, ZH: /zh/disclaimer/)
+  - 5 sections: General Info, Accuracy, No Professional Advice, External Links, Regulatory Changes
+- [x] 404 page — bilingual static (EN + ZH back-to-home buttons)
+- [x] Footer updated with clickable "Disclaimer" link (locale-aware)
+- [x] i18n keys added: legal.*, notFound.*, footer.legal
+
+### Build Verification
+- 33 pages generated successfully (30 + 2 disclaimer + 1 404)
+- Build time: ~4.5s
+- 0 errors, 0 warnings, 0 hints
+- sitemap-index.xml generated in dist/
+
+---
+
+## Next Phase Ideas (Phase 6)
 - Production deployment (HK VPS + CDN)
-- Legal disclaimer page
+- Swap placeholder domain (example.com → real domain)
 - Search functionality
 - Verify all external URLs are live and correct
 - Add remaining P2 markets: Australia, New Zealand, Canada

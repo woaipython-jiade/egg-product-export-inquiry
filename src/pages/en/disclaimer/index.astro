@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { useTranslations } from '../../../i18n/ui';
+
+const t = useTranslations('en');
+
+const sections = [
+  { title: t('legal.section.general'), content: t('legal.disclaimer.general') },
+  { title: t('legal.section.accuracy'), content: t('legal.disclaimer.accuracy') },
+  { title: t('legal.section.professional'), content: t('legal.disclaimer.professional') },
+  { title: t('legal.section.links'), content: t('legal.disclaimer.links') },
+  { title: t('legal.section.changes'), content: t('legal.disclaimer.changes') },
+];
+---
+
+<BaseLayout title={t('legal.title')}>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+    <h1 class="text-3xl font-bold text-slate-900 mb-2">{t('legal.title')}</h1>
+    <p class="text-sm text-slate-500 mb-8">{t('legal.lastUpdated')}</p>
+
+    <div class="prose prose-slate max-w-none">
+      {sections.map((section) => (
+        <section class="mb-8">
+          <h2 class="text-xl font-semibold text-slate-800 mb-3">{section.title}</h2>
+          <p class="text-slate-600 leading-relaxed">{section.content}</p>
+        </section>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

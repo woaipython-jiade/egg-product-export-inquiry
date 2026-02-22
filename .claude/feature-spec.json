@@ -1,6 +1,6 @@
 {
   "project": "egg-product-export-inquiry",
-  "phase": 4,
+  "phase": 5,
   "status": "complete",
   "features": {
     "astro-scaffold": {
@@ -36,7 +36,7 @@
     },
     "pages": {
       "status": "complete",
-      "count": 26,
+      "count": 33,
       "routes": [
         "/",
         "/en/",
@@ -50,8 +50,30 @@
         "/en/guides/[slug]",
         "/zh/guides/[slug]",
         "/en/hs-codes/",
-        "/zh/hs-codes/"
+        "/zh/hs-codes/",
+        "/en/disclaimer/",
+        "/zh/disclaimer/",
+        "/404"
       ]
+    },
+    "seo": {
+      "status": "complete",
+      "sitemap": "@astrojs/sitemap",
+      "siteUrl": "https://example.com (placeholder)",
+      "robotsTxt": "public/robots.txt",
+      "ogImage": "public/og-default.svg",
+      "metaTags": ["canonical", "hreflang", "og:*", "twitter:*"]
+    },
+    "legal": {
+      "status": "complete",
+      "disclaimerPages": ["/en/disclaimer/", "/zh/disclaimer/"],
+      "sections": ["general", "accuracy", "professional", "links", "changes"],
+      "footerLink": true
+    },
+    "notFoundPage": {
+      "status": "complete",
+      "bilingual": true,
+      "staticRendered": true
     },
     "content": {
       "markets": [
@@ -89,33 +111,16 @@
       "description": "All content rewritten with specific official regulatory references, source URLs, and actionable details",
       "filesRewritten": 18,
       "marketsRewritten": ["hong-kong-macau", "singapore", "japan", "malaysia", "eu", "us"],
-      "guidesRewritten": ["gacc-registration", "health-certificate", "residue-compliance"],
-      "keyAdditions": [
-        "Specific regulation numbers (Cap. 132AK, EU 2021/405, 21 USC §1031, etc.)",
-        "Official portal URLs for each regulatory authority",
-        "Exact MRL values and testing methods with GB standard numbers",
-        "Form numbers and fee amounts where available",
-        "Sources section with citation URLs on every page"
-      ]
+      "guidesRewritten": ["gacc-registration", "health-certificate", "residue-compliance"]
     },
     "research-agent-integration": {
       "status": "complete",
-      "description": "Background research agents verified content against official sources; factual corrections applied",
-      "commits": ["cf99118", "528e9cc", "b876696", "3f1cecb"],
-      "corrections": {
-        "gacc": "5-year validity, Decree 249 only, export registration system URL, Single Window modules",
-        "hong-kong-macau": "Cap. 612 vs 132AK separation, Cap. 132AF for melamine, Macau legislation added",
-        "malaysia": "JAKIM CIA withdrawal (Feb 2025), 5 remaining halal CBs, DVS/MAQIS system URLs",
-        "japan": "Article 27 legal basis, ~760+ substances, FAINS timing, escalation mechanism, MRL resources table, CAA details",
-        "eu": "Annex -I (not XVII), Decision 2011/163 residue plan, Reg 2025/354 update, RASFF 2024.7729, MRL regs 396/2005 + 37/2010, TRACES-NT details",
-        "us": "3 eligible countries named, 9 CFR 590.910(a), FSIS/FDA jurisdiction split, tariff layers (301+IEEPA+reciprocal), China meat equivalence ≠ egg",
-        "gacc-guides": "Decree 280 replacing 248 (June 2026), CIFER registration portal, GB standard scope details, service guide URLs"
-      }
+      "description": "Background research agents verified content against official sources; factual corrections applied"
     }
   },
   "buildVerification": {
     "buildPasses": true,
-    "pagesGenerated": 30,
-    "lastVerified": "2026-02-20"
+    "pagesGenerated": 33,
+    "lastVerified": "2026-02-21"
   }
 }
