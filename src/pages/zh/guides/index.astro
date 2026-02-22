@@ -8,27 +8,33 @@ const allGuides = await getCollection('guides', ({ id }) => id.startsWith('zh/')
 ---
 
 <BaseLayout title={t('guides.title')}>
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
-    <h1 class="text-3xl font-bold text-slate-900 mb-2">{t('guides.title')}</h1>
-    <p class="text-slate-600 mb-8">{t('guides.subtitle')}</p>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-14">
+    <div class="mb-10 animate-fade-up">
+      <h1 class="text-3xl sm:text-4xl font-display font-bold text-slate-900 mb-3">{t('guides.title')}</h1>
+      <p class="text-slate-600 max-w-2xl">{t('guides.subtitle')}</p>
+    </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {allGuides.sort((a, b) => a.data.priority - b.data.priority).map((guide) => (
-        <a href={`/zh/guides/${guide.data.slug}`} class="block bg-white border border-slate-200 rounded-lg p-5 hover:border-primary-300 hover:shadow-md transition-all duration-200 cursor-pointer group">
-          <div class="flex items-start gap-3">
-            <span class="inline-flex items-center justify-center w-10 h-10 bg-primary-100 text-primary-700 rounded-lg flex-shrink-0">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+      {allGuides.sort((a, b) => a.data.priority - b.data.priority).map((guide, i) => (
+        <a
+          href={`/zh/guides/${guide.data.slug}`}
+          class="reveal block bg-white border border-slate-200 rounded-xl p-6 hover:border-primary-200 hover:shadow-lg hover:shadow-primary-500/5 hover:-translate-y-0.5 transition-all duration-300 cursor-pointer group"
+          style={`transition-delay: ${i * 100}ms;`}
+        >
+          <div class="flex items-start gap-4">
+            <span class="inline-flex items-center justify-center w-10 h-10 bg-primary-100 text-primary-700 rounded-xl flex-shrink-0 group-hover:bg-primary-600 group-hover:text-white transition-colors duration-300">
               <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
               </svg>
             </span>
             <div>
-              <h3 class="text-lg font-semibold text-slate-900 group-hover:text-primary-700 transition-colors duration-200">
+              <h3 class="text-lg font-display font-semibold text-slate-900 group-hover:text-primary-700 transition-colors duration-200">
                 {guide.data.titleZh}
               </h3>
-              <p class="text-xs text-slate-500 mt-0.5 uppercase tracking-wide">{guide.data.category}</p>
-              <p class="text-sm text-slate-600 mt-2">{guide.data.summaryZh}</p>
-              <span class="inline-block mt-3 text-sm text-primary-600 font-medium group-hover:text-primary-700">
-                {t('readmore')} &rarr;
+              <p class="text-xs text-primary-600/70 font-medium uppercase tracking-wide mt-1">{guide.data.category}</p>
+              <p class="text-sm text-slate-600 mt-2 leading-relaxed">{guide.data.summaryZh}</p>
+              <span class="inline-flex items-center text-sm text-primary-600 font-medium mt-4 group-hover:gap-2 gap-1 transition-all duration-200">
+                {t('readmore')} <span>&rarr;</span>
               </span>
             </div>
           </div>

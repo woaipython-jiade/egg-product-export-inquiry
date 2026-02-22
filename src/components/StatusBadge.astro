@@ -13,13 +13,19 @@ const labels = {
 };
 
 const styles = {
-  Open: 'bg-status-open-bg text-status-open border-status-open/30',
-  Restricted: 'bg-status-restricted-bg text-status-restricted border-status-restricted/30',
-  Closed: 'bg-status-closed-bg text-status-closed border-status-closed/30',
+  Open: 'bg-emerald-50 text-emerald-700 border-emerald-200/60',
+  Restricted: 'bg-amber-50 text-amber-700 border-amber-200/60',
+  Closed: 'bg-red-50 text-red-700 border-red-200/60',
+};
+
+const dotStyles = {
+  Open: 'bg-emerald-500',
+  Restricted: 'bg-amber-500',
+  Closed: 'bg-red-500',
 };
 ---
 
-<span class={`inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-sm font-medium border ${styles[status]}`}>
-  <span class={`w-1.5 h-1.5 rounded-full ${status === 'Open' ? 'bg-status-open' : status === 'Restricted' ? 'bg-status-restricted' : 'bg-status-closed'}`}></span>
+<span class={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-xs font-medium border ${styles[status]}`}>
+  <span class={`w-1.5 h-1.5 rounded-full ${dotStyles[status]}`}></span>
   {labels[status][lang]}
 </span>
