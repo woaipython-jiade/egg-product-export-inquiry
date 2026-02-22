@@ -216,7 +216,7 @@ MAFF维护基于HPAI暴发的**动态暂停清单**：
 ### 标签
 - 消费者厅 — 食品表示（英文）：[https://www.caa.go.jp/en/policy/food_labeling/](https://www.caa.go.jp/en/policy/food_labeling/)
 - 消费者厅 — 日本食品表示制度（PDF，2024年4月）：[https://www.caa.go.jp/en/policy/food_labeling/assets/food_labeling_cms204_240425_01.pdf](https://www.caa.go.jp/en/policy/food_labeling/assets/food_labeling_cms204_240425_01.pdf)
-- JETRO — 食品规格与标准（英文）：[https://www.jetro.go.jp/ext_images/en/reports/regulations/pdf/foodext2010e.pdf](https://www.jetro.go.jp/ext_images/en/reports/regulations/pdf/foodext2010e.pdf)
+- 厚生劳动省 — 食品安全（规格与标准）：[https://www.mhlw.go.jp/english/topics/foodsafety/](https://www.mhlw.go.jp/english/topics/foodsafety/)
 
 ### 其他
 - NACCS系统：[https://www.naccs.jp/e/](https://www.naccs.jp/e/)

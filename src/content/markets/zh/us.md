@@ -74,7 +74,7 @@ FSIS维护的蛋品等效国家名单非常短：
 
 根据**《联邦食品、药品和化妆品法》**（21 USC §350d）和**21 CFR第1部分H子部分**：
 - 所有外国食品设施须通过**FURLS**系统向FDA注册
-- 注册网址：[https://www.fda.gov/food/online-registration-food-facilities](https://www.fda.gov/food/online-registration-food-facilities)
+- 注册网址：[https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions)
 - 每两年续期一次
 - 须指定美国代理人
 - 未注册可能导致边境扣留
@@ -192,7 +192,7 @@ FSIS维护的蛋品等效国家名单非常短：
 - 9 CFR 590 B子部分（进口）：[https://www.ecfr.gov/current/title-9/chapter-III/subchapter-I/part-590/subpart-B](https://www.ecfr.gov/current/title-9/chapter-III/subchapter-I/part-590/subpart-B)
 
 ### FDA
-- FDA — 设施注册（FURLS）：[https://www.fda.gov/food/online-registration-food-facilities](https://www.fda.gov/food/online-registration-food-facilities)
+- FDA — 设施注册（FURLS）：[https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions)
 - FDA — FSVP关键要求：[https://www.fda.gov/food/food-safety-modernization-act-fsma/final-rule-foreign-supplier-verification-programs-fsvp-key-requirements](https://www.fda.gov/food/food-safety-modernization-act-fsma/final-rule-foreign-supplier-verification-programs-fsvp-key-requirements)
 - FDA — FSVP指南：[https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-foreign-supplier-verification-programs-importers-food-humans-and-animals](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-foreign-supplier-verification-programs-importers-food-humans-and-animals)
 - 21 CFR第1部分H子部分（设施注册）：[https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-1/subpart-H](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-1/subpart-H)

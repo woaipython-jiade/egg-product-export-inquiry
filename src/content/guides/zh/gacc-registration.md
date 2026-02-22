@@ -15,7 +15,7 @@ summaryZh: "根据海关总署第249号令注册蛋品出口设施的分步指�
 - **海关总署令第249号** —《中华人民共和国进出口食品安全管理办法》— 自**2022年1月1日**起施行。这是现行涵盖出口食品生产企业备案、出口食品检验和卫生证书签发的综合性法规。取代了此前的单行规定（原质检总局令第142号，经海关总署令第243号修订）。
   - 官方全文：[国务院公报](https://www.gov.cn/gongbao/content/2021/content_5621202.htm) | [海关总署](http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html)
 
-> **关于第248号令/第280号令**：海关总署令第248号规定的是*境外*食品生产企业向中国出口的注册——不直接适用于中国出口商，但进口国可能在互惠安排中参考。蛋与蛋制品属于需**主管部门推荐**的18类产品之一（第7条）。**重要更新**：第248号令将被**第280号令**取代（2025年10月14日发布），**2026年6月1日**起施行。第280号令将固定的18类产品清单改为动态调整目录，并引入自动5年续期机制。全文：[第280号令（PDF）](http://www.customs.gov.cn/customs/302249/2480148/6775328/2025101416235844898.pdf)
+> **关于第248号令/第280号令**：海关总署令第248号规定的是*境外*食品生产企业向中国出口的注册——不直接适用于中国出口商，但进口国可能在互惠安排中参考。蛋与蛋制品属于需**主管部门推荐**的18类产品之一（第7条）。**重要更新**：第248号令将被**第280号令**取代（2025年10月14日发布），**2026年6月1日**起施行。第280号令将固定的18类产品清单改为动态调整目录，并引入自动5年续期机制。全文：[第280号令（PDF）](https://www.customs.gov.cn/customs/302249/2480148/6775328/index.html)
 
 **第249号令要求**所有出口食品生产企业通过地方海关向海关总署备案。海关自受理之日起**20个工作日**内完成审核。
 
@@ -224,9 +224,9 @@ CIFER不是国内出口备案系统，但有助于了解互惠层面——进口
 - 海关总署令第249号——进出口食品安全管理办法（国务院公报全文）：[https://www.gov.cn/gongbao/content/2021/content_5621202.htm](https://www.gov.cn/gongbao/content/2021/content_5621202.htm)
 - 海关总署令第249号（海关总署网站）：[http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html](http://www.customs.gov.cn/customs/302249/302266/302267/3625391/index.html)
 - 海关总署令第248号——进口食品境外生产企业注册管理规定：[https://www.gov.cn/gongbao/content/2021/content_5616161.htm](https://www.gov.cn/gongbao/content/2021/content_5616161.htm)
-- 海关总署令第280号——取代第248号令（2026年6月1日生效，PDF）：[http://www.customs.gov.cn/customs/302249/2480148/6775328/2025101416235844898.pdf](http://www.customs.gov.cn/customs/302249/2480148/6775328/2025101416235844898.pdf)
+- 海关总署令第280号——取代第248号令（2026年6月1日生效）：[https://www.customs.gov.cn/customs/302249/2480148/6775328/index.html](https://www.customs.gov.cn/customs/302249/2480148/6775328/index.html)
 - 海关总署出口食品生产企业备案办事指南：[https://online.customs.gov.cn/static/pages/guides/000629009002/000629009002.html](https://online.customs.gov.cn/static/pages/guides/000629009002/000629009002.html)
-- 海关总署进口食品境外生产企业注册办事指南：[https://online.customs.gov.cn/static/pages/guides/000129012000/000129012000.html](https://online.customs.gov.cn/static/pages/guides/000129012000/000129012000.html)
+- 海关总署办事指南门户（含境外企业注册指南）：[https://online.customs.gov.cn/static/pages/treeGuide.html](https://online.customs.gov.cn/static/pages/treeGuide.html)
 - CIFER注册申报门户（境外设施注册）：[https://cifer.singlewindow.cn/](https://cifer.singlewindow.cn/)
 - 出口食品生产企业备案管理系统：`http://qgs.customs.gov.cn:10081/efpe/clogin`
 - 国家标准信息公共服务平台（搜索和元数据）：[https://std.samr.gov.cn](https://std.samr.gov.cn)

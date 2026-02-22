@@ -131,7 +131,7 @@ The European Commission's **Health and Food Audits and Analysis Directorate** (f
 - Traceability and recall systems
 
 **DG SANTE Audits page**: [https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis_en](https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis_en)
-**Audit Reports Database**: [https://ec.europa.eu/food/audits-analysis/audit_reports/index.cfm](https://ec.europa.eu/food/audits-analysis/audit_reports/index.cfm)
+**Audit Reports Database**: [https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis/annual-reports_en](https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis/annual-reports_en)
 **Country Profiles**: [https://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm](https://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm)
 
 ### Step 4: Equivalence Determination
@@ -220,7 +220,7 @@ The EU's **Rapid Alert System for Food and Feed (RASFF)** has recorded alerts in
 
 ### DG SANTE & Audit
 - DG SANTE Health and Food Audits: [https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis_en](https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis_en)
-- Audit Reports Database: [https://ec.europa.eu/food/audits-analysis/audit_reports/index.cfm](https://ec.europa.eu/food/audits-analysis/audit_reports/index.cfm)
+- Audit Reports Database: [https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis/annual-reports_en](https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis/annual-reports_en)
 - Country Profiles: [https://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm](https://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm)
 - Third Country Guidance (PDF): [https://food.ec.europa.eu/system/files/2016-10/ia_ic_guidance_thirdcountries2009_en.pdf](https://food.ec.europa.eu/system/files/2016-10/ia_ic_guidance_thirdcountries2009_en.pdf)
 

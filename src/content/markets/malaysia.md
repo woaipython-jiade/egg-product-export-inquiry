@@ -113,7 +113,7 @@ Before applying for permits, the Malaysian importer must register:
 | **SPEED** | [imaqis.maqis.gov.my/SPEED](https://imaqis.maqis.gov.my/SPEED/#!/login) | Importer/exporter/agent registration |
 | **FOSIM** | [fsis2.moh.gov.my/fosimv2](http://fsis2.moh.gov.my/fosimv2/) | MOH Food Safety Information System |
 
-- Registration info: [MAQIS Importer Registration](https://www.maqis.gov.my/en/pendaftaran-pengimport-pengeksport-dan-ejen)
+- Registration info: [MAQIS Importer Registration](https://imaqis.maqis.gov.my/SPEED/#!/login)
 - Importing agricultural products without registration is **prohibited**.
 
 ### Per-Consignment Import Permit
@@ -282,7 +282,7 @@ Full text: [Food Regulations 1985 (updated October 2024)](https://hq.moh.gov.my/
 ### Tariffs & Trade
 - JKDM HS Explorer (Royal Malaysian Customs tariff lookup): [https://ezhs.customs.gov.my/](https://ezhs.customs.gov.my/)
 - MySST Portal (Sales and Service Tax): [https://mysst.customs.gov.my/](https://mysst.customs.gov.my/)
-- MATRADE Tariff Code References: [https://www.matrade.gov.my/en/export-to-the-world/getting-started-page/tariff-code-references](https://www.matrade.gov.my/en/export-to-the-world/getting-started-page/tariff-code-references)
+- MATRADE Getting Started (includes Tariff Code info): [https://www.matrade.gov.my/en/getting-started](https://www.matrade.gov.my/en/getting-started)
 - WTO Malaysia Tariff Profile: [https://www.wto.org/english/tratop_e/tariffs_e/tariff_profiles_e/mys_e.pdf](https://www.wto.org/english/tratop_e/tariffs_e/tariff_profiles_e/mys_e.pdf)
 
 ### Other

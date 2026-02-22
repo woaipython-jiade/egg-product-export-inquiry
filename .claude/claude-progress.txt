@@ -244,9 +244,37 @@ Status: COMPLETE
 
 ---
 
-## Next Phase Ideas (Phase 6)
+## Phase 6: External URL Verification & Fix
+Status: COMPLETE
+
+### URL Verification
+- [x] Extracted 220 unique URLs from 11 EN content files
+- [x] Batch-checked all URLs via curl with browser User-Agent
+- [x] Classified results: 188 OK, 9 broken (404), 7 blocked (403), 11 timeout (000), 2 server error (500), 1 precondition (412), 1 redirect (301)
+
+### Broken URLs Fixed (9 total, all mirrored EN + ZH)
+- [x] EU: `ec.europa.eu/food/audits-analysis/audit_reports` → `food.ec.europa.eu/.../annual-reports_en`
+- [x] US: `fda.gov/food/online-registration-food-facilities` → `fda.gov/.../registration-food-facilities-and-other-submissions`
+- [x] South Korea: `foodsafetykorea.go.kr/residue/prd/prd/prdList.do` → `.../residue/main.do`
+- [x] Japan: JETRO broken PDF → MHLW food safety portal
+- [x] Malaysia: MAQIS broken registration page → SPEED portal login
+- [x] Malaysia: MATRADE broken tariff page → Getting Started page
+- [x] GCC: SFDA `/food-recalls` → `/warnings`
+- [x] GACC: Decree 280 broken PDF → announcement page
+- [x] GACC: Overseas registration guide → Service guides portal
+
+### Verification Report
+- [x] Created `.claude/url-verification-report.md` with full results
+
+### Build Verification
+- 33 pages generated successfully
+- 0 errors, 0 warnings, 0 hints
+- Build time: ~4.6s
+
+---
+
+## Next Phase Ideas (Phase 7)
 - Production deployment (HK VPS + CDN)
 - Swap placeholder domain (example.com → real domain)
 - Search functionality
-- Verify all external URLs are live and correct
 - Add remaining P2 markets: Australia, New Zealand, Canada

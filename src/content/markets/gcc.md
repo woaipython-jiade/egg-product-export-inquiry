@@ -300,7 +300,7 @@ GCC member states maintain import restrictions on poultry and egg products from 
 ### Verification
 
 - Check with each target member state's authority for current HPAI suspension status
-- SFDA announcements: [SFDA Recalls & Alerts](https://www.sfda.gov.sa/en/food-recalls)
+- SFDA announcements: [SFDA Recalls & Alerts](https://www.sfda.gov.sa/en/warnings)
 - MOCCAE announcements: [MOCCAE News](https://www.moccae.gov.ae/en/media-center/news.aspx)
 
 ---
@@ -371,7 +371,7 @@ GCC member states maintain import restrictions on poultry and egg products from 
 - SFDA Imported Food: [https://sfda.gov.sa/en/imported-food](https://sfda.gov.sa/en/imported-food)
 - SFDA Food Clearance Conditions & Requirements (2025 PDF): [https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf](https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf)
 - SABER Platform: [https://saber.sa/](https://saber.sa/)
-- SFDA Recalls & Alerts: [https://www.sfda.gov.sa/en/food-recalls](https://www.sfda.gov.sa/en/food-recalls)
+- SFDA Recalls & Alerts: [https://www.sfda.gov.sa/en/warnings](https://www.sfda.gov.sa/en/warnings)
 - ZATCA Tariff Exemptions Inquiry: [https://zatca.gov.sa/en/eServices/Pages/eServices_286.aspx](https://zatca.gov.sa/en/eServices/Pages/eServices_286.aspx)
 - Saudi Arabia Standards & Trade Guide: [https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade](https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade)
 - Saudi Arabia Labeling Requirements: [https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements](https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements)

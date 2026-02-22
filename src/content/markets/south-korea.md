@@ -169,7 +169,7 @@ Korea's MRLs are generally **stricter than or equivalent to Codex standards**. T
 | Resource | URL | Notes |
 |----------|-----|-------|
 | **MFDS Residue Standards Database** | [https://www.foodsafetykorea.go.kr/residue/main.do](https://www.foodsafetykorea.go.kr/residue/main.do) | Authoritative source for Korean MRLs |
-| MFDS Pesticide MRLs (PLS) | [https://www.foodsafetykorea.go.kr/residue/prd/prd/prdList.do](https://www.foodsafetykorea.go.kr/residue/prd/prd/prdList.do) | Search by substance and food category |
+| MFDS Pesticide MRLs (PLS) | [https://www.foodsafetykorea.go.kr/residue/main.do](https://www.foodsafetykorea.go.kr/residue/main.do) | Search by substance and food category |
 | Korean Food Code | [https://www.foodsafetykorea.go.kr/foodcode/](https://www.foodsafetykorea.go.kr/foodcode/) | Complete food standards |
 
 ---

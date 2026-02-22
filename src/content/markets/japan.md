@@ -216,7 +216,7 @@ Failure to declare egg allergen is a serious violation.
 ### Labeling
 - CAA — Food Labeling (English): [https://www.caa.go.jp/en/policy/food_labeling/](https://www.caa.go.jp/en/policy/food_labeling/)
 - CAA — Japan's Food Labeling System (PDF, April 2024): [https://www.caa.go.jp/en/policy/food_labeling/assets/food_labeling_cms204_240425_01.pdf](https://www.caa.go.jp/en/policy/food_labeling/assets/food_labeling_cms204_240425_01.pdf)
-- JETRO — Specifications and Standards for Foods (English): [https://www.jetro.go.jp/ext_images/en/reports/regulations/pdf/foodext2010e.pdf](https://www.jetro.go.jp/ext_images/en/reports/regulations/pdf/foodext2010e.pdf)
+- MHLW — Food Safety (Specifications and Standards): [https://www.mhlw.go.jp/english/topics/foodsafety/](https://www.mhlw.go.jp/english/topics/foodsafety/)
 
 ### Other
 - NACCS System: [https://www.naccs.jp/e/](https://www.naccs.jp/e/)

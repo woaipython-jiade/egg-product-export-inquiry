@@ -74,7 +74,7 @@ For any egg-containing products that DO fall under FDA jurisdiction (shell eggs,
 
 Under the **Federal Food, Drug, and Cosmetic Act** (21 USC §350d) and **21 CFR Part 1, Subpart H**:
 - All foreign food facilities must register with FDA through **FURLS** (FDA Unified Registration and Listing System)
-- Registration URL: [https://www.fda.gov/food/online-registration-food-facilities](https://www.fda.gov/food/online-registration-food-facilities)
+- Registration URL: [https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions)
 - Biennial renewal required
 - US Agent must be designated
 - Failure to register can result in holds at the border
@@ -192,7 +192,7 @@ If US market access were obtained, egg products would need:
 - 9 CFR 590 Subpart B (Imports): [https://www.ecfr.gov/current/title-9/chapter-III/subchapter-I/part-590/subpart-B](https://www.ecfr.gov/current/title-9/chapter-III/subchapter-I/part-590/subpart-B)
 
 ### FDA
-- FDA — Facility Registration (FURLS): [https://www.fda.gov/food/online-registration-food-facilities](https://www.fda.gov/food/online-registration-food-facilities)
+- FDA — Facility Registration (FURLS): [https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions)
 - FDA — FSVP Key Requirements: [https://www.fda.gov/food/food-safety-modernization-act-fsma/final-rule-foreign-supplier-verification-programs-fsvp-key-requirements](https://www.fda.gov/food/food-safety-modernization-act-fsma/final-rule-foreign-supplier-verification-programs-fsvp-key-requirements)
 - FDA — FSVP Guidance: [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-foreign-supplier-verification-programs-importers-food-humans-and-animals](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-foreign-supplier-verification-programs-importers-food-humans-and-animals)
 - 21 CFR Part 1, Subpart H (Facility Registration): [https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-1/subpart-H](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-1/subpart-H)

@@ -128,7 +128,7 @@ summaryZh: "根据欧盟委员会实施条例（EU）2021/405（附件-I），�
 - 追溯和召回体系
 
 **DG SANTE审计页面**：[https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis_en](https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis_en)
-**审计报告数据库**：[https://ec.europa.eu/food/audits-analysis/audit_reports/index.cfm](https://ec.europa.eu/food/audits-analysis/audit_reports/index.cfm)
+**审计报告数据库**：[https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis/annual-reports_en](https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis/annual-reports_en)
 **国别档案**：[https://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm](https://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm)
 
 ### 第4步：等效认定
@@ -217,7 +217,7 @@ DG SANTE须认定中国蛋品食品安全体系提供与欧盟标准**等效的�
 
 ### DG SANTE与审计
 - DG SANTE卫生与食品审计：[https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis_en](https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis_en)
-- 审计报告数据库：[https://ec.europa.eu/food/audits-analysis/audit_reports/index.cfm](https://ec.europa.eu/food/audits-analysis/audit_reports/index.cfm)
+- 审计报告数据库：[https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis/annual-reports_en](https://food.ec.europa.eu/horizontal-topics/official-controls-and-enforcement/health-and-food-audits-and-analysis/annual-reports_en)
 - 国别档案：[https://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm](https://ec.europa.eu/food/audits-analysis/country_profiles/index.cfm)
 - 第三国指南（PDF）：[https://food.ec.europa.eu/system/files/2016-10/ia_ic_guidance_thirdcountries2009_en.pdf](https://food.ec.europa.eu/system/files/2016-10/ia_ic_guidance_thirdcountries2009_en.pdf)
 

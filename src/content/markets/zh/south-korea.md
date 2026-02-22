@@ -169,7 +169,7 @@ APQA（隶属农林畜产食品部MAFRA）是**国家准入的看门人**。任�
 | 资源 | 网址 | 说明 |
 |------|------|------|
 | **MFDS残留标准数据库** | [https://www.foodsafetykorea.go.kr/residue/main.do](https://www.foodsafetykorea.go.kr/residue/main.do) | 韩国MRL权威来源 |
-| MFDS农药MRL（PLS） | [https://www.foodsafetykorea.go.kr/residue/prd/prd/prdList.do](https://www.foodsafetykorea.go.kr/residue/prd/prd/prdList.do) | 按物质和食品类别搜索 |
+| MFDS农药MRL（PLS） | [https://www.foodsafetykorea.go.kr/residue/main.do](https://www.foodsafetykorea.go.kr/residue/main.do) | 按物质和食品类别搜索 |
 | 韩国食品公典 | [https://www.foodsafetykorea.go.kr/foodcode/](https://www.foodsafetykorea.go.kr/foodcode/) | 完整食品标准 |
 
 ---

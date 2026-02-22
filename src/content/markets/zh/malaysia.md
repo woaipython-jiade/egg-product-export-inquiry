@@ -113,7 +113,7 @@ DVS是蛋品进口的**首要把关机构**。中国加工设施须经DVS注册�
 | **SPEED** | [imaqis.maqis.gov.my/SPEED](https://imaqis.maqis.gov.my/SPEED/#!/login) | 进口商/出口商/代理注册 |
 | **FOSIM** | [fsis2.moh.gov.my/fosimv2](http://fsis2.moh.gov.my/fosimv2/) | 卫生部食品安全信息系统 |
 
-- 注册信息：[MAQIS进口商注册](https://www.maqis.gov.my/en/pendaftaran-pengimport-pengeksport-dan-ejen)
+- 注册信息：[MAQIS进口商注册](https://imaqis.maqis.gov.my/SPEED/#!/login)
 - 未注册进口农产品属**违法行为**。
 
 ### 逐批进口许可
@@ -281,7 +281,7 @@ MAQIS官员在入境口岸进行：
 ### 关税与贸易
 - JKDM HS Explorer（马来西亚皇家关税局税则查询）：[https://ezhs.customs.gov.my/](https://ezhs.customs.gov.my/)
 - MySST门户（销售与服务税）：[https://mysst.customs.gov.my/](https://mysst.customs.gov.my/)
-- MATRADE税则代码参考：[https://www.matrade.gov.my/en/export-to-the-world/getting-started-page/tariff-code-references](https://www.matrade.gov.my/en/export-to-the-world/getting-started-page/tariff-code-references)
+- MATRADE入门指南（含税则代码信息）：[https://www.matrade.gov.my/en/getting-started](https://www.matrade.gov.my/en/getting-started)
 - WTO马来西亚关税概况：[https://www.wto.org/english/tratop_e/tariffs_e/tariff_profiles_e/mys_e.pdf](https://www.wto.org/english/tratop_e/tariffs_e/tariff_profiles_e/mys_e.pdf)
 
 ### 其他

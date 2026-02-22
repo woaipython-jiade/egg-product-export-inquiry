@@ -300,7 +300,7 @@ GCC成员国对来自HPAI暴发国的禽类和蛋品实施进口限制：
 ### 核实
 
 - 与各目标成员国主管机构确认当前HPAI暂停状态
-- SFDA公告：[SFDA召回与警报](https://www.sfda.gov.sa/en/food-recalls)
+- SFDA公告：[SFDA召回与警报](https://www.sfda.gov.sa/en/warnings)
 - MOCCAE公告：[MOCCAE新闻](https://www.moccae.gov.ae/en/media-center/news.aspx)
 
 ---
@@ -371,7 +371,7 @@ GCC成员国对来自HPAI暴发国的禽类和蛋品实施进口限制：
 - SFDA进口食品：[https://sfda.gov.sa/en/imported-food](https://sfda.gov.sa/en/imported-food)
 - SFDA食品通关条件与要求（2025年PDF）：[https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf](https://www.sfda.gov.sa/sites/default/files/2025-04/ConditionsRequirementsFoodClearanceE.pdf)
 - SABER平台：[https://saber.sa/](https://saber.sa/)
-- SFDA召回与警报：[https://www.sfda.gov.sa/en/food-recalls](https://www.sfda.gov.sa/en/food-recalls)
+- SFDA召回与警报：[https://www.sfda.gov.sa/en/warnings](https://www.sfda.gov.sa/en/warnings)
 - ZATCA关税豁免查询：[https://zatca.gov.sa/en/eServices/Pages/eServices_286.aspx](https://zatca.gov.sa/en/eServices/Pages/eServices_286.aspx)
 - 沙特阿拉伯标准与贸易指南：[https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade](https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade)
 - 沙特阿拉伯标签要求：[https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements](https://www.trade.gov/country-commercial-guides/saudi-arabia-labelingmarking-requirements)
