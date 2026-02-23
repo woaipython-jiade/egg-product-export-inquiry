@@ -273,8 +273,41 @@ Status: COMPLETE
 
 ---
 
-## Next Phase Ideas (Phase 7)
+## Phase 7: P2 Markets — Australia, New Zealand, Canada
+Status: COMPLETE
+
+### New Market Pages (11 total, up from 8)
+- [x] Canada — Restricted (CFIA/AIRS licensing, SFCR framework, supply management TRQs)
+  - AIRS eligibility for specific egg products from China
+  - SFC Licence + Preventive Control Plan required
+  - Bilingual labeling (English + French) mandatory
+  - Health Canada MRLs, CFIA microbiological standards
+  - TRQ system with high over-quota tariffs
+- [x] Australia — Closed (no completed IRA for Chinese egg products)
+  - DAFF BICON system — no import conditions exist
+  - Biosecurity Act 2015 requires full IRA (3-7 year process)
+  - FSANZ food standards (shared with NZ)
+  - Strict CoOL labeling (bar chart + text statement)
+  - ChAFTA tariff concessions don't override biosecurity
+- [x] New Zealand — **Closed** (no negotiated veterinary certificate with MPI)
+  - IHS 2023 requires country-specific veterinary certificate — China has none
+  - Only USA, EU (via TRACES), Denmark, Netherlands, Canada approved
+  - Re-export through third country blocked by IHS clause 1.5
+  - FSANZ standards (shared with Australia)
+  - NZ-China FTA 0% tariffs but does NOT override biosecurity
+  - Status corrected from Restricted → Closed based on NZ research agent findings
+
+### Build Verification
+- 39 pages generated successfully (up from 33)
+- Build time: ~5.9s
+- 0 errors, 0 warnings, 0 hints
+- All 11 markets appear on index pages in correct priority order
+- EN + ZH pairs for all 3 new markets render correctly
+
+---
+
+## Next Phase Ideas (Phase 8)
 - Production deployment (HK VPS + CDN)
 - Swap placeholder domain (example.com → real domain)
 - Search functionality
-- Add remaining P2 markets: Australia, New Zealand, Canada
+- URL verification for new market pages
