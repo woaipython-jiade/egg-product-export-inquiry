@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://egg-product-export-inquiry-xod2ihks0o.edgeone.dev',
+  site: 'https://eggport.xyz',
   integrations: [tailwind(), sitemap()],
   i18n: {
     defaultLocale: 'en',
