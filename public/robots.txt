@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap-index.xml
+Sitemap: https://egg-product-export-inquiry-xod2ihks0o.edgeone.dev/sitemap-index.xml
