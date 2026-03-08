@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eggport.xyz/sitemap-index.xml
+Sitemap: https://egg-port.com/sitemap-index.xml
